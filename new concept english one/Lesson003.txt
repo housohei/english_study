@@ -1,0 +1,12 @@
+Lesson 003
+
+数字在后
+class four 
+room 204
+
+//祈使句在动作明确时动作可省略
+A cup of coffee,please.
+
+and //表示并列 前后同一属性
+teacher and student
+
