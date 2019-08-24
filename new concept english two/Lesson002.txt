@@ -135,6 +135,7 @@ some times //几次，几倍
 some time //一段时间
 sometime //将来或去过的某个时候
 I will be somebody sometime in the future.
+I saw him sometime last summer. //我去年夏天什么时候见过他
 
 go to bed //去睡觉
 fall asleep //睡着了
