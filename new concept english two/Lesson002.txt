@@ -6,7 +6,7 @@ I sometimes stay in bed until lunchtime.
 The street is full of cars from moring till/to night.
 
 //conj.
-//unitl 主句中的动词为延续性动词
+//until 主句中的动词为延续性动词
 //not...until 主句中动词为非延续性动词
 I stayed in bed until he woke me up.
 I didn't get up until he woke me up.
