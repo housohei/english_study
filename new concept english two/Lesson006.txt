@@ -222,6 +222,9 @@ The shopkeeper knocked 20% off the price of all his goods.
 
 “a chicken in every pot and a car in every garage.”  //吃穿不愁
 
+long before //从过去算起的某个时间前，常用于过去完成时。
+long ago //从现在算起若干时间以前，常用于过去时。
+
 
 
 
