@@ -217,6 +217,8 @@ This cake was made by my sister.
 be made for //为...做的
 This cake was made for you.
 
+belong //为不及物动词，因此不能用于被动语态，另外它是表示状态的动词，不是行为动词，所以不能用于进行时态
+       //常用时态为一般现在时和一般过去时
 belong to //属于（无被动）
 类似的词还有 happen / take place / have(有)
 
