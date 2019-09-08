@@ -172,7 +172,7 @@ be angry with
 
 /** 一般过去时和一般现在时的区别 **/
 Her brother was an artist. //已过世
-Her brother is an artist. //商建在
+Her brother is an artist. //尚建在
 
 That's all I had to say. //话已经说完
 That's all I have to say. //言之未尽
