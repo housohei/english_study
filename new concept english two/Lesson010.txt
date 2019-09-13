@@ -174,22 +174,30 @@ out of touch //失去联系
 /** 被动语态 **/
 People make history.
 //一般现在时
+//sth be + 过去分词
 ->History is made by the people.
+//一般过去时
+//sth was/were + 过去分词
 They completed the building last year.
 ->When was the building completed?
 //一般将来时
+//sth will be + 过去分词
 They won't allow you to take so much luggage with you.
 ->You won't be allowed to take so much luggage with you.
 //现在进行时
+//sth be being + 过去分词
 They are building a new railway.
 ->A new railway is being built.
 //过去进行时
+//sth was/were being + 过去分词
 They were widening the roads.
 ->The roads were being windened.
 //现在完成时
+//sth has/hava been + 过去分词
 They have redesigned the aircraft.
 ->The aricraft has been redesigned.
 //过去完成时
+//sth had been + 过去分词
 The factory had reduced production costs.
 ->The production costs had been reduced.
 
