@@ -163,36 +163,67 @@ rely
 vote
 write
 
-29:00
+own up to //承认错误
+own up to a fault
+Little william finally owned up to having taken his brother's ball.
 
+think of/ think about
+What do you think of my new dress? (认为)
+Someone must think of a plan quickly.(ivent, suggest)
 
+Please think of it.
+=Please think about it.
+=Please consider it.
 
+each other //两者间互相
+We should help each other.
+We should learn from each other.
+one another //两者或两者以上相互
 
+write to //给...写信
+write back //写回信
+write down //写下
+write off a debt //注销一笔债款
+be written in water //转瞬即逝
+His fear is written on his face.
 
+regular //adj.定期的，定时的
+a regular meeting //定期集会
+a regular customer //老主顾
+take regular exercise //定期做运动
 
+regular //adj.有秩序的，井井有条的，正规的，正式的
+a person with regular habits //生活有规律的人
+the regular army //正规军
+a regular cook //专业厨师
 
+cost
+1)v.花费
+sth cost sb some money
+How much does it cost for dry cleaning?
+Courtesy costs little and means much. //礼貌不费事而意义重大。
+2)n.费用，代价，成本
+meet the costs of university attendance
+All costs will be readily returned.
+spare no cost //不惜一切代价
 
+//修饰比较级的词
+much, far, a little, even, a bit, slightly, still, a lot, a great deal
 
+much more,
+a little hotter,
+far bigger,
+even less lucky,
 
+This text is a little/bit more difficult than the other one.
+Our room is slightly bigger than theirs.
+He is fat, but his brother is still fatter.
+I've made a lot more mistakes than you have.
+Their country is a good deal richer than ours.
+She has made far greater progress this term than she did last term.
+That one is no good.
+->This one is even worse.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+a species of //一种，一类
+This is a rare species of rose.
+There are more than two hundred and fifty species of shark.
