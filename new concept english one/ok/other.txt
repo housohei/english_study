@@ -1,0 +1,51 @@
+百度	
+housohei	Bd@8
+
+搜狗	
+housohei@126.com	Sg@8
+
+新东方	
+housohei	Xdf@8
+
+日本雅虎	
+baosp2013@yahoo.co.jp	Yahoo@133
+
+百度网盘	
+bapsp2013	Bd@3
+
+酷狗	
+housohei@163.com	Kg@6
+
+小米	
+baosp2013@yahoo.co.jp	Xm@3
+
+嘉定新城网	
+housohei	Jdxc3
+
+redhat	
+baosp2013	hou
+
+戴尔	
+baosp2013@Foxmail.com	Dell@138
+
+围棋	
+baosp2013@foxmail.com	BAOzc@0806
+
+索尼	
+hou	Sonyjob_number
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
