@@ -1,32 +1,32 @@
 百度	
-housohei	Bd@8
+hou	Bd@ph_number_8
 
 搜狗	
-housohei@126.com	Sg@8
+hou@126.com	Sg@ph_number_8
 
 新东方	
-housohei	Xdf@8
+hou	Xdf@ph_number_8
 
 日本雅虎	
-baosp2013@yahoo.co.jp	Yahoo@133
+baosp2013@yahoo.co.jp	Yahoo@ph_number_3
 
 百度网盘	
-bapsp2013	Bd@3
+bapsp2013	Bd@ph_number_3
 
 酷狗	
-housohei@163.com	Kg@6
+hou@163.com	Kg@ph_number_6
 
 小米	
-baosp2013@yahoo.co.jp	Xm@3
+baosp2013@yahoo.co.jp	Xm@ph_number_3
 
 嘉定新城网	
-housohei	Jdxc3
+hou	Jdxc3
 
 redhat	
 baosp2013	hou
 
 戴尔	
-baosp2013@Foxmail.com	Dell@138
+baosp2013@Foxmail.com	Dell@ph_number_8
 
 围棋	
 baosp2013@foxmail.com	BAOzc@0806
