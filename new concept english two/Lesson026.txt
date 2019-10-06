@@ -170,26 +170,91 @@ in all weathers //不论晴雨，不论幸与不幸
 make heavy weather of sth //大惊小怪，小题大做
 weather-beaten //饱经风霜
 
-29：00
+hang
+hang-hung-hung //v.悬挂，吊
+hang-hanged-hanged //v.绞死，吊死
+1)v.悬挂，吊
+I am hanging my picture on the wall.
+My picture is being hung on the wall.
+He hung a map of the world on the wall.
+Hang your coat on the hook!
+2)v.绞死，吊死
+He was hanged for murder.
+Hang it! //见鬼，岂有此理
 
+hang by a tread
+hang by a hair //千钧一发
+hang round //徘徊，闲荡
 
+upside down
+1)adv. 上下颠倒地
+It's upside down.
+=It isn't the right way up.
+That picture is upside down.
+The boy pretended to be reading. But he held the book upside down.
 
+turn trutle //船，车的翻覆
 
+2)adv.扎乱地，乱七八糟地
+turn a room upside down //把房间弄得乱七八糟
 
+/** 一般现在时与现在进行时 **/
+1.表示客观事实，普遍真理用一般现在时
+Two and four makes six.
+Light travels faster than sound.
+Water boils at 100 °C.
+The moon moves round the earth.
+2.表现在的特征或状态，用一般现在时
+She is always ready to help others.
+It all depends.
+He loves sports.
+3.表示经常性或习惯性的动作，用一般现在时
+We always care for each other and help each other.
+They cycle to work every day.
+They often get up at 7 o'clock.
+4.表示状态和感觉的动词通常用一般现在时较少用于进行时态
+be            love             like
+hate          want             hope
+need          prefer           wish
+know          understand       remember
+believe       recognize        appear
+appreciate    feel             forget
+hear          look like        notice
+resemble      see              think
 
+I hear that you like classical music.
+I remember Tom very well. Do you know him?
+I feel a sharp pain in my chest.
+You see what I mean?
+5.表示状态和感觉的动词通常用一般现在时较少用于进行时态,但如果词义发生转变，能表示一个动作正在进行时可用于进行时态
+Do you see anyone over there?
+Are you seeing someone off? //你要送人吗?
+I hear someone singsing.
+They're hearing an English talk. //他们正在听一个英语演讲。
+What do you think of it?
+What are you thinking about?
+He looks well today.
+He is looking after his little sisiter.
 
+pretty ugly //相当地难看
 
+the same that //指同一件事物
+the same as //指同种类的事物
+This is the same wallet (that) I lost a week age. //这就是我一个星期前丢的那个钱包。
+Put the book back in the same placce where it was.
+My bag is the same as yours.
 
+anyone else //任何别的人 --比较时，排除自身去比较
 
+//复合形容词
+1)只能放在名词之前，做前置定语
+2)各词之间用短横线连接
+3)当中间出现名词时，要单数形式出现
+30-metre-high
+2-foot-tall 
 
+//whether 和 if 表“是否”，可引导宾语从句，但是，当句尾有or not，只能用whether
 
+A bad workman always blames his tools. //拙匠总怪工具差。
 
-
-
-
-
-
-
-
-
-
+A bird in the hand is worth two in the bush. //双鸟在林不如一鸟在手。
