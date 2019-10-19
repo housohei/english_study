@@ -2,6 +2,7 @@ Lesson 031
 
 retire
 1)vi.退休
+retire from sth
 2)v.就寝（正式）
 retire for the night 
 3)v.退下
@@ -62,6 +63,7 @@ save
 1)v.挽救
 save sb/ save sth
 save ons's life
+save sb from
 
 save one's face
 lose ons's face
@@ -134,23 +136,71 @@ grandfather clock //落地式的大摆钟
 
 /** 过去进行时和一般过去时 **/
 
+used to do 
+//过去常常做...但现在已经不这样了，可看成是一般过去时的特殊形式
+//相当于often did...
+I have given up smoking. I used to smoke very heavily.
 
+be used to doing //习惯于做...
+I used to go to work by bus, but I am used to going by car. //我过去常乘公共汽车去上班，但现在我习惯开车去了。
 
+He is used to this kind of job. //他习惯了这种工作。
+I am not used to getting up early. //我不习惯早起。
 
+I used to drink.
+I didn't use to drink.
+Did you use to drink?
+Used you to drink? //(Am)
+I used to ride a bicycle, but it was stolen yesterday. so I came here on foot.
 
+experience
+1)[u] 经验，体验
+Experience is the best teacher. I know it from experience.
 
+2)[c]经验之事，经历
+have a pleasant experience
 
+Please tell us of your experience while in Africa.
 
+experienced //adj. 有经验的
+He is an experienced worker.
+a skilled worker
 
+head
+1)头
+I am taller than my sister by a head.
+2)头脑，智力
+Two heads are better than one. //人多智广
+3)头目
+the head of a firm //公司总裁
+4)首位，最高位
+Who is at the head of your class? //你们班第一名是谁
+5)人头数，人头数，人头
+ten dollars per head //没人10美元
+above one's head //深奥的使人无法理解
+The novel is a little above my head.
 
+//it 做形式主语
+It is quite impossible to finish this large book in a month. 
 
+in one's twenties //在...二十几岁的时候
+in one's early twenties //在...二十出头的时候
+in one's late twenties //在...快三十的时候
+at the age of twenty //在二十岁
+in the twenties //在二十年代
+in the 1920's //在二十世纪二十年代
 
+hard
+1)坚硬的
+hard wood; hard rock
+2)困难的
+a hard task to carry out
+3)刻苦的，勤勉的
+a hard worker
+4)艰苦的
+These are hard times. //现在是困难时期。
+5)严厉的，无情的
 
+All roads lead to Rome.
 
-
-
-
-
-
-
-
+All stick will serve to beat a dog with. //欲加之罪何患无辞
