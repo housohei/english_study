@@ -219,6 +219,9 @@ solid white //纯白色
 
 /** 一般将来时 **/
 
+//当我们说话时已经决定做某事时喜欢用will而不是going to
+//当我们表示意图，计划及安排时喜欢用going to而不用will
+
 1. will do sth / shall do sth 
   be going to + v.原形 //表示打算，准备做的事或即将发生或肯定要发生的事
 We are going to put up a building here.
