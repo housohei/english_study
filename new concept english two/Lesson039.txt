@@ -1,0 +1,278 @@
+Lesson 039
+
+operation //n.手术，运作，操作
+operation instrument //手术器械
+I had an operation on my heart.
+I underwent an operation on my heart.
+
+the operation of an old machine //旧机器的运转
+bring into operation
+/put into operation //v.实施法律，计划等，运作机械等
+
+come into operation //vi.实施，开始运转
+The new rules will come into operation next month.
+/The rules will be put into operation next month.
+
+operate
+1)操纵，操作（机械），运作，运转 control, run
+operate a machine
+operate the lift //开电梯
+
+This sewing machine doesn't operate properly.
+
+2)经营，管理（run,manage）
+operate a company
+The company operates ten factories.
+The business operates in various conties.
+
+3)动手术 operate on sb for...
+The surgeon decided to operate on her for appendicitis promptly.
+physician //内科医生
+
+successful <--->unsuccessful
+a successful trial
+a successful candidate //当选者
+
+The performance was successful.
+
+succeed //v. <---> fail
+success //n. <---> failure
+successful //adj. <---> failed
+successfully //adv.
+
+follow
+1)跟随，跟着
+A man is running, followed by three dogs.
+The ducking(小鸭子) followed its mother everywhere.
+Monday follows Sunday.
+Be slow please. 
+I can't follow you./I can't catch you. /I can't understand you.
+
+2)沿着
+follow this road
+
+3)采纳
+follow one's advice
+follow one's suggestion
+
+follow the crowd //随大流
+
+following
+1)adj.接着的 --next in time or in turn
+Answer the following questions.
+in the following year //在下一年
+
+tomorrow //在间接引语中换成
+the next day/ the following day
+
+2)prep.
+Following the meeting, coffee will be served.
+
+patient
+1)n.病人
+2)adj.有耐心，能忍受，能容忍 <--->impatient
+be patient with sb
+be patient of sth
+You should be more patient with others.
+He was patient of hardships. //他很能吃苦
+
+patiently //adv.
+patience //n.忍耐，耐性，毅力 <--->impatience
+This kind of work requires much patience.
+She has no patience with her nosy neighbors.
+
+alone
+1)adj.独自的，单独的（不置于名词前）
+He likes being alone.
+His house stands alone on a hill.
+
+2)adv.独自地
+I live alone.
+She lives alone in an apartment.
+
+3)adv.只有，仅仅
+You cannot live on meat alone.
+Eat more vegetables.
+
+She alone was able to answer the question.
+
+let alone //更不用说
+let ... alone //别打扰，让...一个人呆着
+Let me alone.
+
+lonely //寂寞的，孤独的
+alone //提及人时，只表示"一个人"之意 
+I'm living alone but I don't feel lonely.
+
+exchange
+1)n.交换，互换，交流，交易
+Is five apples for five eggs a fair exchange?
+an exchange of glances //互使眼色
+They made a silent exchange of smiles. //他们默默相互微笑
+
+2)n.兑换，汇率，交流
+the exchange of dollars for pounds
+the rate of exchange //汇率
+/the exchange rate
+
+3)n.交易所
+the Stock Exchange //证券交易所
+the stock market //证券交易市场
+
+5)v.交换，互换
+Mary exchanged seats with John.
+We only exchanged a few words because we were in a hurry.
+I often exchange information with him.
+I've just bought this tie, but can I exchange it for that one.
+
+//同义词
+interchange
+
+inquire(enquire) //v.询问，查询 比ask正式
+inquire sth of sb
+inquire about sb/sth /ask for information //打听消息
+He inquire of the policeman the way.
+I inquired of him whether he would come to the party.
+I'd like to inquire about the trains for London.
+inquire sb's name.
+
+inquiry //n.询问
+a letter of inquiry //询问函
+I made inquiries about my lost umbrella in all the stores I've visited.
+
+certain
+1)adj.确定的，有把握的，常可与sure通用
+They are sure to be late.
+They are certain to be late.
+
+I'm sure that they'll be late.
+I'm certain that they'll be late.
+
+One thing is sure: they'll be late.
+One thing is certain: they'll be late.
+
+//certain 的语气比sure强，当it做主语时是能用certain
+It is certain that they'll be late.
+
+2)adj.//未指明真实名称的某一个，说出名称但不很熟悉的某一个，一位姓...的人，置于名词前
+A certain Mr. Brown called while you were out.
+For certain reasons, I'll be absent for the meeting.
+
+//some 修饰单数可数名词，表示"某个"
+Some man at the door is asking to see you.
+for some reason = for a certain reason
+
+3)adj.可靠的，确实的，无怀疑余地的 <--->uncertain
+certain evidence //可靠的证据
+a certain remedy //有效的治疗方法
+Nothing is more certain than death. //死亡之事无人能逃
+
+call
+1)叫，喊
+call out to sb for sth
+He called out to her.
+
+call the roll //点名
+call you name //叫你的名字
+
+2)给...取名
+call the baby Sophia
+
+call at //拜访
+call on //拜访某人
+call off //取消
+The game was called off because of the rain.
+
+call box //公共电话亭
+
+caller //打电话的人，访问者
+
+relative
+1)n.亲戚，亲属
+a close relative
+/a near relative //近亲
+
+a distant relative //远亲
+
+2)adj.相关的
+the facts relative to the problem
+
+3)adj.相对的，比较的 <--->absolute;absolutely/of course
+They are living in relative comfort.
+
+relation //n.亲戚，关系
+relationship //关系
+
+/** 直接引语和间接引语 **/
+
+
+while //conj.
+1)当...时候，和...同时，只要
+He took a bath while I was preparing dinner.
+She called while I was out.
+You'll want for nothing while I am alive. //只要我活着，你什么都不缺
+//while所引导的从句与主句主语相同，且while从句的动词为be时，while从句的主语和be动词有时被省略
+He watched TV while he was eating.
+=He watched TV while eating.
+
+2)虽然，然而，另一方面
+While I understand your viewpoint, I don't agree with you.
+I earn only 50 dollars a week, while she earns 80 dollars.
+
+in hospital //住院--表示抽象概念
+in the hospital //在医院--表示方位
+
+be at school //在课堂上，在求学 --表示抽象概念
+be at the school //在学校 --表示方位
+
+ask sb to do sth
+ask for sth/sb
+ask for a bedside telephone
+ask for Doctor Millington
+
+refuse to do sth
+He refused to help me.
+The machine refused to start.
+
+the following day = the next day
+
+bedside
+1)adj.床边的，枕边的
+bedside table //床头柜
+bedside lamp //床头灯
+2)n.床边
+She was unable to be at his bedside when he died.
+
+answer the phone //接电话
+answer a letter //回信
+answer a question //回答问题
+answer sb //回答某人
+answer back //顶嘴
+
+another
+1)adj.另一个，类似的，别的 another two weeks
+He seems quite another person than what he was. //跟以前相比，他判若两人
+2)pron.另一个人或事物
+one child after another
+risk one's life for another
+
+//review
+operate on sb
+have an operation on sb //给某人做手术
+
+the following question
+in the following year
+
+be patient with sb
+be patient of sth
+
+live alone
+
+exchange sth with sb
+
+inquire sth of sb
+
+Don't judge a book by its over. //不能凭封面判断一本书；人不可貌相
+
+Each man for himself and the devil take the hindmost.
+/Every man for himself and the devil take the hindmost. //人不为己，天诛地灭。
