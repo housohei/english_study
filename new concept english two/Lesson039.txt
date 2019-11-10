@@ -276,3 +276,9 @@ Don't judge a book by its over. //不能凭封面判断一本书；人不可貌�
 
 Each man for himself and the devil take the hindmost.
 /Every man for himself and the devil take the hindmost. //人不为己，天诛地灭。
+
+speak to sb
+say to sb
+tell sb
+ask sb
+
