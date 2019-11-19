@@ -150,135 +150,68 @@ patch //v.补衣服，打补丁
 patch sth up //快速，临时修补某物
 
 /** 动名词 **/
-23:00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1.做主语
+Eating is always a pleasure.
+
+2.做介词宾语
+I am very keen on cycling.
+He sat there without saying anything.
+I am looking forward to seeing him tomorrow. //--look forward to 期待
+I am used to getting up late. //--be used to 习惯于
+
+3.做动词宾语
+They began running.
+=They began to run.
+They continued running.
+=They continued to run.
+//总结：有些动词后面加to do或doing含义没有什么区别 --begin / start / continued
+I love sitting in the garden when it's fine.
+I like sitting in the garden when it's fine.
+I hate disturbing people when they're busy.
+I hate to disturb you, but can I come in for a moment, please?
+//总结:在有些动词后面，如like, love, hate等，后面加to do 表示目前一次性的喜好，加doing做宾语表长期性的喜好
+
+My shirt is torn. It needs mending.
+= It needs to be mended.
+Those windows are dirty. They want washing.
+=They want to be washed.
+It's a difficult problem.It needs thinking about.
+//动名词有被动含义
+
+4.做表语
+His job is driving a bus.
+Seeing is believing.
+
+5.做定语
+a dining-room
+a reading-room
+a swimming-pool
+a sleeping-car //卧铺车厢
+
+up to //表示方向性，目的性
+at the edge of the forest
+try to do sth //企图做
+
+run after //不用于被动语态
+1)追赶某人，追逐某人 chase sb
+The dog was running after a rabbit.
+2)追求（尤指女子追求男子）
+
+catch up with sb //赶上（超过）某人，达到与某人相同的境界
+keep up with sb //跟上某人
+
+go through sth
+1)磨穿某物
+I've gone through the elbows of my sweater.
+2)仔细地研究，检查（为寻找，发现某物）
+I've gone through all my pockets but I can't find my keys.
+
+so + adj/adv. + that
+such + n + that
+
+sth needs doing
+sth needs to be done
+
+Fools rush in where angels fear to thread. //傻瓜行事鲁莽，不考虑后果
+
+Fortune favours the brave. //勇者事成
