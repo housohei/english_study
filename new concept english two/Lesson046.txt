@@ -101,135 +101,256 @@ We were astounded to read your letter.
 stun //使目瞪口呆
 I was stunned by the news of her death.
 
-15:00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+pile
+1)n.堆，摞，叠
+a pile of books
+a pile of woolen goods
+同义词:neat
+a neat of books
+
+2)adj.大批的，大堆的
+a pile of work
+piles of work 
+piles of friends
+
+3)v.堆，摞，放
+pile papers on the table
+pile apples together
+
+4)盛，把...盛在（容器等）中
+She piled his plate with potatoes.
+She piled potatoes onto his plate.
+
+5)口语 大批的人蜂拥地移动
+The passengers piled into the train. //乘客蜂拥上火车
+
+woollen = woolen //adj.羊毛的，毛织品
+a woolen coat //毛织外套
+This blanket is woolen.
+
+wool
+1)羊毛
+a suit made of wool //一套毛料西装
+clip wool from sheep //剪羊毛
+
+2)毛衣，毛织品，毛料
+knit wool into a sweater //用毛线编织毛衣
+wear wool //穿毛衣
+
+keep your wool on! //被生气
+down n.//鸟的绒毛，羽绒
+down jacket //羽绒大衣
+
+goods //n.货物，商品
+leather goods //皮制品
+sporting goods //体育用品
+
+merchandise //商品，货物
+The store sells merchandise from foreign countries.
+
+commodity //商品（日用品），商品，货物（国际贸易中）
+
+article //物品，物件，商品
+The shop sells articles of kinds.
+
+toilet articles //盥洗用品
+
+discover //v.发现，看出，察觉
+Do you know who discovered America?
+I soon discovered the truth.
+I discovered that she was a good cook.
+We never discovered how he died.
+
+invent //发明
+Who invented the computer?
+
+admit
+1)vt.承认（事实，过失） <--->deny
+He admitted his guilt.
+/He admitted that he was guilty.
+
+I admitted my mistake.
+He admitted having stolen that cat. --admint doing
+We all admit him to be foolish.
+
+2)vt.准许进入，准许入场
+She opened the door and admitted the guests into the house.
+This ticket admit two persons //这张票可供两人入场
+Children under 18 are not admitted to the film.
+
+confess //v.承认（错误，罪行），供认，坦白
+realize //意识到，承认
+recognize //承认，认可，认出，听出
+
+confine
+confine sb/ sth to/ in //把...限制在某空间以内
+It is cruel to confine a bird in a cage.
+After the operation, he was confined to bed for a month.
+
+confine oneself in bed //坐月子
+
+confined //adj.地方有限的，受限制的
+It is hard to work in such a confined space.
+
+normal //adj.正常的，通常的 --usual or regular
+the normal price
+the normal method
+the normal place
+the normal thinking
+the normal views	
+normal temperature
+normal school
+
+it is normal for (sb.) + to do
+It is normal for us not to want to work on Sunday.
+
+abnormal //adj.反常的，不正常的
+abnormal weather
+abnormal behaviour
+
+/** 介词to, at, for, with 与动词的搭配 **/
+
+to
+accustom  //习惯于
+amount //达到
+appeal //呼吁
+apply (or for) //适用于
+attach //附属于
+attend //参加
+belong //属于
+challenge //向...提出挑战
+compare //比较
+condemn //判刑
+confess //承认
+confine //限制
+consent //同意
+convert //改信 某宗教
+entitle //享有权利
+listen //听
+mention //提到
+object //反对
+occur //想到
+prefer //更喜欢
+react //对...反应
+reply //回答
+respond //响应
+see //注意
+submit //服从于
+surrender //向...投降
+turn //转向
+yield //屈服
+
+at
+amuse (or by)  //对...感到兴趣
+arrive (or in) //到达
+astonish (or by) //感到惊愕
+exclaim //惊叫
+glance //对...看一眼
+guess //猜测
+knock //敲
+look //看
+point (or to) //指向
+shock //感到震惊
+stare //盯着...看
+surprise (or by) //感到惊讶
+wonder (or about) //感到惊异
+work (or on) 钻研
+
+for
+account //说明（原因）;足以说明
+ask (of) //请求
+act (on) //代表
+apologize //因...而道歉
+blame //责备
+beg //乞求
+call //需要
+charge //收费
+exchange //交换
+hope //希望
+look //寻找
+mistake //误以为
+mourn //哀悼
+pay //为...付款
+prepare //准备
+provide //提供
+search //寻求
+thank //感谢
+vote  (or on) //投票支持
+waite (or on) 等候
+
+with
+agree //同意
+begin //以...开始
+communicate //与...联络
+compare (or to) //与...比较
+compete (or against) //同...竞争
+comply //同意
+confuse //误作
+contrast (or to) //形成对照
+cope //对付
+correspond //与...一致;与...通信
+disgust //使...讨厌
+finish //完成
+help //帮助
+interfere (or in) //干扰
+mix //混合
+occupy //从事于
+part //放弃
+please //对...满意
+quarrel (or about) //争论
+reason //规劝
+satisfy //感到满意
+threaten //威胁
+
+dirt cheap //特别便宜
+reasonable //合理的
+
+account for //说明理由，足以说明
+How can you account for the accident? //你怎么解释这个事故
+
+the fact that ...//同位语从句
+//同位语从句一般跟在某些表示抽象概念的名词后，用以说明名词的具体内容
+//常跟同位语从句的名词主要有
+idea, news, fact, promise, answer, belief, condition,doubt,fear,
+hope, problem, proof, question, reply, report, suggestion, thought, truth
+
+//以what 引导的名词性从句作介词的宾语
+What is most important in life isn't money. //作主语
+Will you show me what you bought? //作宾语
+She is no longer what she was five years ago. //作表语
+
+top //顶端，上面 <--->bottom
+at the top of a mountain //在山顶
+at the top of a page //在书页的上方
+We put our skis on the top of our car.
+She is at the top of her class in French.
+
+at the bottom of a hill
+at the bottom of the class //班级最后一名
+Bottoms up! //干杯
+
+order
+1)v.命令
+be ordered to do
+order sb to do/ order that
+The doctor ordered me to take a rest for a month.
+She ordered the baggage to be brought to her room.
+
+2)v.订购，从...购入
+They ordered a meal.
+He ordered a book from the publisher.
+He ordered himself a new suit.
+
+cost
+1)n.代价，价格，费用
+cut costs //削减经费
+The cost of the used car is 2000.
+2)v.花费（时间，劳动力等）
+Such a difficult job costs a lot of time and effort.
+3)v.付出代价
+cost sb an arm and a leg //使...付出沉重的代价
+Careless driving will cost you your life.
+
+Haste makes waste. //欲速则不达
+
+His bark is worse than his bite. //刀子嘴，豆腐心
