@@ -3,8 +3,8 @@ Lesson 026
 art
 1)[u]艺术，美术
 an art student
-an art gallery
-an art critic
+an art gallery //画廊
+an art critic //艺术评论家
 an art lover //艺术爱好者
 Art is long; life is short. //艺术长久， 人生短暂
 
@@ -16,7 +16,7 @@ master's degree //硕士学位
 doctor's degree //博士学位
 B.A. in English for trade //外贸英语专业的文学学士学位
 
-2)技术，技巧，敲门
+2)技术，技巧，窍门
 He is good at the art of making friends.
 arts and crafts //工艺
 artist //n.艺术家，画家
@@ -45,17 +45,17 @@ He criticized the American film favorably.
 She's always criticizing her friends for being selfish.//她总是批评她的朋友们自私。
 
 //批评
-attacck(with words)
+attack(with words)
 blame //责备
 condemn //严责
-critisize  
+criticize  
 
 paint
 1)n.油漆[u]
 a pot of paint
 a pail of paint
 give the door two coats of paint
-Wet Paint!
+Wet Paint! //油漆未干
 2)n.绘画颜料[c]
 oil paints //油画颜料
 3)v.刷漆,油漆，涂抹
@@ -73,13 +73,13 @@ painter //n.画家，油漆工
 
 pretend //v.假装
 1)pretend to do sth
-  pretend to be doing
+  pretend to be doing //假装正在做某事
 She pretended to know the answer.
 The students pretended to be reading books when the teacher came in.
 
 2)pretend + that
 When we rang the bell, she pretended that she was not at home.
-Many people pretend that they understandd modern art.
+Many people pretend that they understand modern art.
 Don't pretend to know what you don't know.
 
 3)敢于...,胆敢...,厚着脸皮做... --贬义词
@@ -107,7 +107,7 @@ curtain cloth
 
 ring up the curtain //开幕
 ring down the curtain  //落幕
-ring up the curtain on a new football season
+ring up the curtain on a new football season //新的足球赛季正式开始
 
 behind the curtain //在幕后地，秘密地
 curtain call //要求谢幕的声音
@@ -125,13 +125,13 @@ tough cotton material //结实的棉布
 
 3)adj.物质的
 material gains
-material civiliation
+material civilization
 spiritual //adj. 精神上的
 
 4)pl.工具，用具
 writhing materials
 
-appreciate //v.欣赏，鉴赏，感激
+appreciate //v.欣赏，鉴赏，感激 --understand and enjoy
 I can't appreciate modern art.
 I really appreciate a good cup of tea.
 Your help was greatly appreciated.
@@ -144,7 +144,7 @@ Please accept this gift in appreciation of all you've done for us. //请接受�
 notice
 1)n.布告，通知，启示
 put up a notice
-He gave his secretary a month's notice.
+He gave his secretary a month's notice. //他提前一个月通知他的秘书
 
 take notice of... //注意到，留心到--通常用于否定句
 Take no notice of what others say about your way of life.
@@ -193,7 +193,7 @@ It's upside down.
 That picture is upside down.
 The boy pretended to be reading. But he held the book upside down.
 
-turn trutle //船，车的翻覆
+turn turtle //船，车的翻覆
 
 2)adv.扎乱地，乱七八糟地
 turn a room upside down //把房间弄得乱七八糟
@@ -229,20 +229,27 @@ You see what I mean?
 5.表示状态和感觉的动词通常用一般现在时较少用于进行时态,但如果词义发生转变，能表示一个动作正在进行时可用于进行时态
 Do you see anyone over there?
 Are you seeing someone off? //你要送人吗?
-I hear someone singsing.
+I hear someone singing.
 They're hearing an English talk. //他们正在听一个英语演讲。
 What do you think of it?
 What are you thinking about?
 He looks well today.
-He is looking after his little sisiter.
+He is looking after his little sister.
 
+modern //现代的，时髦的
+model //模型，模特
+medal //奖章，奖牌
+metal //金属
+
+good-looking //好看的 --指任何人或物
 pretty ugly //相当地难看
 
 the same that //指同一件事物
 the same as //指同种类的事物
 This is the same wallet (that) I lost a week age. //这就是我一个星期前丢的那个钱包。
-Put the book back in the same placce where it was.
+Put the book back in the same place where it was.
 My bag is the same as yours.
+She goes to the same university as her father did.
 
 anyone else //任何别的人 --比较时，排除自身去比较
 
@@ -257,4 +264,4 @@ anyone else //任何别的人 --比较时，排除自身去比较
 
 A bad workman always blames his tools. //拙匠总怪工具差。
 
-A bird in the hand is worth two in the bush. //双鸟在林不如一鸟在手。
+A bird in the hand is worth two in the bush. //双鸟在林不如一鸟在手。 多得不如现得
