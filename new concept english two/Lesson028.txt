@@ -203,7 +203,30 @@ Is there anything you need?
 4）在介词后只能用which
 The tool with which he is working is called a wrench.
 =The tool that he is working with is called a wrench.
+5）当限定性定语从句修饰一个时间的时候，常用关系副词when来引导定语从句，在很多情况下还可以不用或用that来表达
+There are moments when I forget all about it. //总有一天我会忘记这些事情的
+Come any time that you like. //你随时都可以来
+She made me feel at home the moment I arrived. //我一到这里她就让我感觉像到家里一样
+6）限定性定语从句在修饰表示地点的名词前用关系副词where，在从句中充当状语成分
+I know a place where we can swim.
+Is there a shop around where we can get fruit? //附近有没有我们可以买到水果的商店
+7）在reason后的定语从句可由why引导，why也可常省略
+This is the reason (why) I did it.
+8）在way后也可以跟定语从句，不需关系代词或副词 --way 方式，方法
+That's the way I look at it. //那就是我看待它的方法
+That was the way she looked after us. //那就是她照顾我们的方式
 
+believe in //信仰，信奉
+She believes in ancient myths.
+I believe in God.
+I believe in Jesus. //基督
+
+believe //相信
+I believe you forever. 
+I don't believe this story.
+
+one of +  n.复数
+one of my friends.
 
 have trouble with sb/sth //与...产生摩擦
 
@@ -214,29 +237,47 @@ Because it was raining, I had to stay at home.
 
 even once //甚至一次（用于否定句）
 
+put up //张贴，搭起
+put up a notice
+put up a tent
+
 have not had any effect = have had no effect
 
+It is one of the ugliest faces I have ever seen.
+This is the best film I have ever seen.
+He is the noisiest person I have ever met.
+It is the most expensive car I have ever driven.
+This is the worst photo I have ever taken.
+What a pretty girl! I have never met such a pretty girl before.
+What a good meal! I have never had such a good meal before!
+What a silly story! I have never read such a silly story before.
+What bad luck! I have never had such bad luck before!
+
+I asked him what it was and he told me that it was Medusa, the Gorgon.
+
 turn sth into/to sth //把...变成...
-The witch turned the prince into a fog.
+The witch turned the prince into a fog. //女巫把王子变成了青蛙
 
 turn to //翻到
 Please turn to page 20.
 
 turn to sb //向某人求助，依赖
-I turned to him for advice.
+I turned to him for advice. //我向他征求意见
 
-none of //没有
+none of //没有 //后接名词为复数形式时，指三者中间没有任何一个
 //none of 之后的名词前一定要接the, this, my, your 等修饰限定成分
 None of the students could answer the questions.
 He did none of his task.
 //none of 接名词复数时，谓语动词通常视为复数来使用，但较为正式表达时，则视为单数
 None of us have/has ever been abroad.
 //none of 后接名词为不可数，谓语动词则视为单数形式来使用
-None of the money was paid to me.
-//后接名词为复数形式时，指三者中间没有任何一个
+None of the money was paid to me. //一分钱也没有付给我
+
 neither of //指两者中
 
 none other than //不外是，就是
 none the less //然而，尽管如此
+
+A rose by any name would smell as sweet. //人或物不在乎其叫什么，而在于其实质
 
 A stitch in time saves nine. //小洞不补，大洞吃苦；趁早缝一针，省得来日补十针
