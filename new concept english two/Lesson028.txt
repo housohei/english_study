@@ -1,29 +1,29 @@
 Lesson 028
 
 rare
-1)adj.稀有的，罕见的，不寻常的(rare,rarest)
+1)adj.稀有的，罕见的，不寻常的(rarer,rarest) not often happening or seen, unusual
  He is a rare person.
  a rare book //珍本
  a rare plant //珍稀植物
  a rare butterfly  //一只罕见的蝴蝶
  a rare visitor //稀客
  a rare edition //珍藏本
- It is rare + for (sb) + to do sth
+ It is rare + for (sb) + to do sth //某人很少做某事
  It is rare for him to be absent.
 
-2)adj. (气体等)稀薄的，稀疏的
+2)adj. (气体等)稀薄的，稀疏的 --thin
  the rare air of the mountains
 
 3)adj.半熟的，煮的嫩的
  I'd like my steak rare, please.
- half-done
- well-done
+ half-done //半熟
+ well-done //全熟
 
 rarity //n.[c]珍品，奇事 [u]稀有
 
 rareness //n.[u](空气等)稀薄，稀有
 
-rarely adv.//不常(否定含义) --not often, seldom
+rarely //adv.不常(否定含义) --not often, seldom
 I rarely eat in restaurants.
 I often cook myself.
 
@@ -35,7 +35,7 @@ old //adj.老的，旧的，先前的
 an old lady
 an old church
 an old friend
-my old job
+my old job //我以前的工作
 
 senior //adj.较年长的，资深的
 senior citizen //老人，退休的人
@@ -81,7 +81,7 @@ What's the trouble?
 family troubles //家庭纠纷
 political troubles //政治纠纷
 Her heart was full of troubles. //她心里充满了烦恼。
-Have trouble in doing sth
+Have trouble in doing sth //做某事有麻烦
 have some trouble in doing sth
 have great trouble in doing sth
 have no trouble in doing sth
@@ -99,19 +99,21 @@ make trouble //惹麻烦
 The trouble is ... //糟糕的是，问题在于
 
 3)v.使某人苦恼，麻烦，烦劳
-That student sometimes troubles the teacher with hard questions.
-She was troubled by the news of her mother's illness.
-I'm sorry to trouble you.
+That student sometimes troubles the teacher with hard questions. //--烦劳
+She was troubled by the news of her mother's illness. //--使苦恼
+I'm sorry to trouble you. //麻烦
 
 trouble about //为...担心
 trouble over
 Don't trouble about that.
 
 trouble to do sth //特意做某事
-Don't trouble to see me off at the station.
+Don't trouble to see me off at the station. //你不用特意去车站送我了
 
 troubled //adj.混乱的
 fish in troubled water //乘火打劫，混水摸鱼
+
+Don't trouble troubles until trouble troubles you. //麻烦没有来找你，不要去自找麻烦。
 
 effect
 1)//n.效果，效应，影响
@@ -122,7 +124,7 @@ The teacher's words had a great effect on him.
 2)n.结果
 cause 原因
 cause and effect //因果
-His stomachache is an effect of overeating.
+His stomachache is an effect of overeating. //他的胃疼是因为吃多了的结果
 
 personal effects //私人财产，随身携带的物品
 
@@ -130,7 +132,7 @@ put sth into effect
 bring sth into effect //使什么产生效果
 
 in effect //实际上
-The vice-president is, in effect, the leader of the company.
+The vice-president is, in effect, the leader of the company. //副总裁实际上是公司的领导
 
 affect //v.对...影响，发生作用
 affect sb
@@ -147,9 +149,10 @@ She affects not to hear me.
 
 /** 现在完成时 **/
 //通常搭配现在完成时的adv.及短语
-just  already  ever
-never recently lately
-yet   so far   for six months
+just     already    ever
+never    recently   lately
+yet      so far     for six months
+up till now
 
 //现在完成时也可以搭配现在时刻的时间状语
 now    today    this week
@@ -157,6 +160,7 @@ this month      this year
 The rain has stopped now. --now = at last
 I have lived here for five years now. --now = so far
 Have you seen John today?
+It has rained every day this week.
 
 //非延续性动词可用于完成时中，但不能加一段时间。 
 //但是，在否定句中，非延续性动词可用于现在完成时并加一段时间
@@ -171,6 +175,35 @@ What have you done! //你干了什么！
 Now you have done! //这下你可闯祸了！
 
 /** 定语从句 **/
+一、在主从复合句中，充当主句某一成分（主语，宾语，表语，状语）的定语的主谓结构叫定语从句
+二、定语从句一般由关系代词(who, that, which, whose, whom)或关系副词(when, where, why) 引导的
+Do you know the man who came to see Xiao Yang this morning?
+At the time when I saw him, he was well.
+三、定语从句分为限定性定语从句和非限定性定语从句
+1、限定性定语从句修饰的次代表一个或一类特定的人或东西，如果拿掉了定语从句，剩下的部分就会失去意义，不能成立或意思不清楚或不能说明问题
+Those who want to go please sign their names here.
+The letter that I received from him yesterday is very important.
+The students who went to see the film were very disappointed. 
+2、非限定性定语从句，只对所修饰的词作进一步说明，拿掉之后其他部分仍可成立
+//非限定性定语从句通常用逗号隔开
+She was very fond of speaking French, which indeed she spoke well.
+I have many friends, some of whom are painters.
+3、限定性定语从句
+1）如果修饰人，一般用关系代词who或that，做主语时用who较多，且不可省略，如果关系代词在从句中做宾语，用宾格whom或that，在口语中可用who代替，但在大多数情况下都可以省略
+The people who/that/whom/- you were talking to where Swedes.
+He is a man who/that/whom/- you can safely depend on.
+Here is the man who/that/whom/- you've been looking for.
+2）在表示"...的"这个所有关系的时候，可以用它的所有格whose。
+Is there anyone in your class whose family is in the northeast? //你们班有家在东北的人吗?
+3）限定性定语从句如果修改时"物"，用关系代词that或which(但在从句中做主语时不可省略)
+The parcel that/which came just now was for Tom.
+The train that/which has just left if for Xi'an.
+3）当这个代词在从句中做宾语时，大多数情况下可以省略，尤其在口语中
+Is there anything you need?
+4）在介词后只能用which
+The tool with which he is working is called a wrench.
+=The tool that he is working with is called a wrench.
+
 
 have trouble with sb/sth //与...产生摩擦
 
