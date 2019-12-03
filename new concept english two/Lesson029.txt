@@ -43,23 +43,23 @@ We land in a lot of trouble.
 
 plough
 plow(Am)
-plough a field
-plough up a field
+plough a field //耕田
+plough up a field //耕田
 They plough in spring.
 plough a lonely furrow //孤独无援地工作
 plough through a dull textbook //费劲地读一本枯燥的教科书
 the Plough //北斗七星
-the Big Dipper (Am)
+the Big Dipper (Am) //北斗七星
 
 lonely //adj.
-1)adj. 孤独的，寂寞的
-Although he lives in a big family, he feels very lonely.
+1)adj. 孤独的，寂寞的 --alone; unhappy because of being alone of without friends
+Although he lives in a big family, he feels very lonely. 
 I live alone but I never feel lonely.
-2)adj.之地点偏僻，人迹罕至的
+2)adj.之地点偏僻，人迹罕至的 --of places far from inhabited places; without people; unvisited
+Antarctic is the loneliest place on the earth.
 a lonely village in Africa
 
-plough a lonely furrow//孤独无援地工作
-work without help or support 
+plough a lonely furrow//孤独无援地工作 -work without help or support 
 
 alone adj./adv. 独自地，单独的
 He lives alone. //adv.
@@ -70,7 +70,7 @@ alone 无不愉快的含义，lonely 含不愉快之意
 alone 作形容词不可放名词前，只能做表语，补语，后置定语
 
 roof 
-1)n.房顶，车顶，顶部
+1)n.房顶，车顶，顶部 pl. roofs
 Although divorced, they continued to live under the same roof.
 
 have no roof over one's head
@@ -141,23 +141,99 @@ deserted adj. //被离弃，被遗弃,被抛弃
 a deserted wife
 a deserted house
 
-/** 一般过去时和现在完成时 **/
+/** 一般过去时和现在完成时比较 **/
+1）一般过去时表示过去某时发生的动作，时间状语多为：last year, last month, 3years ago, in 1994, just now 等
+2）现在完成时表示过去发生的某一动作对现在造成的影响或结果；或表示从过去某一时刻开始一直延续到现在，而且还可能继续延续下去的动作；或表示经验。时间状语多为表示到现在为止的这段时间。比如since 1994, for three years, un nutil now, just, before等。此外，在用already, yet, just, ever, never 这类副词作状语时，常可用现在完成时。
+I saw him in 1994.
+I haven't seen him since 1994.
 
-once...on another occasion
+I saw him 3 years ago.
+I haven't seen him for 3 years.
+
+He stayed at this hotel last month.
+Have you ever stayed at this hotel?
+
+I went abroad last year.
+Up till now, I have never been abroad before.
+
+I have not seen much of him recently. --recently = these days.
+He has learnt a good deal since he came here. //自从他来到这里，他学到了很多东西。--a good deal //大量，许多
+
+service
+1）n.服务，贡献，帮助，功劳
+social services //社会福利事业
+He did me a great service. //他帮了我很大的忙
+2）n.供水，通讯等公共事业，业务，公共汽车的行驶，班次等
+a mail service
+a postal service //邮政业务
+the telephone service  //电话业务，电话网络
+Is there a good train service into the city? //到市内的火车方便吗？
+3）n.车辆，机器等定期的维修
+When did you take your car for service? //你什么时候修的汽车？
+after-sale service //售后服务
+4）n.军务，兵役
+He was in the service for two years.
+at a person's service //随时为某人服务
+I'm at your service. //我随时为你效劳
+
+called a ‘Pilatus Porter’ //被叫做...的飞机
+called //过去分词作定语 --有被动含义
+on a ploughed field // ploughed 过去分词作定语 --有被动含义
+
+anywhere //任何地方
+somewhere //某个地方
+nowhere //没什么地方
+
+fly - flew - flown
+1）vi.鸟，飞机等飞
+Look, we are flying over the Rocky Mountians.
+2）vt.驾驶飞机
+It seems very difficult to fly a jumbo. //驾驶大型飞机看起来很难
+3）Time files. //光阴似箭
+
+soar //急速升空，高飞
+float //漂浮
+hover //盘旋
+glide //滑行
+skim //掠过
+
+once...on another occasion //一次...还有一次
 =on one occasion...on another occasion
 
 on several occasions //在几次不同场合
 in honor of the occasion //为表庆祝
 on rare occasions //偶尔
+I have met him on several occasions. //我见过他几次
 
-refuse
+refuse //拒绝请求或给与某种东西
 He refused my help.
-
+He refused my present.
 refuse to do sth
 He refused to help me.
 
-deny //否认，不承认
+deny //否认(指控)，不承认
 He denied that he had stolen the money.
+
+the Atlantic Ocean //大西洋
+the Pacific Ocean //太平洋
+the Arctic Ocean //北冰洋
+the Indian Ocean //印度洋
+
+bring/ take/ fetch 区别
+bring //带来，由某处带来某物
+take //拿走，从某地或某人处带走
+fetch //取来，去某地去某物并带回
+He brought the book with him when he came to see me. //他来看我时把书带来了
+He took the book with him when he left. //他走的时候把书带走了
+I asked him to go to my room and fetch my glasses. //我请他去我的房间取来我的眼睛
+
+very/ too 区别
+very //很，非常
+I arrived very late but I caught the train. //我到的很迟，但赶上了火车
+too //太，过于
+I arrived too late and I missed the train. //我到的太迟了，误了火车
+
+the most surprising thing is that... //that引导表语从句
 
 A watched kettle never boil.
 A watched pot never boils. //心急水不开
