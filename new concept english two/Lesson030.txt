@@ -5,22 +5,24 @@ water polo //水球
 
 cut
 She cut her finger on a piece of broken glass.
-His cruel remarks cut her deeply.
+His cruel remarks cut her deeply. //他残酷的评论上伤透他的心
+cut the apple into halves
+cut the apple into thirds
 cut the apple into quarters
 
 cut lass //旷课
 
-cut across / cut through
+cut across / cut through //穿过 --尤指抄近道
 I usually cut across the park on my way home.
 I usually cut through the park on my way home.
 
 cut down //砍刀树木；减少...量
 The apple tree was dead and he cut it down.
-The car industry cut down production.
+The car industry cut down production. //汽车工业降低了产量
 
 cut down the expenses //减少开支
 
-shop //劈
+chop //劈
 slit //切割开
 gash //砍进（割一条长而深的缺口）
 slice //切成薄片
@@ -32,10 +34,10 @@ trim //修剪
 row
 1)n.一排，一列，一行
 The boy was sitting in the first row.
-Would you arrange the chairs in five rows?
+Would you arrange the chairs in five rows? //你把椅子排成五排好吗？
 
 in a row //排成一排；连续的
-Children were standing hand in hand in a row.
+Children were standing hand in hand in a row. //孩子们手拉手站成一排
 He has been absent for 5 days in a row. //他已经连续5天没来上课了。
 a hard row to hoe. //艰苦的生活
 
@@ -53,21 +55,24 @@ go for a walk
 
 4)争吵 row[rau]
 v.
-row with sb
+row with sb //与谁争吵
 n.
-What's the row about?
+What's the row about? //到底吵什么呢？
 make a row / kick up a row //起哄， 大吵大闹
 
 kick
 1)v.踢
 kick sb/sth with the foot
+Mummy, Dick kicked me on the leg!
 kick the ball
-kickk a hole in the door
+kick a hole in the door
+Be careful of that horse - it often kicks. //小心这匹马，它经常尥蹶子
 
 Kick a man when he is down. //落井下石
 
 2)vt. 虐待，欺负
 The boy is always kicking his younger brother about.
+
 kick //脚踢
 punch //拳打
 
@@ -78,10 +83,10 @@ Towards the end of the game she fell asleep.
 There is a tendency towards inflation. //有通货膨胀的趋势。
 
 towards //只表示朝着目标移动
-We drove towards Miami.
+We drove towards Miami. //我们开车去迈阿密
 
 to //含有到达之意
-We drove to Miami.
+We drove to Miami. //我们到了迈阿密
 
 nearly //adv.
 It's nearly 2 o'clock.
@@ -110,20 +115,27 @@ We laughed at the sight of her strange clothes.
 He fell in love with the girl at the first sight.
 
 2)视界，视野
-in sight / out of sight
-The train is still in sight.
-Get out of my sight.
+in sight / out of sight //在视线内/外
+The train is still in sight. //火车还在视线内 --还看得见火车
+Get out of my sight. //从我的视线里滚出去
+=Get out!
+=Get out of here!
+=Get away from here!
 
 /** some/any **/
+1）二者都是表示不定量的代词，相当于"一些"，可修饰可数名词复数和不可数名词，some多用于肯定句，any多用于疑问句，否定句或条件句
+There are some scenic spots around the city.
+Let's get some fruit for the children.
+Do you need any reference books?
+They haven't put forward any concrete proposals. //他们还未提出明确的建议
 //if 条件句中用any
 If you find any new words in it, mark them out.
 
-//在有些疑问句中表示请求，建议，反问等，这时多用some 而不是any
+2）在有些疑问句中表示请求，建议，反问等，这时多用some 而不是any
 Would you mind buying me some aspirin?
 Aren't there some things in that drawer?
 
-//some 和 any 还可用来修饰可数名词单数， 这时some表示“某一个”
-//any表示“任何一个”，"随便哪一个"
+3）some 和 any 还可用来修饰可数名词单数， 这时some表示“某一个”，any表示“任何一个”，"随便哪一个"
 You will regret it some day.
 You can get it in any department store.
 
@@ -134,49 +146,65 @@ John lives in England. He has a house in London.
 2)//在海洋， 河流， 山脉前， 一定要用定冠词 the
 Who was the first person to sail across the Pacific?
 It can get rough in the Mediterranean.
+Many great cities are built on reivers: Paris is on the Seine, London is on the Thames and Rome is on the Tiber.
 
 3)有普通名词构成的专有名词前加the.
+America - the United States of America
 China - the People's Republic of China.
 the Great Wall
+the Summer Palace //颐和园
+the Forbidden City //紫荆城，故宫
 
-4)在方为的名词前加the
+4）表特定的或上文提到过的事物（或双方都明了的事物）前加the
+I am interested in the film.
+Pass me the slippers please.
+
+5) 世界上独一无二的事物前加the
+the earth, the moon, the sun
+
+6）在序数词或形容词的最高级前加the
+the second storey //第二层 
+the largest room
+
+7)在方为的名词前加the
 on the left   
 on the right
 in the east
 in the west
 
-5)//表示时间的一些固定短语前加the
+8)//表示时间的一些固定短语前加the
 in the morning
 in the afternoon
 in the evening
 in the day time
 
-6)用在形容词前表一类人
+9)the用在形容词前表一类人
 the poor 
 the rich 
 the old
 the young
-the sick
-the new
+the sick //病人
+the new //新手
 the blind
 
-7)在姓氏复数形式前表示一家人或夫妻两
+10)在姓氏复数形式前表示一家人或夫妻两
 the Browns
 
-8)在乐器前加the
+11)在乐器前加the
 the piano
+the guitar
 
-9)表世纪的某个年代
+12)表世纪的某个年代
 in the 1980's
 
-10)发明物前加the
+13)发明物前加the
 The telephone was invented by Bell.
 The compass was invented in China.
 
-11)//专有名词， 物质名词， 抽象名词， 人名， 地名前不加冠词
-China London Smith Art 
+1)//专有名词， 物质名词， 抽象名词， 人名， 地名前不加冠词
+China London Smith Art matter
 
-12)季节， 月份，星期，节假日， 一日三餐前不加冠词
+2)季节， 月份，星期，节假日， 一日三餐前不加冠词
 March 
 National's day
 Supper
@@ -185,6 +213,7 @@ Saturday
 
 3)//学科名称，球类，棋类名词前不加冠词
 mathematics
+politics
 football
 politics
 chess
@@ -199,6 +228,13 @@ a nearby town / a town nearby
 2)adv.附近地
 My parents live nearby.
 
+//早晨，中午，晚上前出现修饰词时，用介词on
+on fine afternoons 
+on the afternoon of July the fourth
+
+//现在分词表伴随状语
+There were some people rowing on the river.
+
 as usual //像平常一样
 than usual //比平常
 as before //像以前
@@ -211,6 +247,30 @@ He was so ill that we had to send for a doctor.
 She was so angry that she couldn't speak.
 You speak so fast that I can't follow you.
 I am so nervous that I don't know what do say.
+
+laugh //大声地笑，出声地笑
+smile //微笑
+grin //露齿而笑
+chuckle //低声轻笑
+sneer //嘲笑
+giggle //咯咯地笑
+
+happen //表示偶然事件发生 --无被动
+
+hardly //几乎不
+hard //adj. adv. 作副词表示用力地
+hardy //强壮的
+hardily //大胆地，刚毅地
+
+knock at //敲打，敲出声音
+beat //打，敲，表示连续第，有规律地敲打
+bounce //指球弹起，弹跳
+hit //打，打击，强调打中
+
+dismiss //解散，开除
+disturb //妨碍，打扰
+displace //使...脱离正常位置
+disappear //消失，不见
 
 All is not gold that glitters. //闪光的未必都是金子。
 
