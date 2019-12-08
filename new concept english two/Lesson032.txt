@@ -11,21 +11,23 @@ People are not so honest as they once were.
 I once lived in Africa.
 The book was once famous.
 
-at once //立刻
+at once //立刻 --immediately; right away
+After work, come back at once!
 once again = once more
 Read the new words once again.
 
 once upon a time = long, long ago
+Once upon a time there was a beautiful princess.
 
-temptation //n.诱惑
 tempt //v.怂恿，劝说或鼓动某人做某事
 tempt sb to do sth
 tempt sb into sth
 tempt sb into doing sth
 He was tempted into stealing.
-The warm weather tempted us into going for a swim.
-She was tempted to bear a false witness.
+The warm weather tempted us into going for a swim. //这种炎热的天气让我们很想去游泳
+She was tempted to bear a false witness. //她被怂恿做伪证
 
+temptation //n.诱惑
 the temptation of beauty
 give in to temptation //经不住诱惑
 I can't resist the temptation of sweets.
@@ -34,24 +36,26 @@ tempting //adj.诱惑人的，令人心动的，迷人的
 
 article
 1)物品，东西，商品
-small articles
-articles of clothing
-toilet articles
+small articles //小商品
+articles of clothing //衣物
+toilet articles //盥洗用品
 
 2)文章
+Have you read the article on /about the train accident in today's paper?
 
 3)冠词 a, an, the
 
 wrap //vt.包，裹
 wrap sth up //把...包起来
 I wrapped the parcels up and posted them.
+Christmas presents were wrapped up in tissue paper. //圣诞礼物用薄纸包着。
 The assistant wrapped the dress up as quickly as possible.
 
 warp it up //住嘴，安静
 =shut up; be quiet
 
 be wrapped up in //完全被包在...里，全神贯注与
-He was wrapped up in TV/watching TV.
+He was wrapped up in TV/watching TV. //他全神贯注地看电视
 
 simply
 1)简单地
@@ -75,21 +79,18 @@ catch sb doing
 seize sb
 grab sb
 hold sb
-capture
+capture //捕获
  
 arresting //引人注目的，醒目的
 
 /** 形容词副词的同级比较 **/
 //表示 "和...一样地"
-as + adj./adv. + as
-
+as + adj./adv. + as  //其中adj.或adv.必须用原形
 //表示 "不如，不及"
-not as/so + adj./adv. + as
+not as/so + adj./adv. + as  //其中adj.或adv.必须用原形
 
-其中adj.或adv.必须用原形
-
-He is not as energetic as a young man.
-Let's walk. It's just as quick as taking the bus.
+He is not as energetic as a young man. //他不如年轻人那样有活力
+Let's walk. It's just as quick as taking the bus. //我们走路吧，和乘公共汽车是一样的快
 He is not as busy as before.
 We'll give you as much help as we can.
 Please send us the technical data as soon as possible.
@@ -98,7 +99,9 @@ I can't speak so/as fast as you can.
 I didn't do so/as well as I should.
 
 //as...as; so...as 结构前可以用just, almost, nearly, half 等词表示程度
-She hasn't been quite so unlucky as she pretends.
+She hasn't been quite so unlucky as she pretends. //她并不像她所装的那样倒霉
+He doesn't dress half so strangely as Tom. //他的衣着的奇异远不及汤姆
+You are sewing nearly as neatly as your mother. //你的针线活差不多和你母亲一样干劲利落
 
 //其它比较方式
 There isn't much I can do to help him.
@@ -108,48 +111,77 @@ He hasn't got as much work to do as I have.
 =He's got less work to do than I have.
 
 There weren't many people in the shop.
-=There were very few people in the shop.
+=There were very few people in the shop. //not many/ very few 
 
 He hasn't as many books as I have.
 =He has fewer books than I have.
 
+There isn't much whisky in this bottle, but you can have some if you want it.
+
+There aren't many apples on the tree, but you can pick some if you want to.
+
+People are not so honest as they once were.
+=People are less honest than they once were.
+=People are not so honest as they used to be.
+=People are less honest than they used to be.
+
 half-done //半成的
 over-tired //过度劳累
 happy-go-lucky //无忧无虑的
-three-legged
-long-distance
+three-legged //三条腿
+long-distance //长距离
+a long-distance runner
 out-and-out //彻头彻尾
 hard-won //艰难赢取
-over-all //全部的，一切的
+over-all //全部的，一切的 
+ready-made //现成,现成品
+first-rate //第一流的,上等的
+
+without paying
+介词 + n./pron./doing //动名词逻辑主语必须与前面主语一致
+
+find
+1）意外或偶尔发现
+Look, what I've found.
+He woke up and found himself in hospital.
+2）发现，找回
+Now, everybody is hopping that scientists can find the cure for Aids. //现在，人人都希望科学家能找到治疗艾滋病的方法。
+I looked for my wallet everywhere, but I can't find it.
+
+find out //经研究，询问获知
+I found out that the train had left.
+The detective found out that the girl was the woman's daughter.
 
 free
 1)免费的
-There is no such a things as free lunch.
-a freee cup of coffee.
+There is no such a things as free lunch. //天下没有免费的午餐
+a free cup of coffee.
 
 2)自由的
 After ten years in prison, he is free now.
+My father went to Shanghai on business. I'm free now.
 
 3)空闲的
-Are you free tonight？
+Are you free tonight？ Would you like to go to the cinema with me?
 
 freedom //n.自由
-fight for freedom
+fight for freedom //为了自由而战  --压头韵
 
 a/an 与 one 的异同
 1)相同：二者都有一个的意思，有时可互换，尤其表示数量，长度，重量时
 a foot = one foot
 a pound = one pound
-a hundred = on hundred
+a hundred = one hundred
 
 2)不同： a/an 表示类别， 数词one 强调数目
-Can a girl do this? //这是女孩干的活吗？
+Can a girl do this? //这是女孩干的活吗？ --Maybe a boy can do it.
 --Maybe a boy can do it.
 
-Can one girl do this?
+Can one girl do this? // Maybe more girls can do it.
 --Maybe more girls can do this.
 
 3)表示数目对比的场合，用one, 不用a/an
+I have one girlfriend, but you have two.
 Tom has two brothers but only one sister.
 
 4)某些习语中，a/an 与one 含义不同
@@ -157,7 +189,7 @@ at a time //每次
 at one time //一度
 
 more than a year //一年多 --如一年零一个月
-more than one year //不知一年 --如三年
+more than one year //不止一年 --如三年
 
 5)某些习语中，不可替换
 once upon a time
@@ -165,10 +197,17 @@ one day
 an hour or two / one or two hours
 a day or two / one or two days
 
+as soon as //一...就
+as well as //一样，和
+so far as //就...来说
+so long as //只要
+
 not much / little
 not many / very few
 not as much ... as / less than
 not as many ... as / fewer than
+some / a little //不可数名词
+some / a few //可数名词
 
 in all //总计，合计
 
