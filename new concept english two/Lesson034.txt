@@ -34,6 +34,7 @@ What most pleased me was that...
 What pleased me most was...
 
 3)构成adj./adv的最高级
+The new employee worked (the) most vigorously of all.
 
 4)many 和 much 的最高级
 many - more - most
@@ -45,28 +46,35 @@ Most of them were late.
 
 /** 被动语态 **/
 1.被动语态除常用be加过去分词外，还可用get加过去分词（用于口语中）
+Hundreds of people get killed every year by traffic on the roads.
 The boy got hurt on his way to school. //那个男孩在上学的路上受伤了。
 
-2.主 + 谓 + 复合宾语（宾语+宾语补足语）变为被动结构时，只要将主动结构
-//中的宾语变为被动结构中的主语，宾语补足语不变
+2.主 + 谓 + 复合宾语（宾语+宾语补足语）变为被动结构时，只要将主动结构中的宾语变为被动结构中的主语，宾语补足语不变
+They chose Harry captain.
+->Harry was chosen captain.
 We asked the teacher to explain the difficult sentence again.
 ->The teacher was asked to explain the difficult sentence again.
 We found him lying on the floor.
 ->He was found lying on the floor.
 
+He never excepted them to find the bicycle.
+->He never excepted the bicycle to be found.
+
 3.以下情况中，主动句一般不能变为被动句
 1)谓语为不及物动词
 The puppy died.
-2)谓语为及物动词leave, enter, reach, resemble, become, suit, benefit, lack等
+2)谓语为及物动词leave, enter, reach, resemble, become, suit, benefit, lack 等
+leave Beijing
+enter the boss's office
 3)不可拆开的动词短语
-take place
-lose heart
+take place //发生
+lose heart //灰心丧气
 change colour
 belong to
-consist of
+consist of //由...组成
 
 be worried about sth
-be anxious about sth
+be anxious about sth //--very worried
 all week
 all day long
 all year round
@@ -75,6 +83,9 @@ all day and all night
 local
 1)地方的，本地的，地区的
 local news //当地新闻
+a local station //地方的一个车站
+local farmers //当地农民
+local government //地方政府
 local time //当地时间
 local color //地方特色
 
@@ -86,20 +97,42 @@ a local pain //局部疼痛
 
 call on sb //拜访某人
 call at + some place
+I called on George yesterday.
+He calls at every house in the street once a month.
+
 call out to sb //对...大喊大叫
+He called out to me but I didn't hear him.
+
 call sb up = call sb //给...打电话
+She'll call you up tomorrow.
+
 call off = cancel //取消
 It began to rain so we called off the match.
 
 want
 1)vt.需要某人在场
-You are wanted on the phone.
-He was wanted by the police.
+You are wanted on the phone.//有你的电话。
+He was wanted by the police. //他被警方通缉。
 2)v.想要，希望
 want to do sth
+I want to go to Europe.
 want sb to do sth
+She wanted him to repair their grandson's bicycle.
 want sb doing sth
+I don't want you meddling in my private affaires. //我不希望你干涉我的私事
 want sth to be done
+
+police //集合名词 --谓语动词为复数
+
+not anymore = no more //不再
+I won't see you any more. 
+=I will see you no more. //我不会再见你了
+He is not wealthy any more. //他不再富有了。
+
+smile //v./n. 微笑
+smiling //adj.微笑的，笑容可拘的
+unsmiling //adj.不苟言笑的
+a large unsmiling lady //一位身材高大不苟言笑的女士
 
 pick up
 1)拾起，捡起

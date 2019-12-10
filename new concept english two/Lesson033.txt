@@ -1,26 +1,25 @@
 Lesson 033
 
-darkness <-->brightness
-
+darkness //n.[u]黑暗，漆黑 <-->brightness
 The house was in complete darkness.
 
 dark
-1)adj.黑暗的
+1)adj.黑暗的 <-->light
 a dark street
 a dart night
-
 2)深色的，暗色的
-dart suit 
+dark suit  //深色的西服
+dark hair //深色的头发
 3)阴郁，忧郁的
-dark expression
-
+dark expression //忧郁的表情
 4)不吉利
-a dark sheelp in his family //害群之马
+a dark sheep in his family //害群之马
+a dark horse //黑马
 
 adj. + ness(名词后缀) -> n.
 dark  -> darkness
 careful -> carefulness
-good  -> goodness
+good  -> goodness //善良，美的
 careless -> carelessness
 
 explain //v.解释，辩护
@@ -28,11 +27,14 @@ explain sth to sb
 explain + that/wh 从句
 Could you explain that question once again?
 The manager explained to the customer why the goods were late.
-He was late. He explained that the bus had broken down.
+He was late. He explained that the bus had broken down. //汽车抛锚
+How do you explain your rude behavior?
+That explains her sudden anger. //这就是她突然生气的原因
+=That explains why she got angry all of a sudden. 
 explain oneself //为自己的行为立场辩解
 
 explanation //n.[u]解释  [c]解释的语言，事实，情况
-He resigned without explanation.
+He resigned without explanation. //他没有解释就辞职了
 Do you have any explanation for your being later?
 
 coast //n.海岸，海滨
@@ -51,7 +53,7 @@ a snowstorm //暴风雪
 a dust storm //尘暴
 a sandstorm //沙暴
 a thunderstorm //大雷雨
-brainstorm //群策群力
+brainstorm //群策群力，头脑风暴
 After a storm comes a calm. //雨过天晴，否极泰来
 
 2)n.嘈杂声，纷飞，激动
@@ -85,11 +87,11 @@ run up on the rocks //触礁
 rock a baby to sleep
 rock a baby asleep
 
-Out boat rocked to and fro on the waves.
+Out boat rocked to and fro on the waves. //我们的船随波摆来摆去
 
 5)v.使（某人）震惊
-The news of the president's death rocked the company.
- 
+The news of the president's death rocked the company. //总裁的去世震惊了整个公司
+
 rock the boat //兴风作浪
 
 light
@@ -101,33 +103,34 @@ the light of the fire //火光
 2)n.光源，尤指电灯
 turn on the light 
 turn off the light 
-Keep going,the lights are green.
+From the TV tower, we can see the lights of Beijing. //从电视塔上我们能看到北京的万家灯火
+Keep going,the lights are green. //继续开，是绿灯
+A sea of lights and a river of cars, have you noticed the beautiful night-scenes in Beijing. //灯的海洋和车的河流，你注意到北京美丽的夜景了吗?
 
 3)n.火柴，打火机等
-Can you give me a light?
+Can you give me a light? //能借个火吗
 put a light to sth //点火
 
 according to one's lights //根据自己的判断能力
 
 bring sth to light //揭露
-His past was brought to light.
+His past was brought to light. //他的过去被公之于众了
 
 in the light of //鉴于
 
 ahead
 1)adj./adv.  空间性的在前面，向前 <-->behind
 He passed me and ran ahead.
-The tree ahead was in the way.
-
+The tree ahead was in the way. //前面的数挡路了
+May I use your dictionary? 
+->Go ahead. //用吧
 
 2)时间性的预先，事先
 think ahead //事先考虑
 plan ahead //事先计划
-May I use your dictionary? 
-->Go ahead.
 
 Try to look ahead to the future.
-Our team is ahead by three runs.
+Our team is ahead by three runs. //我们队领先3分
 
 //表语形容词 --只能做后置定语
 asleep
@@ -136,7 +139,7 @@ alone
 alive
 ahead
 
-cliff //n.悬崖，峭壁，绝壁
+cliff //n.悬崖，峭壁，绝壁 --pl. cliffs
 stand on the edge of a cliff //站在悬崖边上
 
 precipice //绝壁，断崖
@@ -153,6 +156,7 @@ struggle against sth //反对...而斗争
 
 fight for freedom
 struggle for freedom
+struggle up the cliff //挣扎地爬上悬崖
 
 The people are struggling for freedom.
 Chinese people struggled against Japanese for eight years.
@@ -161,7 +165,7 @@ Chinese people struggled against Japanese for eight years.
 make one's way with difficulty
 
 She struggled up the cliff.
-The chick finally broke through the shell and struggled out.
+The chick finally broke through the shell and struggled out. //小鸡终于冲破蛋壳，挣扎了出来
 
 3)n.挣扎，手脚乱动，奋斗
 Don't give up without a struggle.
@@ -181,28 +185,31 @@ show hospitality to a person
 
 /** 表示方向的介词 **/
 1. phrases with to and from
-from door to door
-from cover to cover
-from beginning to end
-from China to Peru
-from hand to mouth
+from door to door //挨门挨户
+from cover to cover //从头翻到尾
+from beginning to end //
+from China to Peru //
+from hand to mouth //所赚的钱仅够糊口
 
 2. phrases with into and out of
 1) into:entrance //进入
    in : position //在...里， 在...地方
-
 2) out of : exit //离开，出去
+Where is Carol?
+-She has just gone into the kitchen.
+Where did you throw that piece of paper?
+-I threw it out of the window. 
 
 3. phrases with for
-for : the destination of a journey
+for : the destination of a journey //旅途的目的地
 We set out for the village at six o'clock next morning.
-George has left for Scotland.
+George has left for Scotland. //乔治已动身去苏格兰了
 
 leave somewhere //离开某地
 leave for somewhere //离开去某地
 
 4. phrases with towards
-towards : direction approaching a place
+towards : direction approaching a place //朝着某个方向
 The car came towards me.
 She swam towards the shore.
 She swam to the shore.
@@ -216,34 +223,36 @@ It is so noisy that we have to shout to each other.
 It is rude to point at people.
 
 pass //v.经过
-He passed my house this morning.
+He passed my house this morning. //今天早晨他经过我家房子
 pass the exam
 fail in the exam
 
 past //
 1)prep. 经过
-He walked past my house.
+He walked past my house. //他经过我家房子
 2)adj.过去的
 He told me about his past experience.
 3)n.过去
-He seems to live in the past.
+He seems to live in the past. //他似乎生活在过去
 the past, the present and the future
 
 be able to 与 can 区别
 1)be able to 可用于任何时态
   can 只可用于现在时或过去时
 I will be able to open the lock in five minutes.
+He hasn't been able to go to work for a month.  //他已经一个月没去上班了。
 
 2)表示经过努力而做出某事
   was/were able to
 The plane was able to fly over the mountain at last. //飞机终于能够飞越那座山了。
+The girl was able to explain what had happened to her at last.
 
 3)can : 能够，有可能性做某事
   be able to : 有能力，有办法做某事
 There is no paper. I can't write.
 The child is not yet able to write.
 
-cover
+cover 
 1)v.行走（距离），走过，飞过，越过（不用被动语态）
 How far can we cover a day?
 She covered 1000 meters in less than 4 minutes.
@@ -258,22 +267,34 @@ conceal //隐瞒
 bury //埋葬
 cover //覆盖
 
-the other day //几天前
-a few days ago
+next: 下面的，接下来的
+other: 另外的
+Early next morning she saw a light ahead.
+the next day //第二天
+We arrived in Paris on Tuesday evening. The next day we went sight seeing. //第二天我们去观光了
 
+the other day //几天前 =a few days ago
+I saw Marry the other day. //前几天我看到玛丽了
+
+on arriving at the shore.
+=as soon as she arrived at the shore
 on doing sth //一...就
-On hearing the news, she cried.
-On seeing the girl, he didn't know what to say.
+On hearing the news, she cried. //一听到这个消息，她就哭了
+On seeing the girl, he didn't know what to say. //一看到这个女孩，他不知道该说什么
 //用on doing 表"一...就", 前提时动名词doing的逻辑主语，须与主句一致
 
+She（主） found（谓） herself（宾） in hospital（宾补）.
 find 后的宾语补足语
 I found the film boring. //--boring 是宾语补足语
+I found him unhonest.
+We found him a liar.
+He is finding the trip very exciting.
 
 ahead of schedule //比计划提前
 in advance of //事先，预先，在句中起副词作用，修饰动词
 in front of //在...前面,表示方位，空间位置上的前面
 in excess of //超过了，通常描述程度的
-
+  
 climb up a rock
 
 cover a distance of 9 miles
