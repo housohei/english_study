@@ -1,10 +1,10 @@
 Lesson 035
 
 while
-1)n.一段时间
-For a long while we had no news of him.
+1)n.一段时间 a period of time
+For a long while we had no news of him. //很长一段时间我们没有他的消息
 I'll be back in a little while.
-It took quite a while to find a hotel.
+It took quite a while to find a hotel. //找到旅馆花了很长一段时间
 
 2)conj..当...时候/when
 He fell asleep while (he was) doing his homework.
@@ -13,7 +13,7 @@ conj.与此同时 at the same time; as
 While Mary was busy in the kitchen, her husband was watching TV.
 
 3)表示对比或相反的情况
-I like strong tea while he prefers weak tea.
+I like strong tea while he prefers weak tea. //--淡茶
 
 regret
 1)v.后悔，遗憾，对...惋惜 regretted
@@ -58,10 +58,10 @@ rush
 1)v.急速地来去，冲，奔
 rush out of school
 rush out of the door
-rush away
+rush away //跑走了
 Fools rush in where angels fear to tread. //初生牛犊不怕虎
 Rush these letters to the post office and make them registered.
-He rushed his wife off to the hospital.
+He rushed his wife off to the hospital. //他把妻子火速送到医院
 
 run //跑
 jog //慢跑
@@ -105,11 +105,10 @@ a straight road
 a straight line
 keep a straight face //板着脸
 
-
 2) adv.挺直地，直接地，径直
 He was too drunk to walk straight.
 Come straight home. //直接回家
-I'll get straight to the point. //我开门见山地说吧。
+I'll get straight to the point. Your work isn't good enough.//我开门见山地说吧。你的工作做的不够好
 Go straight! //向前直走
 
 fright //n.惊吓，害怕，恐怖
@@ -120,27 +119,31 @@ faint with fright //吓昏
 The dog barked and gave him a fright.
 
 frighten //v.使害怕，吓唬
-Sorry, I didn't mean to frighten you.
+Sorry, I didn't mean to frighten you. //抱歉，我没有打算吓唬你
 frighten sb to death
 =frighten the life out of sb
 
 frightened //adj.感到惊吓的，害怕的
-The frightened girl was speechless.
+The frightened girl was speechless. //这个吓坏的女孩说不出话来了
 He looked frightened when he spoke.
 
 frightening //adj.令人惊吓的
-He spoke in a frightening manner.
+He spoke in a frightening manner. //他说话的样子很吓人
 frightening situation
 frightening war
 
 battered //adj.由于年久，经常使用或事故等原因而走样的
-a battered hat
-Your car looks rather battered.
+a battered hat //一个破旧的帽子
+Your car looks rather battered. //你的车看起来很旧。
 
 batter //v.猛敲，猛砸
 batter at sth
 batter on sth
-He is battering at the door.
+He is battering at the door. //他正在砸门
+The ship was battered to pieces by the typhoon.
+
+batter //n.[u]面糊，糊状物
+pancake batter //做薄煎饼用的面糊
 
 shortly //adv.不久，很快（无比较级）
 in a short time, not long, soon
@@ -149,8 +152,8 @@ shortly afterwords //不久以后
 to put it shortly //简而言之
 He will be back shortly.
 He will be back soon.
-The temple was rebuilt shortly after the war.
-I'll be with you shortly.
+The temple was rebuilt shortly after the war. //战后不久这个庙被重建了
+I'll be with you shortly. //我很快就来
 
 afterword(s)
 1)adv.后来，然后，以后
@@ -158,21 +161,41 @@ at a later time
 Let's go to the theatre first and have dinner afterward(s).
 I don't have time to spare. I'll see you afterwards.
 
-2)adv.今后from now on/henceforth
+2)adv.今后 from now on/henceforth
 I promise never to gamble from now on.
 I promise never to gamble afterwards.
 I promise never to gamble henceforth.
 
+a short while ago = not long ago
+
+however 位置随意，句首，句末，句中皆可。放在句中时，前后用逗号分开
+but置于句首，不如however正式
+
+far more exciting
+much more exciting
+even more exciting
+a little more exciting
+less exciting
+
 along //沿着
 drive along
-Go straight along the street.
+Go straight along the street. //沿着这条路直走
 walk along the road = walk down the road = walk up the road
+
+see sb do sth //看见某人做某事
+I saw him cross the street. //--已经做了
+see sb doing sth //看见某人正在做某事
+I saw them arguing in the middle of the street. //正在做
+
+watch/ observe //强调看的动作
+
+a waiting car //现在分词作定语
 
 carry //v.搬运，携带
 carry a big sum of money
 
 carry away //吸引住，使忘我（多用被动）
-The audience was carried away by her songs.
+The audience was carried away by her songs. //观众被她的歌声吸引了
 
 carry out //实施计划，履行义务，进行实验
 carry out one's duty
@@ -184,7 +207,7 @@ Please help me move the table.
 
 lift //v.举起，抬起
 lift one's face
-lift a baby into a chair
+lift a baby into a chair //把婴儿抱进椅子 
 
 a bag full of money = a bag which was full of money
 
@@ -213,6 +236,19 @@ He is such a boring person that I won't have even one word with him again.
 He is so boring that ...
 I am so tired that I can't have another step.
 The car was so badly damaged that it was easy for the police to recognize it.
+
+was badly damaged
+was seriously damaged
+damage //v.损坏，损害
+Smoking can damage your health.
+The groundless rumor damaged his good name. //这个毫无根据的谣言损害了他的好名声。
+
+soon; in no time
+
+notice //表示注意到的意思，后面跟不带to的动词不定式或现在分词作宾语补足语,
+notice sb do/doing sth
+
+it is too + adj. + for sb to do sth
 
 Better to be safe than sorry. / Better safe than sorry.
 //宁可小心谨慎，不要冒险而事后懊悔
