@@ -1,7 +1,7 @@
 Lesson 036
 
 record
-1)n.记录，记载
+1)n.记录，记载 // a record of sth
 a record of accidents
 
 set up/ make / create / establish a new world record //创纪录
@@ -16,10 +16,10 @@ a hit record //流行歌曲唱片
 
 3)n.成绩，经历，前科
 a school record
-a police record
+a police record //前科
 
 4)v.记录，写下，录音 【ri'ko:d】
-I recorded his lecture.
+I recorded his lecture. //我记录下了他的演讲
 His speech was recorded on a tape.
 
 write //写
@@ -32,7 +32,7 @@ transcribe //誊写
 rewrite //重写
 recode //记录
 
-strong
+strong <-->weak
 1)健壮，结实，强壮，有力的
 as strong as a horse //力大如牛
 a strong wind
@@ -57,7 +57,7 @@ strong language //骂人的话
 be going strong //精神十足
 strong drink //烈性的酒精饮料
 soft drink //软饮料
-
+  
 weakling //懦夫，弱者
 
 swimmer //n.游泳运动员
@@ -79,6 +79,7 @@ The white clouds swam across the sky. //白云飘过天空
 
 3)相关短语
 teach fish to swim //班门弄斧
+teach one's grandmother to suck eggs
 
 swim with the tide
 swim with the steam //顺应潮流
@@ -87,42 +88,45 @@ swim against the tide
 swim against the stream //违反潮流
 
 succeed //v.成功，顺利完成，接着...发生 <--->fail
-succeed in sth / succeed in doing sth
-We succeed in the negotiation.
-Did he succeed in the examination?
+succeed in sth / succeed in doing sth //做某事成功或在某方面成功
+We succeed in the negotiation. //我们谈判成功了
+Did he succeed in the examination? //他考试及格了吗？
 Did he succeed in passing the examination?
 
 fail to do //没能作成某事
 fail in sth //在某方面失败
 fail in doing sth //做某事不成功
 
+//接着...发生
 Several earthquakes succeeded the eruption of the volcano. //火山爆发后发生了几次地震。
-The stormy night ended, and a beautiful morning succeeded.
+The stormy night ended, and a beautiful morning succeeded. //暴风雨之夜过后是一个晴朗的早晨
 
 success //n.成功 <--->failure
 The meeting is a great success.
-You are a success.
-You are a failure.
+You are a success. //你是一个成功者
+You are a failure. //你是一个失败者
 
 successful //adj.成功的
-They were successful in launching a communication satellite.
+They were successful in launching a communication satellite. //他们成功发射了一枚通信卫星
 
 successfully //adv.成功地
 I passed the exam successfully.
-The prime minister explained his policy so successfully that he won a majority.
+The prime minister explained his policy so successfully that he won a majority. //首相成功阐述他的政策以至于他以多数获胜
 
 train
 1)n.火车
 by train 
-take a train
+take a train //乘坐火车
 catch the early train
 
 underground/tube(Br) //地铁
 subway Am
 
+2）//长袍拖地部分
+
 3)v.develop one's skill
 He trained the horse for the next race.
-I was trained as a nurse.
+I was trained as a nurse. //我接受过护士的训练
 
 train sb to do sth
 He trained his dog to stand on its hind legs.
@@ -149,16 +153,16 @@ anxiously //adv.焦虑地，担忧地
 'Are you all right?' he asked anxiously.
 
 anxious //adj.挂念地，忧虑地
-an anxious look
-I'm anxious about her health.
+an anxious look //焦虑的表情
+I'm anxious about her health. //我担心她的健康
 
 anxious //adj.渴望的，盼望的
 be anxious for //渴望某事
-We are anxious for your safe return.
+We are anxious for your safe return. //我们渴望你平安归来
 
 be anxious to do //渴望做某事
 be anxious for sb to do sth //渴望某人做某事
-She was anxious for them all to leave the room.
+She was anxious for them all to leave the room. //她希望他们都离开这个房间
 
 anxiety //n.渴望，忧虑
 He caused his parents a lot of anxiety.
@@ -178,26 +182,27 @@ plan to do sth //计划做某事 --不同将来时，用一般现在时
 hope to do sth //希望做某事 --不同将来时，用一般现在时
 mean to do sth //打算做某事 --不同将来时，用一般现在时
 She intends to go abroad.
-She intends to enter for the competition.
-They intend to marry.
+She intends to enter for the competition. //她打算参加这个比赛
+They intend to marry. //他们打算结婚
 
 have intended to do...
-=intended to do ... //本打算...(虚拟)
-I had intended to go for a walk, but it rained. So I cancelled it.
+=intended to do ... //本打算...(虚拟) -->should have done...but didn't do that somehow
+I had intended to go for a walk, but it rained. So I cancelled it. //我本打算去散步，但下雨了，所以我取消了
 
 intention //n.目的，打算，意图
+The road to hell is paved with good intention. //只有良好的动机而不付诸实践，徒遭埋怨或惩罚
 tend //v.倾向，趋向
-Secretaries tend to be girls.
-Young man tend to study abroad.
+Secretaries tend to be girls. //秘书基本都是女孩
+Young man tend to study abroad. //年轻人倾向于出国留学
 
 solid n./adj.
 1)n.固体 liquid液体 gas气体
-How many states are there in the universe?
+How many states are there in the universe? //宇宙中多少种状态
 Three. They are gas, solid and liquid.
 
 2)adj.固体的 liquid液体的 gaseous 气体的
 solid fuel //固体燃料
-Ice is water in solid state.
+Ice is water in solid state. //冰是水的固体状态
 
 3)adj.实质的，非空心的  <--->hollow   //无比较级和最高级
 solid tires //充满了气的轮胎
@@ -210,7 +215,7 @@ a solid bridge
 
 5)adj.公司事业等牢靠的，人可信赖的
 a solid enterprise //可信任的公司
-He is a man of solid character.
+He is a man of solid character. //他是个可信任的人
 
 lay a solid foundation in ...//打下牢固的基础
 
@@ -224,38 +229,43 @@ solid white //纯白色
 
 1. will do sth / shall do sth 
   be going to + v.原形 //表示打算，准备做的事或即将发生或肯定要发生的事
-We are going to put up a building here.
-Who's going to speak first?
+We are going to put up a building here. //--put up 搭建
+Who's going to speak first?  //将要发言
+I think it's going to snow. //即将要下雪
 She's going to have a baby.
 How are you going to spend your holidays?
+There are going to be a lot of trouble about this. //即将发生
 
 //在陈述句和疑问句中，我们常常可用be going to 来代替shall或will,
 //但在条件句或类似这样的句子中，我们不能用be going to 
 You will enjoy yourself if you travel by sea.
 
+Jack phoned you just now.
+->OK, I'll phone him back. //我会给他回电话的
+->I know that. I'm going to phone him back. //我知道这事，我正要给他回电话
+
 3.某些动词表示按计划或时刻表要做的事，用一般现在时或进行时表示一般将来时
-mean to do
+mean to do //打算做某事
 I mean to go tomorrow.
 
-plan to do
+plan to do //计划做某事
 I plan to stay here.
 I am planning to stay here.
 
-hope to do 
+hope to do  //希望做某事
 We hope to visit this place again.
 
-intend to do
+intend to do //打算做某事
 We intend to leave at 6 o'clock.
 
 4.趋向性动词，表示要发生的事，用现在进行时表示将来时
 go, come, leave, arrive, land, meet, die, start, return, join
-
-I'm coming to see you.
+I'm coming to see you. //我就来看你 相当于 I will come to see you.
 The train is leaving.
 
 5. be to do 表示按计划安排要发生的事或用来征求对方意见
 When is the factory to go into production?
-When are they to hand in their plan?
+When are they to hand in their plan? //他们什么时候把计划交上来呢
 
 6. be about to do ... 正要做...
 We're about to leave.
@@ -266,14 +276,13 @@ I set out to knit a sweater but in the end it became a vest.
 
 set about doing
 set about sth //着手开始做某事
-
-He set about his homework right after supper.
+He set about his homework right after supper. //他一吃完晚饭就开始做作业了
 
 across //prep. 横穿
 cross //v.穿过，横过,交叉
 cross a river
 cross a bridge
-She sat down and crossed her legs.
+She sat down and crossed her legs. //他坐下来翘起二郎腿
 Be careful when you cross the street.
 A new shop opened across the street.
 
@@ -281,31 +290,70 @@ through //prep.从内部穿过
 through the park
 through the forest
 
+set out from  //从某地出发上路
+set off //开始旅行，赛跑，出发
+
 be sure to do //肯定要做某事， 一定要做某事
 be sure of //一定会获得， 赢得某事物
+Be sure to come early next time. //下次一定要早点来
+You are sure of a warm welcome. //你一定会赢的热烈的欢迎的
+Can I be sure of a profit if I invest? //如果我投资我一定能获得利润吗
 
-Be sure to come early next time.
-You are sure of a warm welcome.
+//将来进行时表示对将来的行为，状况的一种判断推测
+
+watch //观看，指正在发生的事情
+watch a football match
+loot at //看，指看的动作
+look at the blackboard
+look at your book
+look at this picture
+follow //跟随
+I followed my mother into the kitchen.
+
+as //多用于引导在某行为的继续中发生某事的继续之行为 (/when)
+As I was walking down the street, an American asked me for directions to the nearest station.
+
+as //随着
+As she grew older, she became more pessimistic. //随着她年龄的增长，变得更加悲观了
+
+as //因为，由于
+As I had a cold, I was absent from school.
+
+as //一边...一边（while）
+He sang songs as he was taking a bath. //他一边洗澡一边唱歌
 
 every two hours //每两小时
-every other hour 
+every other hour //每隔一小时
 
-every other day
+every other day //每两天
 =every two days //每隔一天
 
 every three or four days //每三四天
 every now and then //不时，偶尔
 
+something to drink // to drink 不定式修饰something
+
 something / nothing / anything //的修饰语放在其后
-something important
-nothing important
-anything else
+something important //一些重要的事情
+nothing important //没什么重要的事情
+anything else //别的什么事情
+
+firm //adj.稳固的，不松动，无疑的，严格，严厉
+I've fixed that hook. It's firm now. //我已经修好了那个钩子，他现在很牢固
+He gave me a firm refusal. //他断然地拒绝了我
+You must be very firm on that child. //你必须对那个孩子非常严格
+ 
+stable //adj.坚定的，常用来形容性格
+He is a very stable person. //他是个非常稳重的人。
 
 most //大多数 通常不与the连用
 Most people want to own their own house.
 most of all //格外
-I like all kinds of music, but most of all I like classical music.
+I like all kinds of music, but most of all I like classical music. //我喜欢各种音乐，但我尤其喜欢古典音乐
 
-Bite the handd that feeds one. //恩将仇报，忘恩负义
+between //两者之间
+among //三者或三者以上
+
+Bite the hand that feeds one. //恩将仇报，忘恩负义
 
 Blood is thicker than water. //血浓于水
