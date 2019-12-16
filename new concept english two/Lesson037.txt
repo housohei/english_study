@@ -5,6 +5,7 @@ hold -held -held
 A meeting was held here yesterday.
 
 2)observe,celebrate //庆祝，过节
+Do you hold Christmas in your country?
 
 3)抓住，握住 --take and keep/ grab/ seize/ catch
 hold my hand
@@ -15,23 +16,26 @@ I threw the rope and he caught hold of it.
 
 4)容纳 contain
 have enough space for sb/sth
-My brain can not hold so much informaiton at one time.
-The auditorium can hold 1000 people.
+My brain can not hold so much information at one time. //我的大脑一下子不能容纳这么多信息
+The auditorium can hold 1000 people. //这个礼堂能够容纳1000人
 
 5)坚持
 Hold on!
-Stick to it!
+Stick to it! //坚持下去
 Never say die!
-Hold the line,please.
+Never give up! //永不放弃
+Never lose heart! //永不灰心丧气
+Hold the line,please. //请稍等
 =Hold it!
 =Hold on a minute, please!
 
 government 
 
 govern //v.治理，统治，管理
-The mayor governed the city very wisely.
-govern the people
+The mayor governed the city very wisely. //这个市场很好的治理这个城市
+govern the people //统治人民
 govern a school
+govern one's temper //控制某人的脾气
 
 governor //州长，总督，总裁，管理者
 
@@ -47,39 +51,41 @@ gymnasium gym(缩写) //n.健身房，室内体育馆
 
 capital
 1)n.首都，省会
+London, Paris and Rome are capital cities.
 2)n.大写字母 
 write in capitals
-Begin your sentence with a capital.
+Begin your sentence with a capital. //句首用大写字母开始
 3)资本，资金
 capitalism //资本主义
 capitalist //资本家
-set up a business with a starting capital of 1000.
+set up a business with a starting capital of 10000. //以10000的起始资金创办公司
 fixed capital  //固定资本
 circulating capital //流动资本
 capital and interest //资本及利息
 4)adj.致命的
 capital punishment //死刑
+a capital blunder //大错误，致命的错误
 
 standard
 1)adj.标准的，一般的
 standard English
 a car of the standard size //标准大小的汽车
 2)adj.极佳的，一流的
-a standard composer
+a standard composer //一流的作曲家
 3)n.标准，水准，模范，规范
-living standard
-the standard of living
+living standard //生活水准
+the standard of living //生活水准
 moral standard //道德标准
 
 criterion //n.标准，尺度
 criteria pl.
-His work was below the required standard.
+His work was below the required standard. //他的工作低于标准要求
 standard time //标准时间
 
-fantasitic
+fantastic
 1)巨大的
 2）adj.极好的，美妙的，很棒的
-The night view of the bay is even more fantasitic.
+The night view of the bay is even more fantastic. //海湾的夜景甚至更美
 
 big <-->small
 large
@@ -88,50 +94,71 @@ huge //巨大的，极大的 --very large in size or amount
 vast:very large i area, size, quantity or degree
 immense: extremely large
 enormous:very large, immense
-trememdous:very great
+tremendous:very great
 giant: //n.巨人 adj.巨大的
-giantic : 庞大的，巨大的
+gigantic //庞大的，巨大的
 titanic
 
 design
 1)v.设计，拟定
 She designs dresses for the singer.
-The house is designed for a large family.
+He designed a plot for his new novel. //他为新小说设置情节
+The house is designed for a large family. //这个房子是为人口多的家庭设计的
 2)n.图样，设计
 a design for a dress
-The machine is of very poor design.
+The machine is of very poor design. //这个机器设计及其糟糕
 
 /** 将来完成时 **/
+//表将来某时会完成的事情并往往对将来某一时间产生影响，常常与表将来的时间状语连用
 will(shall) have + v.-ed
+I shall have finished this book before lunch. //午饭之前我将看完这本书
+They'll have hit the year's target by the end of October. //在10月底前他们将完成全年的目标
+When we get there they'll probably have left. //当我们到的时候他们可能已经走了
+By this time next year we'll have turned all the land into rice fields. //到明年这个时候，我们将把所有的土地变成稻田。
+He will have moved to a new flat in two months' time. //两个月之后他将搬进新的公寓
 
+
+game
+a game of cards //纸牌游戏
+Playing house is one of the favorite games of children. //玩过家家是孩子们最喜欢的游戏
+games //运动会(pl.)
 the Games //国际性体育比赛
-
 play a cat-and-mouse game with sb //欲擒故纵
 the luck of the game //手气
 
 in four years' time =  in four years
 
 a great many + pl. //许多
-a good many + pl.
-a large number of + pl.
+a good many + pl. //许多
+a large number of + pl. //许多
 many a + single n. (谓语用单数)
 
-at the end of + 时间/地点
-at the end of this month
-at the end of this road
+by the end of this year //到今年底为止
+at the end of + 时间/地点  
+at the end of this month //这个月月底
+at the end of this road //这条路的尽头
 
+go up //被建立起来
 mushroom up //如雨后春笋般越来越多的
 New buildings mushroom up.
 
 //渴望做某事
 look forward to  + n/doing/pron
-be eager to do sth
-be eager for sth
-long to do sth
-long for sth
-I am looking forward to your letter.
-I am looking forward to seeing you again.
+be eager to do sth //热切地盼望做某事
+be eager for sth //热切希望某事
+long to do sth //渴望做某事
+long for sth //渴望什么东西
+I am looking forward to your letter. //我期待你的信
+I am looking forward to seeing you again. //我渴望再见到你
 
+look
+1）//n.神情，表情
+good-looking //好看的，美貌的
+common-looking //相貌普通
+ordinary-looking //相貌普通
+have a look at  //看一眼什么
+
+2）//vi.
 look at      //看
 look for     //寻找
 look after   //照顾
@@ -139,10 +166,13 @@ look into    //向...里面看,调查，研究
 look on      //旁观
 look through //透过...看，快速浏览
 look over    //反反复复地看
-look back    //回顾
+look back    //回顾 --look back the past //回顾过去
 look forward //向前看，展望，渴望
 look out     //小心
 look up      //查字典；拜访；抬起头，仰视
+I don't understand this word, I shall look it up in a dictionary. //
+Don't forget to look me up when you return. //当你回来的时候别忘记了来看我
+He did not look up form his desk when I entered his office.
 
 Death comes to us all.
 Old age comes to us all.
