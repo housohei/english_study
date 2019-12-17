@@ -1,24 +1,24 @@
 Lesson 038
 
 except
-Except a broken chair, the room has no furniture. //chair 与 furniture 性质形同
+Except a broken chair, the room has no furniture. //chair 与 furniture 性质形同,同一类事物
 
 except for
 Except for a broken chair, the room is empty. //except for 置于句首，没有所指项目类别的限制
 
 except that
-I know nothing about this career except that he is a graduate of Oxford University. 
+I know nothing about this career except that he is a graduate of Oxford University. //我对他的职业一无所知，除了知道他是牛津大学毕业外
 
 apart from
 1)除...之外（别无）
-Apart from a few faults, he is a trustworthy teacher.
+Apart from a few faults, he is a trustworthy teacher. //除了一些小毛病之外，他是一个好老师
 2)除...之外（尚有）
-Apart from the cost, the dress doesn't suit me.
+Apart from the cost, the dress doesn't suit me. //除了这个价格外，衣服也不适合我
 
 but //prep.除...之外
 //与no,nobody,all,anywhere等连用
-Nobody knew her name but me.
-They were all there on time but the chairman.
+Nobody knew her name but me. //除了我没有人知道他
+They were all there on time but the chairman. //除了主席之外其他人都准时到场了
 
 but //强调未被排除的其它事务
 except //强调所排除之人或物
@@ -31,35 +31,43 @@ complain //v.
 complain to sb about sth
 complain to sb at sth
 complain about the terrible weather
-You are always complaining about your fate!
+You are always complaining about your fate! //你总是抱怨命运
+What was the weather like on your holiday?
+->I can't complain. //好的不能再好
+/It was as good as could expect.
+/It couldn't be better.
+
 complain of ... //诉说病，痛等
 complain of a toothache
 
 2)(正式地)投诉
-We complained to the police about the noise from the bar.
+We complained to the police about the noise from the bar. //酒吧间的噪音太大了，我们向警察投诉了
 
 complaint //n.
 1)[u]抱怨，埋怨，不满
-You have no reason for complaint.
+You have no reason for complaint. //你没有什么理由好抱怨的
 2)[c]申诉，控诉
-They are full of complaints about their labor conditions.
+They are full of complaints about their labor conditions. //关于劳动条件他们牢骚一大堆
 
 continually //adv.频繁地，屡次地，反复地
-I am continually losing things.
-He was continually late for work.
+I am continually losing things. //我总是丢东西
+He was continually late for work. //他总是迟到
+
+continuously //连续不间断地；不间断地
+They chattered continuously for an hour. //他们连续不间断地唠叨了一个小时
 
 continue //v.
 1)继续，持续 //用于不中断的继续或中断后的继续
-The rain continued till late at night.
-The discussion continued after a break.
+The rain continued till late at night. //雨一直持续到了半夜
+The discussion continued after a break. //休息过后讨论继续
 
 continue doing/continue to do
-How can you continue to work with so much nose?
-How can you continue working with so much nose?
+How can you continue to work with so much nose? //有这么大噪音你怎么能继续工作呢
+/How can you continue working with so much nose?
 
 2)继续存在或不断发生
 continue + adj.
-The weather continued cold.
+The weather continued cold. //天气依然很冷
 to be continued //未完待续
 
 continual //adj.
@@ -77,26 +85,28 @@ continuous rain //连绵不断的雨
 continual //指中间有间断但持续很久，好像没有停止的意味
 You need continual practice.
 continuous //指中间没有间断，但持续一段时间后可能会停下来
-The plane is capable of two days continuous flight.
+The plane is capable of two days continuous flight. //这架飞机能持续飞行两天
 
 bitter //adj.
 1)苦味的
-a bitter taste
+a bitter taste //哭的味道
 
-taste: sour, sweet, bitter, hot, salty
+
+taste: sour, sweet, bitter, hot, salty //酸甜苦辣咸
 
 2)痛苦的，令人悲伤的
 a bitter life
 a bitter experience
 bitter tears
-She has a bitter memory.
+She has a bitter memory. //她有段痛苦的回忆
 3)严寒的
+A bitter winter.
 
 bitterly //adv.苦苦地，惨痛地，严寒地
-He was bitterly disappointed.
-be bitterly cold
+He was bitterly disappointed. //他极度地失望
+be bitterly cold //刺骨寒冷
 bitterness n.
-Who goes through the happiness and bitterness with me?
+Who goes through the happiness and bitterness with me? //谁和我同甘共苦
 
 sunshine n.
 1)阳光[u]
@@ -104,13 +114,13 @@ Cats like lying down in the sunshine.
 2)晴天，好天气[u]
 After rain comes sunshine. //雨过天晴，苦尽甘来
 3)快活，开朗
-Her presence always gives sunshine to all of us.
+Her presence always gives sunshine to all of us. //他的出现总是让我们开心
 a ray of sunshine //一线光明希望
 
 sunrise
 before sunrise //日出前
 dawn //黎明
-sunset
+sunset //日落
 after sunset //日落后
 twilight  //黄昏
 suntan //晒黑
