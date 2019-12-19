@@ -2,12 +2,12 @@ Lesson 039
 
 operation //n.手术，运作，操作
 operation instrument //手术器械
-I had an operation on my heart.
-I underwent an operation on my heart.
+I had an operation on my heart. //我做了一次心脏手术
+/I underwent an operation on my heart. //我做了一次心脏手术
 
 the operation of an old machine //旧机器的运转
-bring into operation
-/put into operation //v.实施法律，计划等，运作机械等
+bring sth into operation
+/put sth into operation //v.实施法律，计划等，运作机械等
 
 come into operation //vi.实施，开始运转
 The new rules will come into operation next month.
@@ -17,23 +17,22 @@ operate
 1)操纵，操作（机械），运作，运转 control, run
 operate a machine
 operate the lift //开电梯
-
 This sewing machine doesn't operate properly.
 
 2)经营，管理（run,manage）
 operate a company
-The company operates ten factories.
-The business operates in various conties.
+The company operates ten factories. //这家公司管理十个厂
+The business operates in various counties. //那家企业在许多国家都有业务
 
 3)动手术 operate on sb for...
-The surgeon decided to operate on her for appendicitis promptly.
+The surgeon decided to operate on her for appendicitis promptly. //这个外科医生决定立刻对他进行盲肠手术
 physician //内科医生
 
-successful <--->unsuccessful
-a successful trial
+successful <--->unsuccessful //成功的，结果圆满的，顺利的，及格的
+a successful trial //一次成功的尝试
 a successful candidate //当选者
 
-The performance was successful.
+The performance was successful. //演出非常成功
 
 succeed //v. <---> fail
 success //n. <---> failure
@@ -45,8 +44,7 @@ follow
 A man is running, followed by three dogs.
 The ducking(小鸭子) followed its mother everywhere.
 Monday follows Sunday.
-Be slow please. 
-I can't follow you./I can't catch you. /I can't understand you.
+Be slow please. I can't follow you./I can't catch you. /I can't understand you.
 
 2)沿着
 follow this road
@@ -70,16 +68,20 @@ Following the meeting, coffee will be served.
 
 patient
 1)n.病人
+The hospital has a lot of patients.
+insane patients //精神病人
 2)adj.有耐心，能忍受，能容忍 <--->impatient
-be patient with sb
-be patient of sth
+be patient with sb //对某人有耐心
+be patient of sth //对某事有耐心
 You should be more patient with others.
 He was patient of hardships. //他很能吃苦
 
 patiently //adv.
 patience //n.忍耐，耐性，毅力 <--->impatience
-This kind of work requires much patience.
-She has no patience with her nosy neighbors.
+This kind of work requires much patience. //这种工作需要极大耐心
+She has no patience with her nosy neighbors. //对爱管闲事的邻居没有耐心了
+I warn you. I'm beginning to lose my patience.
+/I'm becoming impatient.
 
 alone
 1)adj.独自的，单独的（不置于名词前）
@@ -91,10 +93,10 @@ I live alone.
 She lives alone in an apartment.
 
 3)adv.只有，仅仅
-You cannot live on meat alone.
+You cannot live on meat alone. //你不能只吃肉
 Eat more vegetables.
 
-She alone was able to answer the question.
+She alone was able to answer the question. //只有她能回答这个问题
 
 let alone //更不用说
 let ... alone //别打扰，让...一个人呆着
@@ -111,7 +113,7 @@ an exchange of glances //互使眼色
 They made a silent exchange of smiles. //他们默默相互微笑
 
 2)n.兑换，汇率，交流
-the exchange of dollars for pounds
+the exchange of dollars for pounds //把美元兑换成英镑
 the rate of exchange //汇率
 /the exchange rate
 
@@ -121,19 +123,19 @@ the stock market //证券交易市场
 
 5)v.交换，互换
 Mary exchanged seats with John.
-We only exchanged a few words because we were in a hurry.
-I often exchange information with him.
+We only exchanged a few words because we were in a hurry. //应为我们都非常着急，所以只说了几句话
+I often exchange information with him. //我总是跟他交流信息
 I've just bought this tie, but can I exchange it for that one.
 
 //同义词
-interchange
+interchange //n./v.交换，交互
 
 inquire(enquire) //v.询问，查询 比ask正式
 inquire sth of sb
 inquire about sb/sth /ask for information //打听消息
-He inquire of the policeman the way.
-I inquired of him whether he would come to the party.
-I'd like to inquire about the trains for London.
+He inquired of the policeman the way. //他向那个警察打听道路
+I inquired of him whether he would come to the party. //我问他是否他能来参加这个party
+I'd like to inquire about the trains for London. //我想打听去伦敦的火车
 inquire sb's name.
 
 inquiry //n.询问
@@ -155,8 +157,8 @@ One thing is certain: they'll be late.
 It is certain that they'll be late.
 
 2)adj.//未指明真实名称的某一个，说出名称但不很熟悉的某一个，一位姓...的人，置于名词前
-A certain Mr. Brown called while you were out.
-For certain reasons, I'll be absent for the meeting.
+A certain Mr. Brown called while you were out. //当你不在的时候，一位叫布朗的先生来了
+For certain reasons, I'll be absent for the meeting. //由于某些原因，我蹦年参加这个会议
 
 //some 修饰单数可数名词，表示"某个"
 Some man at the door is asking to see you.
@@ -169,7 +171,7 @@ Nothing is more certain than death. //死亡之事无人能逃
 
 call
 1)叫，喊
-call out to sb for sth
+call out to sb for sth //因为某事向某人大声喊叫
 He called out to her.
 
 call the roll //点名
@@ -181,7 +183,7 @@ call the baby Sophia
 call at //拜访
 call on //拜访某人
 call off //取消
-The game was called off because of the rain.
+The game was called off because of the rain. //由于大雨比赛被取消了
 
 call box //公共电话亭
 
@@ -195,16 +197,17 @@ a close relative
 a distant relative //远亲
 
 2)adj.相关的
-the facts relative to the problem
+the facts relative to the problem //与问题相关的事实
 
 3)adj.相对的，比较的 <--->absolute;absolutely/of course
-They are living in relative comfort.
+They are living in relative comfort. //他们住的相对比较舒适
 
 relation //n.亲戚，关系
 relationship //关系
 
 /** 直接引语和间接引语 **/
-
+"You've already got well, haven't you?" she asked.
+-->She asked whether I had already got well.
 
 while //conj.
 1)当...时候，和...同时，只要
@@ -216,7 +219,7 @@ He watched TV while he was eating.
 =He watched TV while eating.
 
 2)虽然，然而，另一方面
-While I understand your viewpoint, I don't agree with you.
+While I understand your viewpoint, I don't agree with you. //虽然我明白你的观点，但我不同意你
 I earn only 50 dollars a week, while she earns 80 dollars.
 
 in hospital //住院--表示抽象概念
@@ -226,7 +229,7 @@ be at school //在课堂上，在求学 --表示抽象概念
 be at the school //在学校 --表示方位
 
 ask sb to do sth
-ask for sth/sb
+ask for sth/sb //要求，要
 ask for a bedside telephone
 ask for Doctor Millington
 
@@ -241,7 +244,7 @@ bedside
 bedside table //床头柜
 bedside lamp //床头灯
 2)n.床边
-She was unable to be at his bedside when he died.
+She was unable to be at his bedside when he died. //当他去世的时候她没能在他的床边
 
 answer the phone //接电话
 answer a letter //回信
@@ -253,8 +256,13 @@ another
 1)adj.另一个，类似的，别的 another two weeks
 He seems quite another person than what he was. //跟以前相比，他判若两人
 2)pron.另一个人或事物
-one child after another
-risk one's life for another
+one child after another //孩子们一个接一个
+risk one's life for another //为别人冒生命危险
+
+convert //常与into连用，表示"使转变，转换，使改变"
+exchange //交换，兑换，调换
+replace //取代，替换，代替 与by, with搭配
+transfer //迁移，移动
 
 //review
 operate on sb

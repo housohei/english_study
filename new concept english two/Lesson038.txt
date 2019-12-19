@@ -123,29 +123,37 @@ dawn //黎明
 sunset //日落
 after sunset //日落后
 twilight  //黄昏
-suntan //晒黑
+suntan //晒黑  
 
 dream of sth / doing sth
 I am always dreaming of living in Spain.
+He dreams of becoming a millionaire.
 
 dreamer //空想家
-a day dream
-a waking dream
+a day dream //白日梦
+a waking dream //白日梦
+a fond dream //黄粱美梦
 
-countryside //乡村
+countryside //乡村，农村
 
-country 国家--最普遍的中性词
+country //国家--最普遍的中性词
 state //侧重指政权机构，亦可指政府本身
-nation 1)可指政治单位，比state庄重
+nation //1)可指政治单位，比state庄重
          the United Nations
-       2)民族
-land //较为庄重
+       //2)民族
+land //较为庄重 --多用于诗歌中
 
 no sooner ... than //一...就
 =as soon as
+//主语 had no sooner done + than + 一般过去时的句子
 I had no sooner arrived home than it began to rain.
+He had no sooner seen her than he fell in love with her.
+I had no sooner hung up than it rang again. //我刚一挂断电话，它又响了
+He had no sooner arrived in Beijing than he fell ill.
+I had no sooner come back than he asked me to go on business again.
 
-hardly ... when //还没有...就
+hardly ... when //还没有...就；几乎来不及...就
+//主语 had hardly done + when + 一般过去时的句子
 Hardly had we begun when we were told to stop.
 
 even though //引导让步状语从句，相当于even if "即使"
@@ -155,8 +163,15 @@ get a surprise //吃了一惊
 get a shock //大吃一惊
 get a fright //吓了一跳
 
+//虚拟语气
+//表示所说的话只是一种主观的愿望，假想和建议等
+//虚拟语气的动词基本形式有七种，其中had + 过去分词表示对过去事实的相反的假想
+We would have called a cab if Harold hadn't offered us a ride home. //假如哈弱的不说要驾车送我们回家，我们就会叫出租车了
+If we had left earlier, we wouldn't have missed the train. //假若我们早点动身的话，我们是不会错过火车的
+
 It was more than he could bear.
 =He could not bear it any more.
+/He could bear it no more.
 
 think of
 1)考虑，思考
@@ -164,15 +179,15 @@ What were you thinking of?
 2)想起
 I can't think of his phone number.
 3)想到
-I've thought of a good person for chairman.
+I've thought of a good person for chairman. //我想到一个做主席的合适人选
 4)万万想不到，做梦也没有想到 --常与would not, could not连用
-I wouldn't think of selling the land.
+I wouldn't think of selling the land. //我万万想不到会卖了这地
 
 weather
 1)天气
 under the weather //身体不适
 weather permitting //天气好的话
-We will start tomorrow, weather permitting.
+We will start tomorrow, weather permitting. //如果天气好的话，我们明天动身
 
 2)v.暴露于风雨中，使风化
 weather wood //将木材晾干
