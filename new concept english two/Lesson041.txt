@@ -5,7 +5,7 @@ rude
 rudeness //n.
 rudely  //adv.
 rude remarks //不礼貌的批评
-Don't be so rude to the taxi driver. It is not his fault that the traffic is heavy.
+Don't be so rude to the taxi driver. It is not his fault that the traffic is heavy. //不要对出租车司机那么粗鲁。交通拥挤不是他的错。
 
 it is rude of sb to do sth //某人做某事是不礼貌的
 
@@ -22,9 +22,9 @@ politely //adv.礼貌地，客气地
 
 mirror
 1)n.镜子，反射镜
-She looked (at herself) in the mirror.
+She looked (at herself) in the mirror. //照镜子
 a rear-view mirror //后视镜
-a full-lenght mirror //全身镜，穿衣镜
+a full-length mirror //全身镜，穿衣镜
 
 2)n.忠实的写照
 Can newspaper be the mirror of the times me live in?
@@ -39,7 +39,7 @@ My socks are full of holes.
 I've worn holes in my socks.
 
 Money burns a hole in one's pocket. //有钱就想花，大手大脚
-Money makes the mare go. //有钱能使鬼推磨
+Money makes the mare go. //有钱能使鬼推磨 =Money talks.
 
 remark
 1)v.评论，评说
@@ -47,6 +47,9 @@ remark on sth  //就某事评说
 remark upon sth //就某事评说
 I couldn't help remarking on her beauty. //我对她美的赞扬脱口而出
 "I thought it was strange", he remarked.
+2）v.（旧或正式文体）注意到，觉察
+remark the likeness between father and son.
+Like father, like son.
 3)n.评论，评述，注意，觉察
 critical remarks
 
@@ -61,7 +64,7 @@ There was nothing worthy of remark at the exhibition.
 
 remind //v.使人想起，提醒某人
 remind sb of sth
-The secretary reminded the manager of attending the meeting.
+The secretary reminded the manager of attending the meeting. //秘书提醒经理要参加会议。
 He reminds me of his father.
 
 remind sb + that
@@ -81,8 +84,8 @@ light-ship //信号船
 /** 情态动词must和need **/
 1.must
 1)表示"必须"或"应该"做某事
-We must do everything step by step.
-You mustn't talk like that.
+We must do everything step by step. //我们做任何事情必须循序渐进
+You mustn't talk like that. //你千万不要那样说话
 2)在回答由must引起的问题时，如果是否定的答复，不能用mustn't,而需用needn't或don't have ot ,
 因为musn't是"一定不要"，"不准"的意思
 needn't        //没有必要
@@ -96,8 +99,7 @@ Must we send in our plan this week?
 I did not go to see you this morning because I had to go to the hospital.
 
 2.need
-1)作情态动词，表示"需要",主要用于否定句及疑问句，肯定句用
-must, have to, should, ought to
+1)作情态动词，表示"需要",主要用于否定句及疑问句，肯定句用must, have to, should, ought to
 Need you go so soon?
 -Yes, I must.
 -No, I needn't.
@@ -113,6 +115,8 @@ I hardly need say how much we missed you.
 need sth/doing/to do
 Does he need to know it?
 You don't need to do it yourself.
+We need to unite with them. //我们需要跟他们联合起来
+They did not deed to go. //他们没有必要走
 The question needs to be discussed.
 I need a larger house.
 He needs a haircut.
@@ -190,13 +194,16 @@ She found herself in hospital.
 
 can not ... too //无论如何...也不过分，越...越好
 can never...too
-I can not praise him too much.
+I can not praise him too much. //我再怎么赞扬他也不过分
 I can not thank you too much.
-You can never study too hard.
-You can not be too careful.
+You can never study too hard. //你再努力学习也不过分
+You can not be too careful. //你越小心越好
 It's never too late to learn. //活到老，学到老
 
-wear 
+wear //表示穿戴在身上的状态
+put on //表示穿戴的动作
+take off //脱下 
+
 wear a beard //留胡子
 wear contact lenses //戴着隐形眼镜
 wear a happy smile //面带笑容
@@ -206,7 +213,7 @@ wear a watch
 wear a hat
 
 look like a drowned rat //看起来像个落汤鸡
-She looks like an angel in my eye.
+She looks like an angel in my eye. //在我眼里她看起来像个天使
 
 angle //角度
 angel //天使
@@ -214,6 +221,16 @@ angel //天使
 sound like //听起来像
 feel like //感觉起来像
 taste like //尝起来像
+
+unable //不能的，不会的，指人没能力，不能用it做主语
+impossible //不可能的，办不到的
+improbable //不大可能发生的，未必会的，语气不如impossible强
+incapable //无能力的，不能的，指人没有能力
+
+take over //接管
+result in //导致，致使，相当于lead to
+hold in //约束，抑制（感情）
+keep to //坚持，保持固定（习惯，作风等）
 
 Easy come, easy go. //来的容易去的也快，容易获得容易失去
 
