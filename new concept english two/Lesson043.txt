@@ -73,14 +73,14 @@ serious
 1)严肃的，正经的
 a serious conversation
 a serious person
-I'm serious this time.
+I'm serious this time. //我这次是认真的
 2)重大的，危险的(grave),疾病，伤痛等严重的
 a serious problem
 a serious mistake
 a serious accident
 a serious trouble
 
-Take it easy. Nothing serious.
+Take it easy. Nothing serious. //别紧张，没什么严重的
 
 seriously //adv.认真地，危险地
 Don't look at me so seriously.
@@ -111,7 +111,7 @@ seem to be //看起来是
 It seems to be the best answer. 
 
 seem like //看起来像
-It seems like a disaster at this moment.
+It seems like a disaster at this moment. //
 
 It seems that //看起来是
 It seems that she is right.
@@ -186,7 +186,6 @@ the endless plain
 the endless wait
 The lecture seemed endless. //那场演讲好像没完没了。
 
-
 end
 1)n.末端，尽头，极限
 the end of a road
@@ -243,8 +242,24 @@ to be plain with you //对你直说
 /** can / be able to **/
 1.can只有现在时和过去时，can-could, 此外could有时并不强调过去时而表示请求，更加礼貌，客气
 be able to 可用于各种时态
+Can I use your telephone?
+Could I use your telephone?
+
+He'll come if he can.
+He'll come if he is able to.
+
+I can see you tomorrow.
+I'll be able to see you tomorrow.
+
+I couldn't understand him.
+I wasn't able to understand him.
+
+He said he could see me next week.
+He said he would be able to see me next week.
 
 2.当我们要表明一个动作已经成功地完成的时候，我们必须用was/ were bable to, 不能用could
+He was able to go to London yesterday and enjoyed himself very much. //他昨天去了伦敦，玩的非常高兴
+He didn't agree with me at first, but I was able to persuade him. //他开始不同意我的观点，但我最终说服了他
 
 for the first time //第一次
 first and foremost //首要的是
@@ -254,7 +269,7 @@ get over 飞越
 clear over 飞越
 
 run into trouble
-get into trouble //肉上麻烦
+get into trouble //惹上麻烦
 ask for trouble / ask for it //自找麻烦
 shake off the trouble //摆脱麻烦
 
@@ -284,7 +299,7 @@ by phone
 by airmail
 5)相差...左右，一个接着一个
 She is taller than I by three centimeters.
-We defeated the opposing team by 3 runs. //我们已3分之优势击败对方
+We defeated the opposing team by 3 runs. //我们以3分之优势击败对方
 
 //因为
 because //通常表示说话人认为这种理由或原因是听话人所不知道的
@@ -313,6 +328,11 @@ with some difficulty
 with much difficulty
 with great difficulty
 with little difficulty
+
+in all //总共
+above all //首先，尤其
+after all //毕竟
+at all //根本，究竟
 
 First catch your hare, then cook him. //勿某只过早，到手才算数
 

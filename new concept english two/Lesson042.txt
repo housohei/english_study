@@ -23,7 +23,7 @@ sales price  //销售价
 marketing //n.[u] 销售学，市场推广，市场推广部
 
 market/ marker place/ market square //市场，集市
-bazzar //东方国家的市场，商业区
+bazaar //东方国家的市场，商业区
 
 fair
 1)集市（尤指买卖牲口，农产品的地方）
@@ -31,7 +31,7 @@ fair
 a world fair //博览会，展览会
 
 outlet //进销商
-store(美)/shop 商店 --常构成复合词
+store(美)/shop //商店 --常构成复合词
 department store //百货商店
 a drugstore //药店
 a winestore // 酒店
@@ -40,7 +40,7 @@ charm
 1)n.[u]/[c]魅力，引人喜爱的特质
 He has a lot of charm.
 the charm of the countryside in spring //郊外春光明媚
-Her happy smile is one of her charms. 
+Her happy smile is one of her charms. //他愉快的笑容是她的魅力之一
 2)v.取悦，迷住，吸引
 He charms everyone he meets. //他使他遇见的每一个人都愉快
 We were charmed with/by the music. //我们都陶醉在音乐中
@@ -48,11 +48,11 @@ We were charmed with/by the music. //我们都陶醉在音乐中
 charm a person asleep //对人施加催眠术使其睡着
 
 charmer //n.有吸引力的人
-snake-charmer 玩蛇者
+snake-charmer //玩蛇者
 
 charming / delightful //adj.令人高薪的，迷人的，可爱的
 a charming village
-a charming song
+a charming song //令人愉快的歌曲
 
 Her smile is very charming.
 
@@ -93,13 +93,14 @@ sing a different tune / sing a different song //改变看法和态度
 
 glimpse
 1)n.(通常做单数) 一瞥，一看
-have a glimpse of
+a quick glimpse at the newspaper headlines //快速浏览一下报纸的标题
+One glimpse on him is enough. //看他一眼就够了。
+have a glimpse of //瞥见
 /catch a glimpse of
 /get a glimpse of
 
 同义词： glance
-
-take a glance at the TV programs
+take a glance at the TV programs //看一眼电视节目
 =give a glance over the TV programs
 
 2)//v.瞥见，看一眼
@@ -108,8 +109,7 @@ He only glimpsed at my new dress and said nothing.
 
 snake
 1)//n.蛇
-I saw a snake wriggle/crawl away.
-
+I saw a snake wriggle/crawl away. //我看到一条蛇蜿蜒爬开
 a snake in the grass //隐患，不忠实的朋友，伪装成为朋友的敌人
 
 2)//v.蛇行，沿曲折道路前进
@@ -121,7 +121,7 @@ move
 Don't move, stay still.
 Move a chair nearer to the fire.
 The teacher asked her to move to the front of the classroom.
-She moved her lips but didn't say anything.
+She moved her lips but didn't say anything. //她动了动嘴唇什么都没有说
 
 2)//搬家，迁移
 move from...to...
@@ -130,7 +130,7 @@ We are going to move to a new house in the suburbs.
 
 3)使某人感动，使动心 =touch
 The story moved us deeply.
-We were greatly moved by his performance of the piano concert.
+We were greatly moved by his performance of the piano concert. //他的钢琴演奏会令我们非常感动
 
 moving/touching //令人感动的
 moved /touched //感到感动的
@@ -144,7 +144,7 @@ continue v.
 He continued reading when I spoke to him.
 He continued to read when I spoke to him.
 
-In spite of my efforts, the baby continued crying.
+In spite of my efforts, the baby continued crying.//尽管我努力了，但这小孩继续哭
 In spite of my efforts, the baby continued to cry.
 
 go on to do 
@@ -152,7 +152,7 @@ After my maths homework, I go on to do my English homework.
 go on doing //继续做同一件事
 We go on working without rest.
 
-go on with
+go on with //继续
 After a cup of tea, he went on with his story.
 
 2)仍旧，持续...状况
@@ -165,14 +165,14 @@ My I have the next dance?
 make a song and dance //小题大做
 a storm in the teacup //小题大做，大惊小怪
 
-dance-hall / ball-room //baoll正式举办的舞会
+dance-hall / ball-room //ball正式举办的舞会
 
 2)v.跳舞
-Would you like to dance?
+Would you like to dance? //可以请你跳一支舞吗
 to dance a waltz
 
 obvious //adj.明显的，易解的，显而易见的 = clear
-It was obvious that he turned against us.
+It was obvious that he turned against us. //显而易见的，他背叛了我们
 an obvious traffic offense //明显的交通违章
 
 He told her an obvious lie.
@@ -188,13 +188,13 @@ difference
 1)差别，差异
 difference between A and B
 Can you see any difference between these two pictures?
-It's easy to tell the difference between the twins.
+It's easy to tell the difference between the twins. //双胞胎
 It's easy to tell the difference between Indian music and jazz.
 It's easy to tell the difference between effect and affect.
 
 2)意见相左，不和，争论
-a difference of opinion
-Do you think the two countries can settle their difference?
+a difference of opinion //意见不和
+Do you think the two countries can settle their difference? //你认为这两个国家能解决他们的纠纷吗
 
 different //adj.不同的，相异的
 A is different from B.
@@ -221,14 +221,19 @@ have a rest -> rest
 have a look -> look
 have a glimpse of -> glimpse
 
+Don and Caroline have been quarrelling.
+-->Don and Caroline have been having a quarrel.
+He tried again.
+-->He had another try.
+
 through //在表面之下穿过或在中间穿过，与in有关
 The train went through some tunnels.
 The sun shone through the clouds.
-The Senine runs through Paris.
+The Seine runs through Paris. //塞纳河穿过巴黎
 
 across //在表面上通过，其含义与on有关
 The old man walked across the road carefully.
-We'll be across the border by tomorrow.
+We'll be across the border by tomorrow. //明天我们将越过边界
 
 square 
 1)广场，街
@@ -237,19 +242,18 @@ a market square //集市广场
 
 2)正方形，正方形物
 3)平方
-The square of 7 is 49. 
-
+The square of 7 is 49. //7的平方是49
 back to square one //事情，工作等因无进展退回到起点
 
 after a time //过了一会
 at a time //一次，同时
-We cannot do two things at a time.
+We cannot do two things at a time. //我们不能同时做两件事情
 
 at one time //往昔，一度，从前
 At one time, there were not so many cars on the street.
 
 for a time //一时，暂时，短时间内
-He got better for a time.
+He got better for a time. //他暂时好转了
 
 at the other side of //另一边
 side
@@ -264,7 +268,7 @@ There was a cottage on the side of the hill.
 
 pick up
 He picked up a long pipe. //抬起，拿起
-I'll pick up you up in the car this eveing. //开车接
+I'll pick up you up in the car this evening. //开车接
 I picked up a lot of English while I was in England. //学会
 He fell over and picked himself up again. //站起来
 
@@ -313,6 +317,11 @@ Can you tell the difference between these two words?
 How can you tell whether the meal is cooked or not?
 ->You can tell by the color of the meat.
 ->You can tell from the color of the meat.
+
+glance //扫视，匆匆一看，一瞥
+glimpse //瞥见，是glance的结果 'take a glance at...'
+gaze //盯，凝视
+stare..at //凝视，盯着看
 
 Every dog has its day. //凡人皆有得意日
 Fine feathers make fine birds. //人靠衣装，佛靠金装
