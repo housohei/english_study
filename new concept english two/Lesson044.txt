@@ -16,7 +16,7 @@ run the risk of sth //冒什么的风险
 take the risk of doing sth 
 take the risk of sth
 We should think of the risk of the plan.
-We can't run the risk of losing all our moeny.
+We can't run the risk of losing all our money.
 You can't get rich without taking risks.
 
 2)v.使自己或某人面临危险
@@ -45,7 +45,7 @@ We went for a picnic to the beach.
 
 Let's go for a picnic.
 be no picnic //有困难或有麻烦
-Bringing up a family when you are out of work is no picnic.
+Bringing up a family when you are out of work is no picnic. //失业的时候要养家可不是件容易的事情
 
 camp //n.野营，露营
 
@@ -67,7 +67,7 @@ a bag strap
 My camera strap broke, it needs mending.
 
 belt //腰带，裤带，地带，地区
-a forest belt
+a forest belt //森林地带
 tighten one's belt //省吃俭用过日志
 
 leash/lead //系够用的带子或绳索
@@ -77,11 +77,11 @@ string //细绳
 
 possession //n.所有
 in possession of sth //占有，控制
-They were in possession of the ball for most of the match.
-With the bag in the match possession, they ran away.
+They were in possession of the ball for most of the match. //比赛中大部分时间他们控制了球
+With the bag in the match possession, they ran away. //
 
 possess //v.own,have 拥有，持有
-He decided to give away everything he possessed and became a monk.
+He decided to give away everything he possessed and became a monk. //他决定放弃他所拥有的一切，成为一名和尚。
 They possess three cars.
 
 be possessed with sth //被迷住，支配，被控制
@@ -101,7 +101,7 @@ be out of breath //上气不接下气
 take one's breath away = surprise sb  //使某人吃惊
 waste one's breath //白费唇舌
 catch one's breath //因恐惧，震惊等一时停止呼吸，屏息
-There is not a breath of wind today.
+There is not a breath of wind today. //今天没有一丝微风
 feel a breath of spring //感到春的气息
 breathe //v.呼吸，喘气，吸入空气
 inhale //吸气
@@ -109,7 +109,7 @@ exhale //呼气
 gasp //吸气，喘气
 pant //喘气，喘息
 wheeze //哮喘
-I went out adn breathed the fresh air.
+I went out and breathed the fresh air.
 It is good for the health to breathe deeply.
 stop breathing //断气
 breathe one's last //断气
@@ -117,22 +117,22 @@ Don't breathe a word of it. //不要走漏只言片语
 breathe a sigh of relief //松了一口气
 
 content //adj.满足的，甘心的（表语） =satisfied, happy
-Are you content with your salary?
-Since he has apologized, I am content.
+Are you content with your salary? //你对工资满意吗
+Since he has apologized, I am content. //他道歉后我满意了
 
 be content to do sth //满足于做，甘心做
-He was content just to sit in front of the televison all day.
+He was content just to sit in front of the television all day. //他满足于整天坐在电视机前面
 
 contented //adj.满足的，满意的 satisfied //做定语
 a contented person
 a contented cat
-a contented simle
+a contented smile
 
 contents //n.所容纳之物，内容
 the contents of a room
 the contents of a box
 the contents of a letter
-She dropped her purse and the contents fell out on the floor.
+She dropped her purse and the contents fell out on the floor. //她把钱包掉落了，东西洒落一地
 
 mend //v.修理，修补
 Never too late to mend! //改过不嫌迟
@@ -141,7 +141,7 @@ mend the road
 
 repair //v.修理，修补
 repair a road
-repari a watch
+repair a watch
 
 fix //v.修理，安装
 fix a watch
@@ -149,12 +149,12 @@ fix a watch
 patch //v.补衣服，打补丁
 patch sth up //快速，临时修补某物
 
-/** 动名词 **/
+/** 动名词 **/ //--20课
 1.做主语
 Eating is always a pleasure.
 
 2.做介词宾语
-I am very keen on cycling.
+I am very keen on cycling. //--be keen 喜欢
 He sat there without saying anything.
 I am looking forward to seeing him tomorrow. //--look forward to 期待
 I am used to getting up late. //--be used to 习惯于
@@ -171,16 +171,17 @@ I hate disturbing people when they're busy.
 I hate to disturb you, but can I come in for a moment, please?
 //总结:在有些动词后面，如like, love, hate等，后面加to do 表示目前一次性的喜好，加doing做宾语表长期性的喜好
 
+//动名词有被动含义
 My shirt is torn. It needs mending.
 = It needs to be mended.
 Those windows are dirty. They want washing.
 =They want to be washed.
 It's a difficult problem.It needs thinking about.
-//动名词有被动含义
+ 
 
 4.做表语
 His job is driving a bus.
-Seeing is believing.
+Seeing is believing. //眼见为实
 
 5.做定语
 a dining-room
@@ -209,8 +210,12 @@ I've gone through all my pockets but I can't find my keys.
 so + adj/adv. + that
 such + n + that
 
-sth needs doing
-sth needs to be done
+sth needs doing=sth needs to be done
+It's a difficult problem. It needs thinking about.
+->It needs to be thought about.
+need to do sth
+I need to take more rest.
+He deeds to work harder if he wants to make progress.
 
 Fools rush in where angels fear to thread. //傻瓜行事鲁莽，不考虑后果
 
