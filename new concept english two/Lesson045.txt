@@ -18,16 +18,16 @@ speak so that your words are clear //说话说的要令人听清楚
 
 4)adj.无罪的，无辜的
 have a clear conscience //问心无愧
-They have imprisoned a clear man.
+They have imprisoned a clear man. //他们囚禁了一个无辜的人
 
 conscience //n.良心，是非感
 have a clear conscience //问心无愧
 have a guilty conscience //有愧于心
-have a bad conscience
+have a bad conscience //有愧于心
 have no conscience //没良心
 She always cheats and lies; she has no conscience at all.
 
-search one's heart
+search one's heart //扪心自问
 search one's conscience //扪心自问
 Search your conscience and ask if you are clear.
 
@@ -40,7 +40,7 @@ I became conscious of a man looking at me.
 
 wallet //钱包
 billfold //钱夹
-pocket-book
+pocket-book //钱夹
 purse //小钱包，小钱袋
 two wallet //只看到别人的缺点，看不到自己的缺点
 
@@ -74,7 +74,7 @@ Nearly 70 percent of the fund was supplied by the government.
 
 a 20 percent discount //打8折
 a thirty percent increase //增加30%
-a fifty percent increase in price
+a fifty percent increase in price //价格上涨50%
 working twenty percent harder //再多使二分劲
 
 /** 被动语态 **/
@@ -82,10 +82,11 @@ working twenty percent harder //再多使二分劲
 2)不及物动词无被动语态 -- 如take place， disappear
 3)由be 体现出不同时态
 4)注意含有情态动词的被动语态
+The book will be translated into English.
 
 find + n. + adj. //发现...为...
 I found my cat asleep in my bed.
-After a long search, we found the boy safe and sound.
+After a long search, we found the boy safe and sound. //安然无恙
 
 find + n. + adv./prep.
 You find penguins in the Antarctic.
@@ -135,7 +136,7 @@ I was just in time for the flight.
 3)不久，总会有一天，终于
 I'll see him in tome.
 4)合拍子
-The audience clapped in time to the music.
+The audience clapped in time to the music. //观众随着音乐及时鼓掌。
 
 pay back
 1)还钱
@@ -147,9 +148,13 @@ in this way //用这种方式
 in that way //用那种方式
 in a way 
 1)在某一方面来说，在某种意义上
-You're correct in way.
+You're correct in a way.
 2)有点，有几分
 She is strange in a way.
+
+At times //有时
+After a time //一段时间以后
+With the times //随着潮流
 
 Give a dog a bad name and hang him.
 /Give a dog an ill name and hang him. //人言可畏
