@@ -75,7 +75,7 @@ The news astonished everbody.
 
 be astonished at //被...惊吓
 I was astonished at the loud sound.
-I was astonished to hear the loud sound.
+=I was astonished to hear the loud sound.
 
 astonished //adj.感到惊讶的
 He looked astonished.
@@ -86,7 +86,7 @@ His victory was really astonishing.
 surprise //使...吃惊
 Let's surprise Mom with a present.
 
-amaze //使...惊讶或惊奇
+amaze //使...惊讶或惊奇 --通常用被动语态
 We're amazed at his change.
 
 shock //使震惊，惊愕
@@ -109,9 +109,9 @@ a pile of woolen goods
 a neat of books
 
 2)adj.大批的，大堆的
-a pile of work
-piles of work 
-piles of friends
+a pile of work //大量的工作
+piles of work  //大量的工作
+piles of friends //很多朋友
 
 3)v.堆，摞，放
 pile papers on the table
@@ -119,7 +119,7 @@ pile apples together
 
 4)盛，把...盛在（容器等）中
 She piled his plate with potatoes.
-She piled potatoes onto his plate.
+=She piled potatoes onto his plate.
 
 5)口语 大批的人蜂拥地移动
 The passengers piled into the train. //乘客蜂拥上火车
@@ -170,7 +170,7 @@ He admitted his guilt.
 /He admitted that he was guilty.
 
 I admitted my mistake.
-He admitted having stolen that cat. --admint doing
+He admitted having stolen that cat. --admit doing
 We all admit him to be foolish.
 
 2)vt.准许进入，准许入场
@@ -197,12 +197,12 @@ the normal price
 the normal method
 the normal place
 the normal thinking
-the normal views	
+the normal views //通常的观点	
 normal temperature
-normal school
+normal school //示范学校
 
 it is normal for (sb.) + to do
-It is normal for us not to want to work on Sunday.
+It is normal for us not to want to work on Sunday. //星期天不想工作是正常的
 
 abnormal //adj.反常的，不正常的
 abnormal weather
