@@ -276,7 +276,7 @@ provide //提供
 search //寻求
 thank //感谢
 vote  (or on) //投票支持
-waite (or on) 等候
+wait (or on) 等候
 
 with
 agree //同意

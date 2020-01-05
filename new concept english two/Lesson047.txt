@@ -18,7 +18,7 @@ They lost their way in the desert and died of thirst.
 2)n.[c] 热望，渴望的
 the thirst for sth
 the thirst for knowledge
-the thirst for fame
+the thirst for fame //名誉
 the thirst for revenge //复仇
 
 ghost
@@ -47,7 +47,7 @@ a haunting melody //缠绕心中的曲调
 block
 1)n.木，石等的块
 a block of rock
-a block of marble
+a block of marble //大理石
 2)街区
 The post office is two blocks away.
 3)大建筑物
@@ -79,7 +79,7 @@ furnish //v.给房子，房间装置家具
 The apartment is well furnished.
 The apartment is badly furnished.
 
-whiskey
+whiskey/whisky
 1)[u]威士忌
 drink whisky and water
 whisky on the rocks //加冰块的威士忌
@@ -88,7 +88,7 @@ Two whiskies, please.
 
 suggest
 1)v.暗示
-Her pale face suggests that she is ill.
+Her pale face suggests that she is ill. //
 Are you suggesting that I'm telling a lie?
 Are you suggesting that I stole your wallet?
 I suggested that the cake must have been eaten by Tom.
@@ -121,9 +121,9 @@ The explosion shook the house.
 The teacher shook him by the shoulders.
 Shake the bottle before taking the medicine.
 2)抖落...,撒上...，都掉...
-The children were shaking chestnuts from the tree.
+The children were shaking chestnuts from the tree. //孩子们正在从树上摇栗子。
 
-shake hans
+shake hands
 shake one's head
 nod (one's head)
 
@@ -147,7 +147,7 @@ He accepted the job.
 I asked her to marry me and she accepted.
 2)承认，相信，认可
 I can't accept an excuse like that.
-Did you accetp that his statement was true?
+Did you accept that his statement was true?
 3)接纳，迎进
 The class accepted the new teacher.
 
@@ -172,10 +172,10 @@ be up for //为了某一目的
 1) go to sleep
 fall asleep
 fall into s sound sleep //酣睡
-fall into a deep sleep
+fall into a deep sleep //酣睡
 go to bed 
 
-2)see/ hear/ watch 之后即可带现在分词doing， 又可带动词原形，用ing形式时，表示动作正在进行，看见或听见整个动作的一部分，用动词原形表示看见或听见整个动作的全部
+2)see/ hear/ watch 之后即可带现在分词doing,又可带动词原形,用ing形式时,表示动作正在进行,看见或听见整个动作的一部分，用动词原形表示看见或听见整个动作的全部
 I saw him cross the street.
 I saw him crossing the street.
 I heard her go out.
@@ -193,6 +193,24 @@ turn the lights off //关灯
 turn the lights on //开灯
 they were on //灯亮着
 they were out //灯熄灭了
+
+for + n. //表某人的目的
+He went home for lunch.
+
+for + v.-ing //表某物的用途
+The cake is for eating.
+
+free //免费的，不要钱的，无税的，免税的
+I've got free tickets to the concert. Do you want one?
+You get a free gift of a glass if you buy this whiskey now.
+
+duty-free //免税的
+
+even if/ even though //引导让步状语从句
+Even if you don't like wine, try a glass of this!
+
+//if引导的条件句
+If you like wine, try a glass of this!
 
 give away
 1)送掉，免费给与，赠送

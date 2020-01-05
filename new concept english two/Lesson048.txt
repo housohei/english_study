@@ -84,7 +84,7 @@ It is impossible that one and one makes three.
 //以人或事为主语时，impossible 不能做表语与不定式连用， 必须是it 作主语
 It is impossible for him to do it.
 //此外， it也可以不做主语，而作宾语
-Illness make it impossible for him to go.
+Illness made it impossible for him to go.
 
 impossible //adj.令人无法忍受的，令人讨厌的
 He is impossible.
@@ -127,7 +127,7 @@ search out //搜出，找出 --find out, seek out
 Search me! //我不知道
 
 search sth for
-He searched my face for my real intentions.
+He searched my face for my real intentions. //他在我脸上搜索我的真实意图。
 
 search one's memory //竭力回忆
 
