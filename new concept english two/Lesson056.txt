@@ -1,0 +1,223 @@
+Lesson 056
+
+sound
+1）//n.声音
+the sound of the wind
+the sound of the sea
+the sound of a car
+the sound of music
+the sound of voices //说话的声音
+like the sound of one's own voice //涛涛不绝地讲话
+sound-recording //录音
+2）//v.听起来
+sound like //听起来
+That music sounds beautiful. //那个音乐听起来很美
+That music sounds sad. //那个音乐听起来很忧伤
+Your explanation sounds reasonable. //你的解释听起来合情合理
+3）//adj.睡眠香甜的，酣睡
+soundly //adv.睡眠香甜地，酣睡地
+sleep soundly
+have a sound sleep
+
+excitement //n.激动，兴奋
+cause/arouse excitement //引起激动
+
+excite //v.使...兴奋，刺激
+His story excites me very much. //他的故事令我非常激动
+The scene would excite the hardest man to pity. //那个场面就算是最铁石心肠的人也会同情的
+His speech excited everyone present to anger. //他的发言激怒了所有在场的人
+
+excited //adj.感到激动的
+an excited mob //激动的人群
+
+exciting //adj.令人激动的
+an exciting moment //兴奋的时刻
+
+handsome
+1）//指男子好看的，漂亮的，英俊的，相貌堂堂的
+2）//美观的，漂亮的
+a handsome horse //一匹漂亮的马
+a handsome building //一栋漂亮的建筑
+
+//-some与名词或动词复合构成形容词，描述人或物的特征或属性
+quarrelsome //爱与人争吵的
+bothersome / tiresome //令人讨厌的，惹人恼火的
+worrisome //令人担心的
+troublesome //麻烦的
+
+wheel
+1）//n.车轮，轮子
+the wheels of a car
+2）//方向盘，舵轮
+be behind wheel //在开车/开船
+sit behind wheel //在开车/开船
+be at the wheel //在开车/开船
+sit at the wheel //在开车/开船
+Will you take the wheel? //你来开车好吗？
+America is a country on the wheel. //美国是车轮上的国家
+Australia is a country on the back of sheep. //澳大利亚是羊背上的国家
+wheel chair //轮椅
+
+explode //v.使爆炸，炸开
+explode a bomb
+The fireworks exploded in his hand. //烟花在他手里爆炸了。
+At last his anger exploded. //他的怒气终于爆发了。
+The audience exploded with laughter. //观众哄堂大笑。
+The audience exploded in laughter. //观众哄堂大笑。
+
+explosion //n.爆炸（声），愤怒，笑声等爆发
+a bomb explosion
+The explosion was heard a mile away.
+an explosion of laughter //哄堂大笑
+
+course
+1）//n.进程，过程
+the course of history //历史的进程
+The course of learning English is bitter, but the result is exciting. //学习英语的过程是痛苦的，但结果是令人兴奋的。
+in the course of //在...过程中，在...期间
+2）//n.航线，路线，行程
+on the course //在...的路上
+a southward course //向南的路线
+Our course is directly north. //我们的路线是朝正北的
+Many cars broke down on the course. //许多汽车在途中抛锚了。
+The captain set a course for New York. //船长确定了去纽约的航线。
+3）//n.课程，课题，讲座
+an English course
+an art course
+of course / certainly
+
+/** 修饰名词的数量的用法 **/
+1.//many以及much用法
+1）//many与much即可用作限定词，又可用作代词；前者修饰可数名词，后者修饰不可数名词
+There isn't much（限定词）whisky, but you can have a little.
+There aren't many（限定词）apples, but you can pick a few.
+There isn't much(pron.) I can do to help him. //我帮不了他多少忙
+Many(pron.) of our products are sold overseas. //我们的许多产品销到了海外
+2）//表‘许多’还可用a lot of,可修饰可数名词和不可数名词，常用于肯定句中
+What a lot of presents! //那么多的礼物啊
+I saw quite a lot of her during the holidays. //假期中我见过她很多次
+There was lots of money in the safe. //保险柜中有很多钱
+3）//用于修饰可数名词的有
+many
+a great many
+a good many
+a great number of
+a large number of
+few
+a few
+//用于修饰不可数名词的有
+much
+a great deal of
+a good deal of
+little
+a little
+a large amount of
+//即可以修饰可数名词又可以修饰不可数名词的有
+a lot of
+lots of
+plenty of 
+a large quantity of
+large quantities of
+
+a great deal of excitement //许多的兴奋
+a great deal of pleasure //许多的欢乐
+many of the cars
+many cars
+a great many loud explosions 
+
+2. 
+the same as //和...一样
+be different from //和...不一样
+My jacket is the same as yours. = My jacket is like yours.
+My jacket is different from yours. = My jacket isn't like yours.
+
+once a year //一年一次
+once a week
+once a month
+
+once -> twice -> three times ->four times
+once or twice //一两次
+
+once //曾经
+We once lived in San Francisco.
+ 
+enter for //参加比赛，考试
+join in
+take part in
+
+Built in 1885 //过去分词短语作状语
+=As it was built in 1885
+
+...taking part //现在分词短语作定语
+
+take place //必要事件的发生
+occur/happen //偶然事件的发生
+The next race will take place in a year's time.  //下一次比赛将在一年后举行。
+
+break down //抛锚，出故障
+The telephone system has broken down. //电话系统出故障了
+We broke down on the motorway. //我们在高速公路上抛锚了
+without a break //好不休息地
+
+//同音词
+brake //刹车
+put on the brakes //踩刹车
+
+spend //花（钱，时间，精力） 于...
+spend sth on
+He spent all his saving on a new car.
+He spent 50 dollars at the supermarket.
+spend ... (in) doing //...花（时间/金钱）；度过
+I spent a month in Switzerland last summer.
+How did you spend yours summer vacation?
+->I spent it (in) reading and fishing.
+
+reach //vt.到达，达到，达成，伸出手，拿到
+We will reach Beijing tonight.
+He reached the end of the novel. //他把小说看完了。
+I can't reach the shelf. //我够不着书架。
+arrive //vi. 必须用介词in 或at
+arrive in/at
+We arrived in New York yesterday. We arrived at the station in good time.
+
+much //修饰比较级
+much hotter //热的多
+much more expensive //贵的多
+much slower //慢得多
+much heavier //重的多
+She is much better today. //她今天好多了
+
+much //修饰最高级
+That was much the best meal I've ever tasted. //那是我吃过的最好的一餐
+My favorite is usually much the most expensive. //我最喜爱的通常是最贵的
+
+any //代词，任何一个，用于肯定句
+I think any of his movies would interest you.
+Any of you can apply for the job. //任何人都可以申请这个职位
+
+at the end of //在...结束时，在...的尽头
+at the beginning of //在...开始时
+
+in the end =  at last //最后，终于
+
+by the end of... = before the end of... //在...结束之前
+
+have trouble in doing sth //做什么事有困难
+He has no trouble in operation the new machine. //他操作新机器毫无困难
+
+not less ... than //不亚于，不少于
+She is not less charming than her daughter. //他的魅力不亚于他的女儿
+
+no less ... than //与...一样，不比...差 --强调比较双方程度都很高
+A dolphin is no less a clever animal than a dos is. //海豚和狗一样都是很聪明的动物
+
+no less than ... = at least //以上，至少
+He has no less than 200 dollars. //他至少有两百美元
+
+no more than... = at most //以下，充其量，至多
+
+at a speed of... //以什么样的速度
+
+Love is blind. //爱情是盲目的
+
+Love me, love my dog. //爱屋及乌
