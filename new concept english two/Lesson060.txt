@@ -1,0 +1,205 @@
+Lesson 060
+
+future
+1）//n.未来，将来，前途
+The future is always unknown to us. //对我们来讲，未来是未知的
+What will be the future of our planet? //我们星球的未来会怎样?
+provide for the future //为将来做准备
+a young man with a future. //有前途的年轻人
+in future //今后，以后
+in the future //在未来，在将来
+2）//adj.未来的，将来的
+a future generation //后代的人们
+
+fair
+1）//n.博览会，商展，展览会
+a book fair //书展
+an international trade fair //国际商展
+2）//n.集市--类似中国的庙会
+temple fair
+a day after the fair //（口）过迟，太晚了
+3）//adj.公平的，公正的
+fair and square //光明正大地
+She is fair with her students. //她对学生一视同仁
+a fair price //公正的价格
+4）//adj.金发的，皮肤白皙的 --反义词dark
+a fair complexion //白皙的皮肤
+Scandinavian people are often fair. //北欧人多是白肤金发
+
+fortune-teller //女性占卜者
+
+fortune
+1）//n.运气，命运
+by good fortune //幸好
+by bad fortune //不幸
+Don't leave that to fortune! //那件事不要光靠运气
+Fortune //命运女神
+have Fortune on one's side //福星高照
+seek one's fortune //找出路，碰运气
+2）//财产，财富
+come into a fortune //得到财产
+make a fortune //发财
+That car must cost a fortune.
+
+fortunate //adj.幸运的 --unfortunate
+a fortunate man
+She is fortunate in having a good husband. //她有幸有一个好丈夫
+I am fortunate to have good health.
+It was fortunate that the passing ship saved him. //幸运的是过往的船只救了他
+
+crystal //n.水晶
+as clear as crystal //如水晶般清澈透明的
+a necklace of crystals //水晶项链
+crystal clear //清晰的
+crystal gazing //水晶球占卜术
+
+relation //n.
+1）//关系，关联
+the relation between crime and poverty //犯罪与贫困的关系
+the relation of religion to politics //宗教与政治的关系
+break off relations with sb //与...绝交
+build up a relation with 
+/create a relation with //与...建立关系
+further relations with
+/promote relations with //促进与...的关系
+normalize the relations with //使关系正常化
+strengthen the relations with //加强与...的关系
+2）//亲戚，亲属（relative）,血缘关系
+He is a near relation of mine. //他是我的近亲
+He is a distant relation of mine. //他是我的远亲
+Is he any relation to you? //他是你的亲戚吗
+
+relationship //关系，联系，人际关系
+There is a relationship between the moon and tides. //月亮和潮水的涨退有关系
+She has a very good relationship with her students.
+the relationship between teachers and students //师生关系
+
+patient
+1）//adj.有耐心的，能忍受的
+You should be more patient with others.
+He was patient of hardships //他能够承受苦难
+be impatient with sb //对某人不耐烦
+be impatient of sth //对某事不耐烦
+2）//n.病人
+The hospital has a lot of patients. //这家医院有好多病人
+
+patiently //adv.有耐心地，能忍受地  反义：impatiently
+
+/** 将来时 **/
+1）be going to do + //动词原形 --打算做某事
+I am going to travel by air.
+2）will + //动词原形
+You will enjoy yourself if you travel by sea.
+3）be + v.-ing //部分动词可用进行时表示为将来安排好的活动和事件
+go, come, leave, arrive, land, meet, die, start...
+He is arriving tomorrow.
+4）be about to //表示即将发生的行为，动作
+He was about to leave when the telephone rang.
+5）plan to/ intend to //打算计划做某事  --plan to常用于进行时，而intend只用于简单时态
+6）be due to do //表示早已安排好的事，即‘定于’
+The train is due to arrive at 6:00 o'clock. //火车定语6点到达
+
+//在真实条件句的if从句中 和 时间连接词引导的从句中，只能用一般现在时的形式来表达一般将来时的意思，时态要求 ‘主将从现’
+//常用时间连接词: until, as soon as, after, before, when, as, the monent, the instant, the minute ...
+It it rains tomorrow we shall stay at home.
+The moment he arrives, I shall let you know. //他一来我就会告诉你的
+I shall wait here until he comes.
+As soon as the rains stops, we shall go out.
+You must finish your dinner before you leave the table.
+We'll go into the living room after we finish the dinner.
+I'll give him the message when he returns.
+
+at a village fair = at a fair in the village  //名词作定语修饰名词
+We went to the fair in the village 
+=We went to the village fair
+The dinning room in our school is very large.
+=The school dining room is very large.
+We stopped at a pub in the village.
+=We stopped at a village pub.
+He told us a story about ghost.
+=He told us a ghost story.
+The leader of the party made a speech.
+=The party leader made a speech.
+He sent me a card for Christmas.
+=He sent me a Christmas card.
+We are painting the gate in our garden.
+=We are painting the garden gate.
+
+call sb + //名字 --谁叫社么
+He called me Fat.
+My friends call me Jeff.
+
+look into
+1）//注视...的内部
+look into a room //往房间里面看
+2）//调查，检查
+The committee is looking into the cause of the accident. //委员会正在调查事故的原因。
+
+look in
+1）//向内探视
+look in a cupboard //看一看碗柜里面
+2）//顺路访问
+I'll look in on you tomorrow. //我明天将拜访你
+
+a relation of yours
+=one of your relations //双重所有格
+
+get a surprise
+get a shock
+get a fright
+to one's surprise
+to one's joy
+to one's disappointment
+
+speak
+1）//v.说，讲，谈话
+speak English
+speak out //大声说话
+speak the truth = tell the truth
+speak to sb
+speak for oneself //自我辩护
+speak ill of sb //说人坏话
+speak well of sb //说人好话
+2）//v.发表演讲
+The prime minister spoke on the international situation. //首相就国际形势发表了演讲
+Who will speak at the opening? //谁将致开幕词
+3）//事物显示，表示事实，感情等
+Actions speak louder than words.
+Her eyes spoke. //她的眼睛表达了她的心意
+The portrait speaks. //这副肖像栩栩如生
+
+forget all about //忘得一干二净
+forget it //算了
+forget + n.
+I've forgotten his telephone number.
+forget + doing //忘记做过某事
+I'll never forget seeing the musical in NY.
+forget + to do //忘记去做某事
+Don't forget to call me.
+forget that
+I was forgetting that you don't like carrots.
+
+hurry towards sb //匆匆向...赶去
+Don't hurry.
+With this, the woman hurried away/off. //说完这个，那个妇人匆匆离去
+He hurried home.
+We hurried to school.
+He hurried back to his office.
+
+in a hurry //匆匆忙忙的
+
+away //adv.向一边
+walk away //走开
+hurry away //匆匆离开
+look away //四处张望
+take away //拿走
+move away //离开
+go away //走开
+
+follow sb out of //跟着...走出
+follow sb into //跟着..进入
+follow sb into the kitchen
+
+Needs must when the devil drives. //魔鬼在后撵，不干也得干
+
+No news is good news. //没有消息那么一切正常

@@ -1,0 +1,234 @@
+Lesson 059
+
+bark
+1）//n.树皮
+2）//n.狗叫,狐狸叫
+3）//v.狗叫，剥树皮
+sb's bark is worse than his bite //刀子嘴豆腐心
+
+crow //公鸡喔喔叫
+mew/miaow //猫喵喵叫
+quack //鸭子呱呱地叫
+
+press
+1）//n.按，压，挤，推
+The trousers need a press.
+a trouser press //裤子熨平器
+a wine press //葡萄榨汁机
+the press //记者群，报纸，出版界，新闻界
+The press was shut out from the summit meeting. //记者们被挡在最高级会议门外
+the daily press //日报
+No politicians can ignore the power of the press. //没有政治家能忽视新闻界的力量。
+press release //新闻稿
+press-box //记者席
+2）//n.印刷厂，出版社
+Oxford University Press //牛津大学出版社
+3）//v.按，压，挤，推
+press the trigger of a gun //扣抢的扳机
+press the button //按按钮
+I have to press myself against the wall to left them pass. //我必须紧贴墙让他们通过。
+press apples //榨苹果汁
+press oranges //榨橘子汁
+pressure //n.压力
+pressure cooker //高压锅
+
+paw
+1）//n.爪子
+cat's paw //猫爪子 --比喻被利用的人
+foot //脚
+hand //手
+forepaw //前爪
+pad //某些动物的肉趾
+Take your dirty little paws off me. //把你的小黑爪子拿开
+2）//v.
+paw at //用爪子触或抓挠，用蹄子刨地
+
+pawpaw/papaw //n.木瓜
+
+latch
+1）//n.门闩，弹簧锁
+off the latch //未上门闩的，虚掩的
+on the latch //仅上门闩，关着的，未上锁的
+2）//v.用门闩拴牢或用锁锁住
+Don't forget to latch the front door when you leave.
+
+bar //门闩，窗栅栏，窗格子
+
+expert
+1）//n.专家，能手
+an expert at cars //打牌专家
+an expert in economics //经济学专家
+2）//adj.熟练的，老练的，擅长的
+an expert economist //经济学专家
+an expert thief //偷窃老手
+according to expert opinions //根据专家意见
+be expert at sth //擅长做某事
+be expert at doing sth //擅长做某事
+be expert in sth //擅长做某事
+be expert in doing sth //擅长做某事
+be expert on sth //擅长做某事
+be expert on doing sth //擅长做某事
+She is expert at/in handling children. //她擅长对付小孩子
+
+develop
+1）//v.发展，发育，成长，养成
+The argument developed into a bitter quarrel. //这场辩论逐渐变成了激励的争吵
+Shenzhen has developed from a fishing village.
+develop a habit
+the rapid development of civilization //文化的快速发展
+the development of the post-war economy //战后经济的发展
+
+habit
+1）//n.个人习惯
+custom //风俗，习俗
+It is his habit to jog before breakfast.
+2）//n.癖好，嗜好
+Stop biting your nails. It's a bad habit.
+She has a habit of playing with her hair while reading. //她阅读时有玩弄头发的癖好
+
+fall into the habit of doing sth //养成...习惯
+get into the habit of doing sht //养成...习惯
+develop a habit
+form a habit
+make a habit
+I've got into the habit of turning on the TV as soon as I get home. //我已经养成了一到家就打开电视的习惯。
+
+fall into bad habits
+get into bad habits //养成坏习惯
+
+kick the habit of //戒除某嗜好
+get rid of the habit of 
+You'd better get rid of the habit of biting your nails.
+
+remove //v.移开，挪走，剔除，脱掉
+remove the dishes
+remove one's hat
+The player was removed from the team. //这名运动员被开除出队。
+remove a stain from the shirt //去掉衬衫上的污渍
+remover //n.迁移者，搬运工，清除剂
+
+removable //adj.可移动的，可除去的，可拆除的
+removable furniture //可拆除家具
+removed //adj.隔了...代的
+once removed //隔了一代的
+ 
+//一般现在时
+1.//表习惯性动作的动词一般用一般现在时
+belong to 
+need 
+contain
+believe
+doubt
+see
+hear
+know
+understand
+think
+consider
+feel
+look
+seem
+show
+mind
+have
+sound
+taste
+require
+possess
+care
+like
+hate
+love
+detest
+desire
+
+//现在完成时与现在完成进行时
+My brother has been in Australia for six months.
+He has been working for a big firm since six months ago.
+
+used to do
+//过去常常做某事，话外音是与现在情形对比的，而现在已经不这样做了
+would do
+//过去某时常做某事，动作不是很规律的，不能表达出和现在情况形成对比的意思
+I used to live near my work and would always get home early.
+
+//被动语态
+It is said to do/that
+
+outside //prep. 在外面
+outside our front gate
+
+inside //prep. 在里面
+inside the gate
+
+outside, inside adj./adv./n.
+an outside chance //极小的可能性 adj.
+Please wait outside. //adv.
+the outside of the house. //n. 
+
+outsider //n.局外人，生人
+insider //n.内部的人，知情人
+
+insider dealing/trading //内幕交易
+
+Every time he wanted to come into the garden he would bark until someone opened the gate.
+//every time 与 would相搭配 --would do 表示过去某一段时间经常发生的动作 --通常不很规律
+
+until //conj. 连词链接句子 --主句中的动词为延续性动词
+We'll stay at home until the rain stops.
+
+not...until //直到...才 --主句中的动词为非延续性动词
+We won't start until the rain stops.
+
+complain of //抱怨；病人对医生诉说病痛将为常用
+complain (to sb) about (sth) //抱怨
+He began to complain about the wicked world.
+
+spend...in doing ...
+They spent 3 hours in unloading the goods.
+
+go out shopping
+go shopping
+shop around for sth //仔细挑选东西
+Don't buy the first car you see, shop around a bit.
+
+so that 和 in order that
+//引导的从句叫目的状语从句，从句中的谓语动词常与will, would, can, dould, shall, should, may, might连用
+He sent a fax in order that his mother might learn the good news.
+We left early so that we could catch the first train.
+
+to, so as to 及 in order to
+//后面跟动词原形，表达"目的是" 
+in order to //多用于肯定句中或句首
+so as to //多用于否定句中间
+He ran to the station to catch the train.
+I told him about it in order to help you.
+I opened the door quietly so as not to disturb him.
+
+so...that //如此...以至于 --引导结果状语从句
+It's so cold that the pond has frozen. //天如此的冷以至于池塘都结冰了。
+She was so exhausted that she couldn't eat dinner. //她累得吃不下饭了。
+
+shut //v.关上，闭上，停止营业
+Shut the doors and windows at night.
+I can't shut the suitcase lid when it's so full.
+He shut the door on her face. //他当着她的面把门关上。
+shut one's eyes //闭上眼睛
+shut one's mouth //闭上嘴
+shut a book //合上书
+shut a wallet //合上钱夹
+shut a penknife //合上折刀
+shut the door on sth //拒不考虑某事物
+shut one's ears to sth //拒不听某事
+shut one's ears to sb //拒不听某人的话
+shut one's eyes to sth //视而不见
+close one's eyes to sth //视而不见
+shut up //住嘴
+
+shutter //n.快门
+
+begin barking = begin to bark
+
+Necessity is the mother of invention. //需求是发明之母
+
+Need a long spoon to eat with the devil. //与不可靠的人打交道要及其小心
