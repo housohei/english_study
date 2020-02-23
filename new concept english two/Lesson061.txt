@@ -1,0 +1,270 @@
+Lesson 061
+
+tele- //远距离的，元的，电视的
+telescope //望远镜
+telegram //电报
+telephone //电话
+television //电视
+telephotography //摄远摄影技术
+teleprompter //讲词提示器
+
+launch
+1）//v.使运动，送入轨道，发射
+launch a missile //发射一枚导弹
+launch a torpedo //发射一枚鱼雷
+launch a satellite //发射卫星
+2）//v.着手（事业），开始（攻击） 
+We launched a new project. //我们着手一次新的计划
+They launched a fierce attack on their enemies. //他们向敌人发动了猛烈的攻击。
+3）//v.使（某人）投入（事业等）
+My parents launched me into business. //我父母使我开始经商。
+
+space
+1）//n.[c] 空白，空地
+Is there a space for the car? //
+2）//n.[u] 空间 = room
+There isn't much space left for your luggage.
+3）//n.太空，外层空间 = outer space
+I dream of traveling through the space to live on another planet. //我梦想在太空旅行到另一个星球上生活。
+the exploration of outer space //探索外太空
+
+aero- //空气的，飞行器的
+aeronautics //航空学，航空术
+aeroplane //飞机
+aerospace //宇宙空间，航空航天空间
+
+dozen //一打 十二个
+score //二十个
+hundred //一百
+thousand //一千
+million //百万
+billion //十亿
+two billion //二十亿
+several billion //几十亿
+
+hundreds of //数以百计的，成百上千的
+thousands of //数以千计的，成千上万的
+hundreds and thousands of + pl. //成百上千的
+
+faulty //adj.有错误的，有缺陷的，不完善的 --faultier, faultiest
+a faulty argument //有错误的论据
+
+fault
+1）//n.[c] 缺点，缺陷，毛病，故障
+I like him despite his faults. //尽管他有缺点，我还是喜欢他。
+2）//n.[u] 过失，过错
+Whose fault is this?
+
+mistake //日常生活中各种情况的错误
+make the same mistakes //犯相同的错误
+
+error //比较正式 错误
+an error in your report
+
+blunder //大错，粗心的错误，疏忽 --常为不该有的或判断失误
+I made a terrible blunder in introducing her to my husband.
+
+fault //过失，过错 --侧重于造成错误的个人责任
+The child broke the window. But is was his parents' fault for letting him play football indoor.
+fault //也有 人或物的缺点，缺陷的意思
+
+defect //指更为严重的缺陷
+The new car had to be withdrawn from the market because of a mechanical defect. //由于机械缺陷，这辆新车不得不退出市场。
+
+astro- //星的，外太空的
+astronaut //宇航员
+astrology //占星术
+astronomy //天文学
+astrophysics //天文物理学
+
+a space shuttle //航天飞机
+shuttle bus //区间公共汽车
+shuttle service //定期往返班次
+
+endeavour // US. endeavor
+1）//n.努力，尽力
+Please make every endeavor to arrive in time. //请尽量准时到达
+2）//v.努力，尽力 --比try要更加正式
+They endeavored to make her happy but in vain. //他们努力使她快乐，但徒劳无功
+He endeavored to win votes for his proposal. //他努力争取赞成自己提案的票
+
+grab
+1）//v.抓，抢，抢夺 --grabbing, grabbed
+He grabbed my collar and pulled me towards him. //他抓住我的衣领，把我拉向他。
+He grabbed my bag and ran away.
+Don't grab! //不要抢
+2）//v.热切地抓住，抓住机会
+grab a chance
+3）//n.猛然抓抢
+up for grabs //任何人皆可得到
+The job is up for grabs. Why don't you apply now?
+
+atmosphere
+1）//n.大气，大气层
+the atmosphere //包围地球的大气层
+2）//n.包围任何星球的气体
+3）//n.某一地方的空气
+The atmosphere here is stuffy. //这里的空气很闷。
+The earth's atmosphere is densest at sea level. //在海平面上空气密度最大。
+4）//n.气氛，情绪
+a friendly atmosphere
+That restaurant has real atmosphere //那家餐馆真的很有气氛
+The atmosphere at dinner was warm and friendly.  //宴会上的气氛热烈而友好。
+
+distant //adj.遥远的 反义near
+a distant town //一个遥远的小镇
+in the distant past //在往昔
+
+be distant from 
+The station is 3 miles distant from our house. //车站距离我家3英里远
+=The station is 3 miles away from our house.
+The sun is distant from the earth. //太阳距离地球相当遥远
+
+distance //n.
+the distance from our house //离我家的路程
+
+galaxy
+1）//n.星系
+distant galaxies
+the Galaxy = the milky way //银河，银河系
+2）//n.一群杰出的人
+a galaxy of talents //一群才子
+a galaxy of beauties //一群美女
+a galaxy of film stars //一群影星
+
+universe //n.宇宙，世界，天地万物
+God is believed to have made the universe. //人们相信神创造了天地万物
+How many states are there in the universe? //宇宙中有多少形态呢
+Three. They are gas, solid and liquid. //三种， 气体，固体，液体
+university //n.大学
+Oxford University //牛津大学
+
+eagle
+1）//n.老鹰
+An eagle is flying majestically through the air. //一只雄鹰威风凛凛地在空中飞翔。
+2）//n.鹰徽 --美国的国徽
+eagle-eye //眼力好的，眼光锐利的，有洞察力的
+
+eye
+1）//n.眼光，洞察力
+He has a good eye for beauty. //他又很好的审美观
+To the eye of an expert, this picture is very valuable.
+2）//n.眼神，目光
+with jealous eyes //用嫉妒的眼神
+with sleepy eyes //用昏昏欲睡的眼神
+make eyes at sb //向某人暗送秋波
+
+/**将来完成时**/
+//will + have + done --表示到将来某时为止将会完成某事
+Soon the astronauts will have repaired the telescope.
+--He will phone us later today. //今天晚些时候他会给我们打电话的
+--He will have received his exam results by then. //那个时候他已经接到考试成绩了
+//在下面的句子中，will时情态动词，有"大概，料想"的含义，不能翻译成"将要"
+You will have heard the news, so I need not repeat it. //你一定听到这个消息，所以我不必再说了。
+They will have received our letter now. //他们现在大概收到我们的信了
+
+
+/**将来进行时**/
+//will + be + doing
+1）//表达将来某时正在作某事
+2）//对将来的动作或状态进行一种判断或推测，比一般将来时语气更加肯定
+3）//提问的时候显得更加客气，更加有诚意
+I will be writing letters all day tomorrow.
+
+/**将来完成进行时**/
+//will + have + been ding
+//到将来为止动作一直在进行着
+By Friday midday, they'll have been working on it for 7 days. //到星期五中午，他们已经干了7天了。
+
+at a cost of //耗资...
+cost //n.价格，成本
+The cost of the used car is 2000. //这辆旧车的价格是2000
+
+price //n.价格
+Let's ask the price. //让我们问下价格
+
+value //n.价值
+The stolen items were of sentimental, rather than financial value. //被盗物品跟具有情感上的价值，而不是经济上的价值。
+
+cost //v.花费
+What does this blouse cost, please? //这件衬衫多少钱
+
+price //v.打听价格
+I want to price the bed linen in a few other shops before I buy any. //我想先在其他商店打听下床的价格然后再买。
+
+value //v.尊重，重视
+I value your advice a great deal. //我非常重视你的建议
+
+right from the start //从最开始
+=just from the start
+=from the very beginning
+
+right here //就在这里
+right now //即可
+
+main //adj.主要的，首要的 --无比较级，最高级
+the main thing to remember //记住主要的东西
+the main meal of the day //一天的正餐
+the main course of a meal //一餐的主菜
+in the main //大体上，大致上
+
+put...right
+put + n. + adv./adj. //使成为某种状态
+He said everything to put her at her ease. //他讲了很多使她舒服些
+Nobody can put him into a bad temper. //没人能使他心情变坏
+Can't you put yourself in my place? //你能设身处地的为我想一下吗
+put a watch ten minutes fast //把表拨快十分钟
+
+put + n. + to
+put a child to bad
+They put the ship back to port.
+put the desk near to the window
+
+send up //使上去，使价格，湿度上升，提高
+
+send away 
+1）//赶走，解雇，派
+He sent his daughter away to school in England. //他把女儿送到英国上学去了。
+2）//去函订购，函购
+I've sent away for a carpet I saw in the catalogue.
+
+send out //派遣，使到外面去
+The teacher sent the naughty boy out of the classroom. //老师把那个淘气的孩子赶出了教室
+
+make repairs //修理
+make enemies //树敌
+make trouble //惹麻烦
+make money //赚钱
+make a profit //赚钱
+make fortune //赚钱
+make an experiment //做实验
+make a face //做鬼脸
+make a hit //很成功
+make progress //取得进步
+make a note //做笔记
+make a move //走一着棋，开始行动，搬家
+make a mistake //犯错误
+make a payment //付款
+make a resolution //下决心
+make a trip //进行旅行
+
+above //adv./adj./prep 在高处，高于，超出，前文，上文，在天上，到天上
+
+My bedroom is immediately above. //我的卧室就在上面
+A voice called down to us from above. //从上面传来叫我们的声音
+As we stated above. //如上所述
+the powers above //天上神明
+blessings from above //上天的祝福
+gone above //上天堂
+She wouldn't lie-she's above that. //她不至于说谎-她不屑于这么做
+above all //最重要的，尤其是
+above oneself //兴高采烈，得意忘形，自高自大，趾高气扬
+
+by //到...时为止 --搭配完成时态
+By the end of last year, he had written 18 books.
+By this time tomorrow, you will have received your parcel. //到明天的这个时候，你将会收到你的包裹
+
+No pains, no gains. //不付出就没有收获， 不劳无获
+
+Nothing venture, nothing gain/win/have.
+Nothing risk, nothing gain/win/have. //不冒风险，不能成功；不入虎穴，焉得虎子
