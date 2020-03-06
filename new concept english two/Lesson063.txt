@@ -1,0 +1,286 @@
+Lesson 063
+
+circle
+1）//圆，圆周，圆形空间
+Use your compasses to draw a circle.
+2）//一圈...
+a circle of trees
+We sat in a circle.
+a circle of hills
+square //正方形
+triangle //三角形
+3）//有共同兴趣，职业等的人形成的圈你，阶层，界
+have a large circle of friends //交友广阔
+in theatrical circles //在演艺界
+in business circles //在商界
+in political circle //在政界
+4）//循环，一周
+the circle of the seasons //四节的循环
+vicious circle //恶性循环
+go round in circles //无进展，瞎忙
+
+admire
+1）//赞美，倾佩，羡慕
+admire sb for ...
+admire sth for ...
+I admire you for your success in business.
+We admire him for his sense of humor.
+I was admiring his new car.
+2）//（口）恭维地称赞
+remember to admire her new dress
+
+admirer //n.称赞者，羡慕者
+She has a lot of admirers.
+
+admiring //adj.赞赏的，羡慕的
+admiring glances //羡慕的眼光
+
+admiration //倾佩，羡慕
+We had great admiration for his courage.
+look at a picture with admiration //欣赏一幅画
+look at a picture in admiration
+
+a mutual admiration society //相互吹捧的社会
+
+close
+1）//v.关
+close the door
+close your eyes
+The shop closes at 5:30 p.m.
+close one's eyes to sth
+/turn a blind eye to sth //视而不见
+close one's mind to sth //不愿意思考
+2）//adj.在空间或时间上接近
+The church is close to the school. 
+3）//adj.亲密的，亲近的
+a close relative //近亲
+a close friend
+/a bosom friend
+4）//adj.势均力敌的
+a close match
+a close election
+
+closed //关着的 --反义 open
+
+wedding
+1）//婚礼
+wedding breakfast //婚宴
+a wedding ring //结婚戒指
+/a wedding band 
+When will you have your wedding?
+I'm invited to their wedding.
+2）//结婚纪念日
+Paper wedding //纸婚          一周年
+Straw wedding //稻草婚       二周年
+Leather wedding //皮革婚    三周年
+Silk wedding //丝婚               四周年
+Wood wedding //木婚          五周年
+Iron wedding //铁婚              六周年
+Tin wedding //锡婚                十周年
+China wedding //搪瓷婚        二十周年
+Silver wedding //银婚             二十五周年
+Pearl wedding //珍珠婚          三十周年
+Coral wedding //珊瑚婚          三十五周年
+Ruby wedding //红宝石婚       十四周年
+Sapphire wedding //蓝宝石婚 四十五周年
+Golden wedding //金婚            五十周年
+Emerald wedding //翡翠婚       五十五周年
+Diamond wedding //钻石婚      六十--七十五周年
+
+marriage //结婚，婚姻，婚礼
+
+marry sb
+/get married to sb
+/be married to sb //和谁结婚
+marry money //嫁给有钱人
+
+single //单身
+married //已婚
+
+reception
+1）//n.接受，接纳
+give a warm reception to sb //热情的接待某人
+I got a friendly reception from them.
+2）//接待处
+Wait for me at the reception. //在接待处等我
+receptionist //n.接待员
+reception desk //服务台
+3）//招待会，欢饮会，宴会
+hold a wedding reception
+official receptions for the foreign guests //为外宾举行的官方招待会
+
+receive //v.收到
+receive the Nobel Prize for literature //获得诺贝尔文学奖
+
+sort
+1）//n.种类
+kind, sort, type
+//kind 比较正式， sort多用于口语与商业用于
+I'll do nothing of this sort. //这种事我不干
+How did you get this sort of idea into your head? //你怎么有这种想法啊
+//type侧重外观，‘式样’，‘风格’的意思
+Her beauty was of another type.
+2）//v.分类，区分
+He sorted the old cards. //他把旧卡片分类。
+sort of ... //几分，有些，稍微
+The man was sort of peculiar. //这个人稍微有些奇怪
+I felt sort of embarrassed. //我感到稍微有点尴尬
+
+a sort of ... //一种...的， 像...的
+a sort of scholar //换算是学者的人
+
+of a sort //蹩脚的，还称得上是...
+a poet of a sort //蹩脚的诗人
+
+/** 祈使句的间接引语 **/
+1.//在转述祈使句时，我们通常用一个简单句，这个请求或命令由一个复合宾语体现出来
+He said:'Please come again tomorrow.'
+->He asked me to go there again the next day.
+He said:'Don't do that again.'
+->He told me not to do that again.
+He said:'Get everything ready in two hours.'
+->He ordered us to get everything ready in two hours.
+->He told us to get everything ready in two hours.
+//结构
+tell sb to do ...
+ask sb to do ...
+order sb to do ...
+2.//在引述祈使句时，我们不一定都用say，tell，ask这几个动词，还可以用sugguest, insisit等
+'Stay to lunch', he insisted.
+->He insisted that I should stay to lunch.
+'Come with me', he suggested.
+->He suggested that I should go with him.
+'Send him a fax', he suggested.
+->He suggested sending him a fax.
+->He suggested that I should send him a fax.
+'Ask him about it,' he insisted.
+->He insisted on asking him about it.
+->He insisted that I should ask him about it.
+//注意：sugguest表“建议”，insist表“坚持要求”时，后面的从句中，谓语动词为（should）do...形式
+
+//用 I wonder 来转述疑问句
+Can he wait a few minutes longer?
+->I wonder if he can wait a few minutes longer.
+When will he arrive?
+->I wonder when he will arrive.
+Has he passed his examination?
+->I wonder whether he has passed his examination.
+
+a large circle of friends
+
+be popular with //受...的欢迎
+The nurse is very popular with little children.
+
+be popular among ...
+Chinese food is becoming popular among Americans. //中国菜在美国人中越来越受欢迎。
+
+popular newspaper //大众报纸
+popular opinion //舆论
+
+party
+1）//聚会，团，一行，一伙
+at parties //在各种聚会中
+have a party //聚会
+give a party
+a party of tourists //旅行团
+the climbing party //登山者一行
+The president and his party started for Geneva.
+2）//当事者，关系人
+the party concerned //当事者
+
+admire sb for sth //钦佩某人某事
+
+a sense of humor //幽默感
+
+sense
+1）//了解...的感觉
+a musical sense //音乐感
+He has no sense of business.  //他没有商业头脑。
+2）//意念，意识
+a sense of hunger //解饿感
+a sense of shame //羞耻感
+a sense of responsibility
+a moral sense //道德观
+3）//辨识力，思虑，判断力，常识
+common sense //常识
+a man of good sense //通情达理的人
+4）//正常的精神状态，神智
+She lost her senses when she heard the news. //她听到这个消息后就失去了理智。
+
+that is 
+/that is to say //也就是说，即
+She is a house wife, that is when she is not teaching English. //她是一个家庭主妇，也就是当她不教英语的时候。
+
+six-year-old //只可作前置定语
+a face-to-face talk
+
+one of Jeremy's closest friends
+=a closest friend of Jeremy's
+
+all sorts of ... //各种各样的
+=all kinds of
+
+a sort of... //一种...的，像..的
+
+She is not my sort(of woman). //她不是我喜欢的那种女人
+
+prepare a speech
+
+include //包括，包含
+exclude //排除
+The price includes postage charge. //这个价钱包含邮资
+I am included in the team. //我是这个队的一员。
+contain: //包含整个内容
+include：//包含内容的一部分
+
+a large number of + //复数 
+
+be disappointed by ...
+be disappointed at... //对什么失望
+ 
+as his daughter asked //方式状语从句
+
+as //conj. 依照...,如...,随
+I'll do as you advise.
+Please try to pronounce the words as I do. //请像我这样读这些单词。
+She stayed in bed as the doctor had ordered. //她遵照医生的嘱咐卧床休息
+Leave as it is. //就这样吧 --维持原状好了
+
+on the way to + space
+
+enjoy
+1）//喜爱
+enjoy one's speech
+enjoy a movie
+2) //享受，享有
+enjoy large sales //畅销
+enjoy good pay //支领高新
+enjoy oneself
+
+speech
+1）//【c】演说，讲演
+He made a speech on peace.
+an opening speech //开幕词
+a closing speech //闭幕词
+2）//【u】说话能力
+lose one's speech //因惊吓等不能说话
+3）//【u】说话
+the freedom of speech //言论自由
+Speech is silver, silence is golden. //雄辩是银，沉默是金
+
+to one's + n.
+to one's surprise
+to one's joy
+to one's astonishment
+to one's sorrow
+to one's disappointment
+
+like to do... //
+like doing... //
+
+see sb doing
+see sb do
+
+One may as well be hanged for a sheep as a lamb. //一不做，二不休
+
+One swallow doesn't make a summer. //一燕不夏，只凭一种情况不能判断全局
