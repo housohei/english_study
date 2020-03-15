@@ -1,1 +1,221 @@
 Lesson 064
+
+tunnel
+1）//n.地下通道，隧道，地道
+a passage under a river or the sea, or through a hill
+
+the Channel Tunnel //海峡隧道
+The train passed through several tunnels.
+light at the end of the tunnel //苦尽甘来
+2）//v.开隧道，掘地道
+
+port //n.港口，港，港口城市
+enter a port 
+make a port //入港
+leave a port //出港
+clear a port
+a free port //自由港
+Any port in a storm. //慌不择路，穷途之策
+
+ventilate //v.使空气进入，使空气流通
+well-ventilated //通风良好
+poorly-ventilated //通风不好
+Our classroom is well-ventilated.
+
+ventilation //n.空气流通，畅谈
+put a problem to ventilation //提出问题以供公开讨论
+
+ventilator //n.通风设备，通风口
+airing //n.通风，晾干
+
+chimney //n.烟囱
+sweep/clean a chimney //清扫烟囱
+The smoke poured out of the chimney. //烟从烟囱里冒出来
+a blocked chimney //堵塞的烟囱
+factory chimneys //工厂烟囱
+It is said that Santa Claus comes down chimneys at Christmas to bring presents. 
+
+sea-level //n.海平面
+1）//n.水平，水面
+1000 meters above sea-level //海拔1000米
+Water always seeks its own level. //水性自平
+2）//n.高，高度
+at the level of one's eyes //在眼睛的高度
+the level of the water //水位
+3）//n.文化，学问等水准，程度，标准
+high-level //高级的
+low-level //低级的
+a higher level of civilization //文明的更高程度
+4）//adj.土地等平的，水平的
+a level surface //平坦的表面
+The road was level. //路面很平
+5）//adj.相同高度的，相同程度的
+a level race //势均力敌的竞赛
+in level tones //以平板的音调
+6）//adj.心情等稳定的，平静的，有判断力的
+in a level voice //用平静的声音
+do one's level best //尽最大努力
+
+double
+1）//adj.双的，两倍的 --通常作定语
+a double room
+a double bed
+double chin //双下巴
+double negative //双重否定
+double Dutch //莫名其妙的话，晦涩的文字
+
+double standard
+He's got a double standard: it's all right for him to have affairs but not for her. //他有双重标准:有外遇对他来说是可以的，但对她就不行
+2）//adv.两倍地，加倍地
+pay double //加倍付钱
+3）//adv.双人地，双双地
+see double //把一事物看成两事物
+4）//n.两倍之物
+5）//v.使...增加一倍，使增倍
+He doubled his income in five years. //他在五年内使收入增加了一倍
+double one's salary //薪水加倍
+
+fear
+1）//n.[u]恐惧，惧怕
+The soldier didn't show his fear. //这个士兵没有表现出他的恐惧
+The child had no fear of water. 
+2）//n.[c] 畏惧，不安
+a fear of heights //恐高症
+She has a great fear of fire. //她极度害怕火
+3）//n.对神的敬畏
+the fear of God //虔诚的心，对上帝的敬畏
+4）//v.恐惧，害怕
+fear death
+fear illness
+Never fear! = Don't worry! Everything will be all right.
+fear doing sth //害怕做某事
+The little boy feared staying alone in the dark. //那个小男孩害怕独自呆在黑暗中
+fear to do sth //害怕去做某事
+She feared to speak in his presence. //她不敢在他面前说话。
+
+fearful
+1）//adj.可怕的，恐怖的
+a fearful storm //可怕的暴风雨
+2）//adj.害怕的，担心的
+The baby is fearful of loud noise.
+
+fearless //adj.不怕的，无畏的
+
+invade //v.侵犯，侵略
+invade a small country
+invade sb's rights //侵犯...的权力
+tourists invade a city //游客涌入这个城市
+
+invader //n.入侵者
+invasion //n.侵略
+fear invasion //害怕侵略
+the invasion of Poland by Germany in 1993 //1993年德国入侵波兰
+an invasion of privacy //对隐私权的侵犯
+
+office //n.办公室，办公楼
+officer //n.军官，政府的官员
+
+official
+1）//adj.官方的，正式的，公务的，职权的
+an official decision //官方决定
+an official announcement //官方公告
+2）//n.官员
+government officials //政府官员
+
+officially //adv. 正式地，公务或公职上
+I've been officially invited to the wedding. //我已被正式邀请参加婚礼。
+announce officially //正式宣布
+
+connect
+1）//v.链接，结合
+connect A with B
+connect A to B
+Please connect the hose with/on the faucet. //请把软管和水龙头连接起来。
+A highway connects the two cities. //有一条公路连接这两座城市
+2）//将电话接通给某人
+Please connect me with New York.
+
+connection //n.连接，连结，联系
+connection between A and B
+Lung caner is in connection with smoking. //肺癌与吸烟有关。
+
+continent //n.洲，大陆
+the Continent //指欧洲大陆
+Asia //亚洲
+Africa //非洲
+North America //北美洲
+South America //南美洲
+Europe //欧洲
+Oceania //大洋洲
+Antarctica //南极洲
+ 
+/** 条件句 **/
+1.//真实条件句：对将来可能发生的事情的假设，主句用将来时，从句用现在时
+If he is out, I'll call tomorrow.
+You'll miss the train if you don't hurry.
+
+2.//非真实条件句
+1）//对现在事实假设或不可能事情假设
+   //主句：would do
+   //从句：一般过去时 --were
+If you went to the exhibition, you would enjoy it.
+If I were in your position, I would act differently.
+2）//对过去事实做相反假设
+   //主句：would have done
+   //从句：had done
+You would have missed the train if you had not hurried.
+If you had gone to the exhibition, you would have enjoyed it.
+If I had been in your position, I would have acted differently.
+If you could have made him change his mind, you would have saved him a lot of trouble.
+
+a plan for sth //有什么样的计划
+Do you have any plans for this eveing?
+We made plans for holidays.
+
+it is possible to do sth
+
+platform
+1）//n.台，讲台
+stand on the platform
+2）//n.月台
+an arrival platform //到站月台
+a departure platform //出站月台
+platform No.2 //第二站台
+
+serve as : serve fro //权充，充当
+When you sleep in the open, old newspapers can serve as a blanket. //当你露天睡觉时，旧报纸可以当毯子用。
+
+serve sb with //拿出...款待某人
+The waiter served us with wine.
+
+put forward : put up //提出供讨论或考虑；将某事提前
+We've put forward the date of our wedding by one week.
+
+forward //向前
+backward //向后
+backward and forward //前后地，来回地
+go forward / move forward //向前走
+from this time forward //从此以后
+
+forward //v.转递
+Please forward this letter to the following address. //请将这封信转寄到以下地址。
+
+draw in //抽进，吸进； 指白天的时间渐短
+The days are drawing in. //白天越来越短了。
+The days are drawing out. //白天越来越长
+
+draw back //退回
+The dog drew back in terror when it saw the snake.
+
+draw up
+1）//车辆停下来
+A taxi drew up outside the bank.
+2）//签署，草拟
+A new trading agreement was drawn up between Holland and Denmark.
+
+draw off //离开，走了
+Two men got out and then the taxi drew off. //两个人下了车，然后出租车开走了
+
+One's eyes are bigger than one's belly/stomach. //估计自己能干的多而实际干不了
+
+One's left hand does not know what one's right hand is doing. //行动秘密，互不通气

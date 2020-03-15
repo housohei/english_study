@@ -1,0 +1,268 @@
+Lesson 067
+
+volcano //火山 --volcanoes
+an active volcano //活火山
+a dormant volcano //休眠火山
+an extinct volcano //死火山
+
+disaster //灾害
+a natural disaster //自然灾害
+earthquake //地震
+flood //洪水
+typhoon //台风
+hurricane //飓风
+storm //风暴
+tornado //龙卷风
+
+active //adj.
+1）//活跃的，活泼的（反义inactive）
+an active child
+an active writer
+have an active brain //头脑灵活
+2）//积极的，主动的（反义passive）
+take an active part in... //积极参与
+the most active member of the club //俱乐部里最积极的会员
+3）//活动中的，有效的，军队中现役的
+an active volcano
+on active service //军队中服役
+4）//主动的语法
+active voice //主动语态
+passive voice //被动语态
+
+actively //adv.积极地，主动地
+activity //n.活动【c】、活力【u】
+outdoor activities //或外活动
+club activities //社团活动
+a street full of activity //从满生气的街道
+
+activist //n.积极分子
+
+erupt
+1）//v.火山喷发
+It's many years since Kituro Volcano last erupted.
+2）//比喻突然发生
+Violence erupted on the streets. //大街上突然发生暴乱
+When I saw the size of the bill, I simply erupted. //当我看到巨额账单，简直火帽三丈
+
+eruption //n.火山爆发 ； 医生出诊
+
+violent //adj.
+1）//暴力的
+He was violent when he got drunk.
+meet a violent death //死于非命
+violent criminals //暴力犯罪
+2）//带有强烈情感地，有强烈情感引起的
+violent language //激烈的语言
+in a violent shock //万分震惊
+He has a violent dislike of school. //他极度厌恶上学
+3）//厉害的，极度的
+violent winds  //强烈的风
+violent storms //强烈风暴
+violent earthquakes //强烈地震
+violent toothache //剧烈的牙痛
+
+violently //adv.猛烈地，剧烈地
+The volcano erupted violently
+It stormed violently last night.
+
+violence //n.暴力，暴行，狂热，猛烈
+with violence //剧烈地
+
+manage //v.
+1）//管理，经营
+manage a company
+manage a hotel
+2）//控制，驾驭，照管
+manage a child
+manage a horse
+manage one's money //理财
+3）//做成，应付
+Can I help you?
+No, thank you. I can manage it myself.
+I can't borrow the money, so I have to manage without it.
+4）//产生，达到，设法做成...
+manage to do sth //设法成功地做成某事
+He managed to steal the Benz.
+He managed to get to school in time.
+
+management //n.管理，经营
+manager //经理
+manageress //女经理
+
+brilliant //adj.
+1）//非常明亮的，光辉夺目的
+brilliant sunshine //灿烂的阳光
+a brilliant diamond //耀眼大的钻石
+2）//杰出的，非凡的，精彩的
+a brilliant scientist //卓越的科学家
+brilliant achievements //非凡的成就
+brilliant photographs //精彩的照片
+
+brilliance //n.精彩，明亮
+
+liquid
+1）//n.液体
+The liquid was red.
+Water, milk and oil are liquids.
+fluid //流体 --包含液体，气体
+gas //气体
+solid //固体
+2）//adj.液态的，清澈的，透明的
+liquid food //流质食物
+liquid gas //液态煤气
+liquid rock //岩浆
+a liquid sky //清澈的天空
+liquid eyes //明亮的眼睛
+
+escape 
+1）//v.逃脱，逃走
+escape from
+escape out of
+Two prisoners escaped from the prison. //两个犯人从监狱里逃了出来。
+escape from the danger
+escape from reality // 逃避现实
+2）//逃离，脱离
+escape + n./doing
+escape being punished
+/escape punishment
+escape prison //逃过牢狱之灾
+3）//被人遗忘，逃过注意
+His name escaped me. //我忘记了他的名字
+The fact escaped my notice. //我没有注意到这个事实
+4）//n.逃走
+have a narrow escape //九死一生，幸免于难
+5）//套路
+
+escapee //逃脱者，越狱者
+
+alive //adj.活着的 --做表语，后置定语，宾补
+She was still alive when I reached the hospital.
+all those alive
+Let's keep the fish alive.
+alive and kicking //精神饱满，活跃
+
+living //作定语，也可做表语
+My first teacher is still living. //我的启蒙老师任然活着
+living things //生物
+Lei Feng living //活雷锋
+
+a- //表语形容词 只能做后置定语
+alive    //活着的
+asleep  //睡着了的
+alike    //相像的
+ahead   //前面的
+awake   //醒着的
+alone    //独自的
+
+/** manage to **/
+1. managed to do / was able to //表示一个动作成功地完成了
+He was able to leave Europe before the war began.
+He managed to leave Europe before the war began.
+He didn't agree with me at first but I was able to persuade him.
+He didn't agree with me at first but I managed to persuade him.
+2.//can 与 be able to 意思差不多， 但can 只有现在时和过去时，而且could 不能表明一个动作已近成功完成
+
+spend... (in) sw //在某地花了时间，花费金钱
+I spent a month in Switzerland last sumer.
+ 
+spend...on sth
+spend...for sth
+He spent all his savings on a new car.
+He spends about a third of his salary on drinking.
+
+in all parts of the world //世界各地
+this world //今世
+that world //黄泉
+a man of the world //事故的人
+the world of art //艺术界
+the plant world //植物界
+
+a number of + pl. //许多，大量
+a great many + pl. //许多，大量
+a good many + pl. //许多，大量
+many a + (single) //许多，大量
+
+...threaten to... //迫近（尤指不好的事），预示坏事或危险
+The clouds threaten to rain.
+
+surround sth
+The wall surrounds the jail. //监狱被高墙围住
+be surrounded with //
+be surrounded by //
+The jail is surrounded with walls.
+The jail is surrounded by walls.
+
+just in time //刚好，及时
+just
+1）//恰好，正当 --exactly
+just then / just at that time
+Just look! //用于祈使句以缓和语气
+Just a moment, please!
+2）//only
+I was just a child then.
+I've come here just to see you.
+
+climb into //爬进
+climb out of
+climb + n.
+climb a hill
+climb Mt Fuji. //攀登富士山
+climb up //爬上
+climb up the tree
+climb down //爬下
+
+the mouth of a tunnel //隧道口
+the mouth of a bottle //瓶口
+from mouth to mouth //人传人地
+have a big mouth //嘴不严，说话无顾忌
+keep one's mouth shut //守口如瓶
+
+so that ... //目的状语从句
+
+measure temperatures //测量温度
+measure a piece of land //测量一块地
+measure the speed of a car //测定汽车速度
+measure one's length //身体伸直趴倒在地
+
+at a low temperature //在很低的温度
+take one's temperature //测量体温
+have a temperature 
+/run a temperature //发烧
+
+risk one's life //冒生命危险 = risk one's neck
+risk 
+1）//v.冒险
+risk + n. //以...作为赌注
+He risked all his fortune for the new enterprise.
+risk doing //冒险做某事
+I'll risk being punished.
+/I'll risk the punishment.
+2）//n.危险
+at any risk  //无论冒什么险
+run a risk 
+/take a risk //冒险
+reduce the risk of ... //减少...的危险
+incur risks //招致危险
+
+tell sb sth //告诉某事某事
+Can you tell me anything about it?
+tell a story //
+Please tell us a story.
+tell the time //报时
+Can you tell the time in English?
+tell the truth
+I want you to tell me the truth.
+tell a lie
+He often tells lies.
+tell a secret
+If you promise not to tell anyone, I'll tell you a secret.
+
+//成功做成某事
+managed to do sth
+was able to
+were able to
+succeeded in doing sth
+
+Rome was not built in a day.
+
+Seeing is believing. //眼见为实
