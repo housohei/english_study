@@ -1,0 +1,280 @@
+Lesson 069
+
+murder
+1）//n.谋杀，谋杀案
+be guilty of murder //犯谋杀罪
+six murders in a week
+Murder will out. //纸包不住火
+2）//v.
+murder sb
+3）//糟蹋某事物
+murder the English language
+
+murderer //n.谋杀犯，凶手
+murderess //n.女谋杀犯，凶手
+
+instruct
+1）//v.向...下命令或指示；指导
+instruct sb about sth
+They haven't instructed us where to go.
+I instructed him to lock the door.
+The teacher instructed the pupils to come into the gym.
+
+tell //用途广泛，语气不太强，是日常生活用语
+order //语气较强，为有权威者用以指示别人服从
+instruct/direct //对需采取的行动有准确说明--均用于客观的及公事的场合
+command //主要用于军事场合
+2）//v.教授，传授
+instruct sb in
+Mr. White instructs us in maths.
+instruct a class in history.
+
+instructor //n.教员，教练，指导员
+
+instruction //n.[u] 传授，教导  【c】命令，指示
+
+acquire
+1）//v.靠自己的能力，努力或行为而获得，得到 --同义词gain
+acquire a reputation of dishonesty //得到不诚实的名声
+acquire confidence
+2）//v.学得知识，技术；养成习惯，行为，嗜好
+She acquired a knowledge of French.
+acquire a habit of smoking
+acquire a bad reputation
+
+acquisition //n.获得，得到
+
+inquire //询问
+
+confidence //n.[u] 信赖，把握，信心
+confidence in sb/sth
+have confidence in sb //对...抱有信心
+lose confidence in sb //对...失去信心
+
+You should have confidence in yourself.
+He answered the questions with confidence.
+
+be full of confidence //充满信心
+I have every confidence that I can manage it. //我有充分的自信可以处理此事
+
+confident //adj.有信心的，自信的
+
+confidant //心腹之交
+
+examine
+1）//v.调查，检查，研讨
+You'd better examine the old records.
+We had our suitcase examined at the airport.
+2）//v.测验
+I examined the students in English on the previous lessons. //我就英语课前面所学的课文来考察学生
+3）//v.诊察，检查疾病
+The doctor examined him thoroughly.
+
+examiner // 主考人
+examinee //被考人
+examination //考试 --exam
+
+suppose
+1）//v.假定，假设 
+Suppose that this statement is right.
+Suppose the girl to be your daughter.
+Suppose that you are the general-manager, what will you do on that occasion?
+2）//v.认为，猜想
+I suppose she'll be there today.
+Will he come?
+->Yes, I suppose so.
+John supposed that he was a teacher.
+
+be supposed to //理应，应当
+He is supposed to be there on time.
+We are supposed to help each other.
+
+tap
+1）//v.轻拍某人，轻敲某物
+tap at sth
+tap on sth
+tap sb on the shoulder
+He tapped on the window.
+He tapped on the door.
+The teacher tapped the desk with his ruler.
+2）//n.轻快的敲击声
+3）//n.龙头 --美 faucet
+turn on a tap
+turn off a tap
+tap-water //自来水
+mineral-water //矿泉水
+
+react 
+1）//v.反应
+react to sb/sth //作出反应，回应
+It took me a long time to react.
+She reacted strongly.
+2）//v.起化学反应
+reactant //n.化学反应物
+nuclear reactor //核反应堆
+
+reaction //n.反应，回应
+
+brake 
+1）//n.闸，刹车
+His brake failed.
+put on the brakes //踩刹车
+2）//v.刹车
+The driver braked hard as the dog ran onto the road.
+
+pedal
+1）//n. 踏板
+reach the pedals //脚踩得到踏板
+a brake pedal //刹车踏板
+2）//v.踩踏板
+A boy pedaled away on his bicycle. //一个男孩骑自行车离去
+pedal a bicycle
+
+mourn //v.因丧失某人某物而悲痛或哀悼
+mourn for sb/sth
+mourn over sb/sth
+She mourned for her cat.
+We all mourn for the destruction of Yuanmingyuan.
+
+mourner //哀悼者
+
+mournful //adj.悲哀的，令人悲痛的 --常做贬义
+There was a mournful look on her face.
+He said in a mournful voice.
+
+/**被动语态**/
+//动名词的被动语态
+being + done
+have been +done
+After being arrested, the man confessed that he had stolen the money. //after 为介词
+After he was arrested, the man confessed that he had stolen the money. //after为连词
+After having been instructed to drive out of town, he began to acquire confidence.
+After he had been instructed to drive out of town, he began to acquire confidence.
+
+test
+1）//v.测验，测试，检查
+They tested the new sports car.
+I'd better have my eyes tested.
+2）//n.考试，测验，检查，实验
+We took an IQ test.
+pass the test in physics
+a blood test //血液检查
+3）//n.试金石，考验
+Their affection has stood the test of time.
+test drive //试车
+test match //国际锦标赛
+
+licence
+1）//n.执照
+driving licence
+2）//v.给予，许可
+practice licence //营业执照
+a dog licence //狗拍照
+licence plate //汽车牌照
+
+advice n./ advise v.
+practice n./practise v.
+
+drive
+1）//v.驾驶汽车，驱赶牛马
+drive a car
+drive a truck
+drive a horse
+2）//v.用车送人，载人
+Can I drive you home?
+3）//v.赶走
+Can you drive the dog away?
+4）//v.迫使，逼迫
+The death of her son drove her mad.
+Failure drove him to suicide.
+
+drive at //打算，想说 --多用进行时
+What are you driving at?
+go for a drive //开车去兜风
+5）//n.路程，车程
+It's only a few minutes' drive to the station.
+
+drive in //面下车餐厅
+
+heavy traffic
+/a lot of traffic //交通流量大
+
+traffic jam //交通阻塞
+traffic lights //交通信号灯
+/traffic signals
+traffic circle //道路的环状交叉口 --roundabout
+
+Sure that I had passed, I was almost beginning to enjoy my test.
+//Being sure 引导原因状语  --省略bing
+
+pass
+1）//n.困难，难关
+come to a pretty pass
+2）//n.免费票
+show a pass before entering.
+3）//n.山路 
+4）//v.考试等合格，通过
+Pass in physics.
+5）//v.把...递给，传递
+Will you pass me the salt?
+6）//v.通过，经过
+The new freeway will pass over the lake.
+
+pass on //继续往前走，转移到
+Let's pass on the next subject.
+
+must have + done //对过去事情表示推测
+be pleased with //对...满意
+
+performance
+1）//n.成果，成绩
+a fine performance //好成绩，良好的表现
+2）//n.公演，上演
+give a performance a day //一天上演一场
+3）//n.实行，履行
+He is excellent in the performance of his duties. //他的工作表现极为出色
+
+suppose
+//当"假定，以为"讲时，如果后面的从句被看成一种事实，则不用虚拟语气，若只是一种假设，不当真，用虚拟语气
+Suppose that his statement is right.
+All of his friends will suppose that she is his wife.
+Suppose you had one million dollars, what would you do?
+Suppose you were him, what would you do?
+
+within //不超过，在某范围之内
+She returned within an hour.
+a house within a mile of the station //距火车站不到一英里的一所房子
+We are now within sight of the shore. //我们现在的距离能看到海岸了
+There is a bell within the patient's reach. //在病人伸手可及的地方有个电铃
+
+it take sb some time to do sth
+It took me 10 minutes to persuade her to ring back later.
+It took me 10 hours to reach the village.
+
+voice //n.
+1）//声音，嗓子
+in an angry voice
+in a sad voice
+in a cheerful voice
+be in good voice  //声音嘹亮，嗓子好
+lose one's voice //嗓子哑了
+raise one's voice //提高声音
+with one voice //异口同声地
+2）//意见，心声
+the voice of the citizen //市民的心声
+campus voice //校园心声
+give voice to //说出意见，吐露感情
+3）//歌声
+a male voice //男声
+a female voice //女声
+4）//呼声
+the voice of reason //理性的呼声
+
+enjoy sth //喜欢什么东西
+enjoy oneself //玩的开心
+
+be pleased with //对什么感到满意
+
+Talk of the devil and he appears. //说曹操，曹操到
+
+Tall oaks from little acorns grow. //积少成多，万丈高楼平地起

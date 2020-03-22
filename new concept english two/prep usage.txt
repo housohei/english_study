@@ -1,0 +1,284 @@
+/** 动词 介词 搭配 动词短语**/  lesson 22
+//动词后可搭配of, from, in 和 on 
+of:
+accuse
+approve
+assure
+beware
+boast
+complain
+consist
+convince
+cure
+despair
+dream
+expect
+hear
+be/get rid
+smell
+suspect
+think
+tired
+warn
+ 
+from:
+borrow
+defend
+demand
+differ
+dismiss
+draw
+emerge
+escape
+excuse
+hinder
+prevent
+prohibit
+protect
+receive
+separate
+suffer
+
+in:
+believe
+delight
+employ
+encourage
+engage
+experience
+fail
+help //help sb in/with sth 
+include
+indulge
+instruct
+interest
+invest
+involve
+persist
+share
+
+on:
+act
+base
+call
+comment
+concentrate
+congratulate
+consult
+count
+decide
+depend
+economize
+embark
+experiment
+insist
+lean
+live
+operate
+perform
+pride
+rely
+vote
+write
+
+
+/** 介词to, at, for, with 与动词的搭配 **/  lesson46
+to
+accustom  //习惯于
+amount //达到
+appeal //呼吁
+apply (or for) //适用于
+attach //附属于
+attend //参加
+belong //属于
+challenge //向...提出挑战
+compare //比较
+condemn //判刑
+confess //承认
+confine //限制
+consent //同意
+convert //改信 某宗教
+entitle //享有权利
+listen //听
+mention //提到
+object //反对
+occur //想到
+prefer //更喜欢
+react //对...反应
+reply //回答
+respond //响应
+see //注意
+submit //服从于
+surrender //向...投降
+turn //转向
+yield //屈服
+
+at
+amuse (or by)  //对...感到兴趣
+arrive (or in) //到达
+astonish (or by) //感到惊愕
+exclaim //惊叫
+glance //对...看一眼
+guess //猜测
+knock //敲
+look //看
+point (or to) //指向
+shock //感到震惊
+stare //盯着...看
+surprise (or by) //感到惊讶
+wonder (or about) //感到惊异
+work (or on) //钻研
+
+for
+account //说明（原因）;足以说明
+ask (of) //请求
+act (on) //代表
+apologize //因...而道歉
+blame //责备
+beg //乞求
+call //需要
+charge //收费
+exchange //交换
+hope //希望
+look //寻找
+mistake //误以为
+mourn //哀悼
+pay //为...付款
+prepare //准备
+provide //提供
+search //寻求
+thank //感谢
+vote  (or on) //投票支持
+wait (or on) 等候
+
+with
+agree //同意
+begin //以...开始
+communicate //与...联络
+compare (or to) //与...比较
+compete (or against) //同...竞争
+comply //同意
+confuse //误作
+contrast (or to) //形成对照
+cope //对付
+correspond //与...一致;与...通信
+disgust //使...讨厌
+finish //完成
+help //帮助
+interfere (or in) //干扰
+mix //混合
+occupy //从事于
+part //放弃
+please //对...满意
+quarrel (or about) //争论
+reason //规劝
+satisfy //感到满意
+threaten //威胁
+
+/**  与介词for, with, of, to, at, from, in, on, about搭配的形容词 **/ lesson 70
+for:
+eager //渴望的
+enough //足够的
+famous //以...而闻名
+fit //适合
+grateful(or to) //因...而感激
+qualified（or in） //能胜任的
+ready //准备好
+responsible //对...负责
+sorry //对...感到遗憾
+sufficient //充足的
+thankful （or to）//对...感谢的
+valid //有效期为
+
+with:
+angry（with sb/ at sth） //因...生气
+busy （or at）//忙于
+consistent //与...一致
+content //对...满足
+familiar（or to） //对...熟悉
+patient //为...所喜爱
+popular //欢迎
+
+of:
+afraid //害怕
+ahead //在...前面
+aware //知道
+capable //能够
+careful //小心
+certain //确信
+conscious //意识到
+envious //妒忌
+fond //爱好
+guilty //有罪
+ignorant //不了解
+independent //独立于
+jealous //妒忌的
+kind（or to） //对...和蔼
+north //在...的北面
+south //在...南面
+east //在...东面
+west //在...西面
+short //缺乏
+shy //顾虑
+sure //肯定
+worthy //值得的
+
+to:
+close //接近于
+contrary //与...相反
+cruel //对...残忍
+dear //很...重要
+equal //与...平等
+faithful //忠于
+fatal //对...是致命的
+harmful //对...有害的
+identical //与...相同的
+indifferent //对...不关心
+inferior //劣于
+liable //对...有义务的
+new //对...没有经验
+obedient //对...服从
+obvious //对...清楚
+polite //对...礼貌
+previous //先于
+rude //对...粗鲁的
+sensitive //对...敏感
+similar //与...相似
+useful //对...有用
+
+at:
+bad //不善于
+clever //擅长于
+efficient //能胜任的
+expert（or in） //熟练的
+good //擅长于
+indignant //对...愤慨
+quick //很快
+sad（or about）//因...而悲伤
+slow //对...迟钝
+skillful（or in） //熟练
+
+from:
+away //距...远的
+different //不同
+far //远离
+safe //无危险的
+
+in:
+deficient //缺乏
+fortunate //在...很幸运
+honest //对...诚实
+weak //在...薄弱
+
+on:
+dependent //依赖于
+intent //专心于
+keen //热心于
+
+about:
+curious //好奇
+doubtful（or of） //对...有疑问
+enthusiastic //对...热心
+reluctant（or to）//勉强
+right（or in）//在...是正确的
+uneasy //对...感到不安

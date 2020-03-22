@@ -1,1 +1,201 @@
 Lesson 068
+
+persistent
+1）//（人，行为）不屈不挠的，执拗的，顽固的
+persistent efforts //坚持不懈的努力
+He was persistent in his question. //他一直追问到底
+2）//（事物）持久的，不断的 --lasting
+persistent rain //持续下雨
+persistent pain //持续疼痛
+persistent noise //持续噪音
+
+persist //v.
+persist in sth/doing ... //坚持，执意
+Does he always persist in his opinion like that? //他总是那样固执己见吗?
+She persisted in taking her dog with her. //她坚持带着她的狗
+He will persist in riding that dreadful bicycle. //他坚持骑他那辆破自行车
+He persists in believing that he was right.
+
+persistence //n.【u】坚持不懈，执意，持续
+His persistence touches me. //他的坚持让我感动。
+
+avoid //v.避开，躲避，避免，预防
+avoid + n./doing
+Fortunately, we were able to avoid an accident.
+The car turned to the left to avoid a collision.
+He crossed the street to avoid seeing me.
+Try to avoid driving in rush hours.
+
+avoid sb/sth like the plague //像瘟疫一样躲开某人某事 --极力回避，尽早躲开
+
+avoidable //adj.可避免的
+v.+able //可...了，能够...
+lovable //可爱的
+washable //耐洗的
+acceptable 
+understandable 
+
+n.+able --> adj.
+comfortable
+agreeable
+miserable
+suitable
+
+insist //v.坚持做
+insist on sth/doing //坚持或坚决要求某事物
+insist that sb (should) do...
+I insist on your coming with us. //我坚持要你和我们一起去。
+I insist that you should go with us.
+He insisted that I should apologize.
+He insisted on going swimming.
+
+insist //v.坚持说，坚信，固执的声称
+She insisted that she was innocent.
+I insisted that I hadn't done that.
+
+insistent //adj.坚持的，不容拒绝或反对的
+insistence //n.【u】
+insistence on/about sth
+
+insist on / persist in / stick to / keep on //区别
+insist on n./doing //坚持要求，坚持认为（要求，看法，主张，意见）
+She insisted on her opinion at the meeting.
+insist + that //从句有两种情况
+1）//"坚决认为，说"，从句用陈述语气
+The Arab insisted that he had never seen the camel.
+2）//"坚决要，坚决要求"，从句用虚拟语气
+He insisted that she (should) leave.
+
+persist in n./doing //表示对某种活动坚持不懈或某种信念不改，固执
+He insisted on playing golf. //玩了没有不知道
+He persisted in practicing golf for an hour. //坚持练了一个小时，动作已发生
+
+stick to n./doing //坚持不放弃愿望，原则，决定，诺言，理想...
+We should stick to the study of Marxism-Leninism.
+Stick to it!
+
+keep on : continue to do //on 是adv. 继续之意
+We kept on working although we are tired.
+Keep on practicing and you'll speak English well.
+
+/** 动名词的应用 **/
+1.//动名词作动词宾语
+//一下动词常跟动名词作宾语
+admit      appreciate       avoid
+complete   delay           deny
+enjoy       fancy           finish
+mind       stand           practise
+resent       risk            suggest
+allow        permit
+
+He always avoids traveling during rush hours.
+He enjoys playing football.
+He completely denies taking it.
+Fancy meeting you here.
+Would you mind opening the window?
+I don't mind waiting.
+I can't stand people shouting and pushing.
+
+2.//固定结构
+It's no use doing ... //做某事是没有用的
+It's no use crying over spilt milk.
+
+It's worth doing... //某事值得做
+It's not worth doing... //某事不值得做
+It's not worth worrying about.
+
+be busy (in) doing //忙于做某事
+Can't you see I'm busy writhing?
+
+do some shopping
+do some washing
+
+3.//动名词的逻辑主语的表达形式
+Would you mind opening the window? //逻辑主语 you
+Would you mind my opening the window?  //逻辑主语 my
+Do you mind smoking?  //逻辑主语 you
+Do you mind my smoking?  //逻辑主语 my
+Fancy writing a letter like that! //逻辑主语 I
+Fancy her writhing a letter like that! //逻辑主语her
+His leaving is a great loss. //逻辑主语his
+Mother dislikes my working late. //逻辑主语 my
+
+4.//现在分词和动名词的比较
+//感官动词 see, hear, smell, notice
+see, hear, smell, notice + sb doing //表示动作正在执行
+see, hear, smell, notice + sb （to） do //动词不定式表示已经做了
+see, hear, smell, notice + sth done //表示动作被执行
+I saw him coming.
+He heard me opening the door.
+I can smell something burning.
+I heard him singing in the next room.
+
+5.//go与come加现在分词
+go dancing
+go swimming
+go riding
+go shopping
+go skating
+go skiing
+Let's go dancing.
+I went shopping this morning.
+Come swimming with me tomorrow.
+
+avoid making the same mistake //避免犯相同的错误
+
+come running towards me // 现在分词做状语修饰come
+
+It's no use  + v.ing //v-ing 短语是真正主语，it作形式主语
+It's no use complaining about it.
+
+pretend that...
+He pretended that he was working hard.
+
+pretend to do...
+He pretended to be dead when he met a bear.
+
+pretend to be doing...
+The boys pretended to be sleeping.
+
+I waved a greeting to the teacher.
+I waved him goodbye.
+I waved him out.
+
+no matter how / what / which / who /where/ when //无论如何 --什么，哪一个，谁，何地，何时
+No matter what happens, don't be discouraged.
+
+insist on doing //坚持做某事
+
+think of a way of doing ...
+
+prevent sb (from) doing //阻止某人做...
+=stop sb (from) doing
+=keep sb from doing
+Her sudden arrival prevented him from going out. //他的突然来访让他没法出去
+Their prompt actions prevented the fire from spreading.
+
+prevention //n.
+Prevention is better than cure. //预防胜于治疗
+
+preventive //adj.预防的，防止的
+preventive measure against fire //防火措施
+
+fancy //想象
+fancy + 宾语 + as/to be
+I can't fancy him as/to be an English teacher.
+fancy + doing //想象某人做...
+Fancy George reading such difficult books!
+fancy that...
+I fancy (that) I have met her somewhere. //我想我在什么地方见过她。
+
+lie //说谎
+v. lie-lied-lied-lying
+n.
+tell a lie
+tell sb a lie
+a white lie
+a black lie
+
+Still waters run deep. //大智若愚；静水流深。
+
+Strike while the iron is hot. //趁热打铁。
