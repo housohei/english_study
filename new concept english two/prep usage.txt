@@ -58,10 +58,10 @@ persist
 share
 
 on:
-act
-base
+act //对...起作用，按照...行事
+base //基于
 call
-comment
+comment //对...评论
 concentrate
 congratulate
 consult
