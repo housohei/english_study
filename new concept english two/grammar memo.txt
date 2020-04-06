@@ -1,0 +1,92 @@
+/** 谓语动词 **/
+//系动词 --后接adj.
+1）//感官动词 feel, smell, taste, sound, look
+2）//持续系动词 keep, remain, stay, lie, stand
+3）//变化系动词 become, grow, turn, fall, get, go, come, run
+
+/** 宾语 **/
+//双宾语和宾语补足语的区别：宾语补足语是对于宾语的补充；双宾语是动词的支配对象
+//双宾语动词 
+1）//跟 to的双宾语动词：give, pay, show, owe（欠）, send, bring, take, mail, offer, read, pass, lend, leave, hand, tell, turn, write, throw, allow, wish, teach, promise, award（授予）, accord（使一致，给与），grant（假定，授予）等
+//都有给，到，朝某人的含义在，verb. sth to sb / verb. sb sth
+2）//跟for的双宾语动词：make, buy, do, fetch, get, paint, draw, play（弹，奏）, save（节约，留下）, reserve（保留，预定）, spare（抽出）, order（订购）, cook, sing, find, build, change, choose, repare, pick等
+//都有为，为了，对于，因为某人的含义在，verb sth for sb / verb sb sth
+3）//跟of/with 构成双宾语 
+
+//宾语补足语
+//当宾语补足语的有：形容词，不定式， 现在分词，过去分词， 副词， 名词，介词短语等
+You must keep the classroom lean. //形容词做宾补
+I found him in trouble. //介词短语做宾补
+We all made him our monitor. //名词做宾补
+
+/** 定语 **/
+//同时具有名词和副词词性的单词做定语要后置 --主要是时间或地点副词
+The boy there needs a pen. //there 同时具有名词和副词的词性 --作定语时为名词词性
+The best boy here is Tom. //here 同时具有名词和副词的词性 --作定语时为名词词性
+
+//定语的前置和后置
+1）//单独的形容词，名词，动名词，分词等作定语，往往前置；
+It is a famous American university.
+2）//短语，从句则需要后置，如形容词短语，动词不定式，分词短语，介词短语和定语从句；
+It is a question so easy to answer. //so easy to answer 形容词短语
+3）//当形容词修饰不定代词时需要后置
+   //不定代词：one, no, any, some, something, anyone, nothing
+something important //important 后置
+nothing new //new后置
+Let's go somewhere quiet. //quiet后置
+4）//表语形容词作定语要后置
+   //表语形容词：afraid, alone, alive, alike, awake, asleep, ashamed, sorry, sure, fine, ill, well
+He is the greatest poet alive. //alive 后置
+5）//介词短语作后置定语
+The boy in blue is Tom.
+I read the book on the desk.
+6）//动词不定式作后置定语
+The next train to arrive was from NewYork.
+I have nothing to say on this question.
+We are looking for somewhere to live.
+
+//定语和宾语补足语的区别
+1）//形容词作宾语补足语往往置于宾语名词之后；
+This made me uncomfortable.
+2）//作定语的形容词往往在名词代词前面；
+I don't like this uncomfortable chair.
+3）//形容词词组作定语后置，是对前面名词代词的修饰限定；
+I like a subject worthy of careful study.
+4）//形容词词组作宾语补足语是对前面名词代词的补充说明
+I feel this subject terrible.
+5）//介词短语作定语后置，是对前面名词代词的修饰限定；
+I like the table near the window.
+6）//介词短语作作宾语补足语是对前面名词代词的补充说明
+I found him in trouble.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
