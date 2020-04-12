@@ -1,0 +1,107 @@
+Lesson 007
+
+expect
+1. //v.期待，等待
+I am expecting a present from him.
+2. //v.预计，预料
+I didn't expect that you came so early.
+
+expect sb. to do sth.
+expect sth to be done.
+I still expect the police to find my bag.
+I still expect my bag to be found by the police.
+
+valuable //adj.贵重的，宝贵的
+a valuable ring
+valuable advice
+Don't waste your valuable time.
+
+value //n.价值
+valueless //adj.一钱不值
+invaluable //adj.价值高的无法估计的
+priceless //adj.无价的
+precious //adj.宝贵的
+
+diamond //
+a diamond ring
+
+ruby //红宝石
+emerald //绿宝石
+sapphire //蓝宝石
+platinum //铂金
+ 
+steal //v.偷 stole stolen
+steal sth. from sb.
+A thief stole my bag from me.
+
+rob //v.抢
+rob sb./sp. (of sth.)
+A robber robbed me of my bag.
+
+guard
+1. //n.警戒，守卫
+be on guard //在站岗，很警惕
+Two men are on guard at the gate.
+off guard //放松警惕
+catch sb. off-guard //让某人很惊讶
+Your arrival really caught me off-guard. //你的到来让我很惊讶
+2.//n.警卫员
+bodyguard //n.保镖
+lifeguard //n.救生员
+
+/** 过去进行时 **/
+
+punctual //adj.准时的，守时的
+
+all morning
+= the whole morning
+
+tell the police //报警
+call the police //打电话报警
+go to the police //去警局报警
+
+try to do... //努力去做...
+I'll try to help you.
+try doing... //试着去做...
+Try going to school by bike.
+
+When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.
+//while = whereas 并列连词，表示前后是并列关系，前后两句的时态一致 两个都是主句 --"而..."
+I'm cooking while he is watching TV. //我在做饭，而他在看电视。
+
+some detectives //some --adj. 
+some of the detectives //some --代词
+
+//区分：the other, another, others, other
+the other //两个中的一个 --能限定 the
+He came in with an apple in one hand and an orange in the other.
+
+another //三者以上的一个 --不确定 an
+Give me another one.
+I need another two days. // tow days视为一体
+
+others //代词，常用some ... （the）others --the的用法同 the other
+Some students came back while the others didn't.
+
+other //其它的，常用作形容词
+other students
+
+to one's surprise //n.
+to one's excitement
+to one's sadness
+to one's gladness
+
+be full of
+= be filled with
+The room is full of smoke.
+/The room is filled with smoke.
+He is full of anger.
+
+/** 动词短语宾语的位置 **/
+//及物动词词组的宾语若是名词可放中间也可放末尾，若是代词只能放中间
+She put her hat on.
+She put on her hat.
+She put it on.
+
+//不及物动词词组的宾语无论代词名词只能放末尾
+I am looking for my pen. I lost it this morning.
