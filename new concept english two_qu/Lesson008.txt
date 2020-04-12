@@ -1,124 +1,74 @@
 Lesson 008
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+competition
+1. //n.比赛，竞赛 --可数
+a chess competition
+a beauty competition
+2. //n.竞争 --不可数
+competition in the market //市场竞争
+
+compete with ... //与...竞争比赛
+competitor //n.竞争者，对手
+competitive //adj.竞争性的
+competitiveness //n.竞争力
+
+match / game //2名运动员或2支球队的比赛 football
+contest //由裁判打分的比赛 a beauty / singing / dancing
+race //竞速比赛 a car / swimming / horse
+games //运动会 --奥运会
+
+path //n.小路，小径
+the path to success / victory / freedom ... //成功之路 / 胜利之路 / 自由之路
+
+road //泛指道路
+street //城市里的街道
+avenue / boulevard //林荫大道 --多用于街道的名字
+Fifth Avenue
+Chang'an Boulevard
+highway //城市间的公路
+motorway / freeway //高速公路
+
+/** 形容词/副词的比较级，最高级 **/
+//多音节 通常>=两个音节
+//形容词最高级前必须加the；副词最高级前的the可以省略
+
+//在表示范围的词前加in, 在表示群体的词前加of或among
+Which is the longest river in the world?
+This is the finest picture of/among them all.
+Mr. Yu is the richest man in Beijing.
+He earns (the) most of/among us.
+
+enter for sth. //报名参加比赛/考试
+sign up for sth. //报名参加课程
+Nearly 100 students signed up for the English course.
+join in / take part in / participate in sth. //参加活动比赛议会等
+join sth. //参加某个组织
+
+win // won won 
+We finally won the game.
+We finally won his heart.
+We finally won that team.（❌）
+
+beat //击败 beat beaten
+defeat //击败 defeated defeated
+We finally beat / defeated that team.
+
+everybody //谓语动词单数
+
+//形容词副词比较级 + than ...
+//than引导比较状语从句，但其后常用省略形式
+John runs faster than Joe. //省略后
+John runs faster than Joe does. //未省略
+
+grow / raise sth. //种植(花，蔬菜，水果，庄稼)
+raise sth. //还可以表示养殖家禽，或人
+plant sth. //种花种树 --不表示培育
+
+grow up //长大成人
+
+over ... vs  under ... //悬空
+on ... vs beneath ...  //紧贴
+above ... vs below ...
+
+as well / too / also(可放中间)
+either //否定句句尾
