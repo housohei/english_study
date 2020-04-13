@@ -32,7 +32,7 @@ refuse + to do ...
 I refused the present.
 I never refuse to help old friends.
 
-refusal //n.拒绝
+refusal //n.拒绝 /rɪˈfjuːzl/
 His refusal hurt my feelings.
 
 turn down //拒绝
@@ -45,7 +45,7 @@ decline //v.婉言谢绝
 She declined the invitation.
 
 reject //v.断然拒绝
-His application was rejected.
+His application was rejected. //他的申请被拒绝了
 
 I arrived in Beijing on Monday morning. //on
 //具体到某一天/某些天的用on
@@ -75,139 +75,37 @@ at + //小地点
 at + //noon / night / dawn /dusk（黄昏）
 
 at the moment = now
+just then = at that moment //那时
 
+Fifteen minutes passed and then, at five to twelve, the clock stopped. //at five to twelve 提到句中起到强调作用
 
+stop doing //停止正在做的事情
+Please stop talking.
+stop to do //停下来去做一件事情
+Let's stop to have a rest.
 
+I knocked and knocked, but no one answered. //我敲了又敲，但没有人回答。
 
+happen //v.发生 主语只能是物体  = occur
+sth. happen to sb. //事情发生在某人身上
+A car accident happened to him.
+What happened to you?
 
+sb. happen to do... //某人碰巧做了某事
+I happened to be out when you called me.
 
+suddenly
+/all of a sudden
+/all at once
 
+look at
+/have a look at //look n.
+/take a look at //look n.
 
+begin to do
+/begin doing
+start to do
+/start doing
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//集体名词谓语动词复数
+people
