@@ -74,82 +74,31 @@ The car belongs to me.
 I'm in possession of the car.
 The car is in my possession.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+be damaged //坏了 --强调动作
+be out of order //坏了 --强调状态
+My watch was damaged in an accident.
+My watch is out of order.
+
+on //表示使用什么设备
+She is on the computer.
+
+hit / press /touch the key(s)
+
+hard //反义 gently / softly
+
+a friend of my father's (friends)
+= one of my father's friends
+a classmate of mine
+=one of my classmates
+Some of their friends came to see me.
+=Some friends of theirs came to see me.
+
+teach sb. to do
+want sb. to do
+advise sb. to do
+allow sb. to do
+help sb. to do
+order sb. to do
+prefer sb. to do
+ask sb. to do
+told sb. to do
