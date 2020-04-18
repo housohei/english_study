@@ -70,7 +70,7 @@ by the way = BTW //顺便说
 He entered the room, turned on the light and sat down at the table.
 I asked him a question but he didn't answer.
 
-as soon as //conj. 刚一...就...
+as soon as //conj. 刚一...就... =just after
 //引导时间状语从句，位于主句前后均可，当主句用一般过去时，从句中用一般过去时（较为常见） 或过去完成时均可
 He rushed in as soon as I opened the door.
 
