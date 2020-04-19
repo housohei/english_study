@@ -1,0 +1,99 @@
+Lesson 020
+
+catch //v.抓住 --caught caught
+The early bird catches the worm.
+catch fire //着火
+catch a bus //赶上公共汽车
+catch a cold
+catch sight of ... //看见...
+catch sb's eye //吸引某人的目光
+That fancy car really caught my eye.
+catch up with ... //赶上...
+You go first. I'll catch up (with you).
+be caught in ... //赶上 坏天气，堵车
+I was caught in a traffic jam this morning.
+
+waste //n.
+Haste makes waste. //欲速则不达
+It's a waste of ... //这是浪费
+It is a waste of time / money / breath //浪费时间 / 金钱 / 唇舌
+
+waste //v.
+You're wasting your time.
+waste sth. on ... //把...浪费在
+Don't waste your money on the junk.
+sth. is wasted on sb. //某人不珍惜某物
+Youth is wasted on the young. //年轻人虚掷了青春
+
+waste //adj.废弃的
+waste paper
+
+realize //vt.
+1. //意识到，明白...
+He hasn't realized his mistake yet.
+2. //实现 = fulfil = fulfill
+realize one's dream / hope ...
+
+/** 动名词 **/
+//具有动词特征的名词
+1. //在句子中充当主语，宾语，表语
+Playing basketball is my favorite sport.
+I like fishing. //动宾
+I am fond of fishing. //介宾
+My favorite sports is fishing. //表语
+2. //动词特征可以跟宾语，甚至可以用副词修饰
+I like surfing the internet.
+Driving fast is very dangerous.
+
+favourite / favorite //adj.最喜欢的
+Reading is my favorite pastime.
+
+for hours //好几小时了
+for weeks //好几周了
+
+//动名词的逻辑主语应与主句主语统一
+//否定式 not + 动名词
+//若动名词逻辑主语与主句主语不一致，则必须保证没有任何歧义
+He thanked me for helping him.
+
+After entering the room, he told me the news.
+=After having entered the room, he told me the news.
+
+on + doing //一...就...
+
+worry 
+1.//vt.令...担忧
+Her illness worries me.
+2.//vi.感到担忧
+I worry about her illness.
+3.//n.担忧（的事）
+Her illness is worry to/for me. 
+
+worrying //adj.令人担忧的
+Her illness is very worrying.
+worried //adj.感到担忧
+I am worried about her illness.
+
+instead of doing... //本该...,却...
+
+rubbish / trash / garbage /waste //垃圾 【u】
+
+less //adv.较少地..
+The book is less interesting than that one.
+//反义 more interesting
+
+less lucky //反义 luckier --单音节直接用比较级
+
+not even ... //甚至连...都不/没有
+He never trusts anyone -- not even his wife.
+
+give up doing = stop doing
+
+//后加动名词的动词
+enjoy / mind / consider / risk / escape / practise/practice
+I enjoy reading.
+I don't mind driving if you're tired.
+I seriously considered resigning.
+I can't risk leaving him alone.
+You can't escape being punished.
+He practices playing the piano on Saturdays.
