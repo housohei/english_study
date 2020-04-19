@@ -84,3 +84,5 @@ go away = move away
 probably //助动词之后实义动词之前
 maybe //置于开头
 perhaps //置于开头
+
+withdrew money //取钱
