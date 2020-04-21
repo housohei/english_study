@@ -94,3 +94,5 @@ study //强调学习的过程
 When I heard the news, I cried my eyes out. //夸张的说法
 
 both...and... //谓语动词复数
+
+either //否定句中  也
