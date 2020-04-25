@@ -1,0 +1,126 @@
+/** 定语从句 **/
+//非限定性定语从句用逗号与主句隔开，不能由that来引导
+//引导词：关系代词（who, whom, whose, that, which）和关系副词（when, where, why）
+//关系副词（when, where, why） = 介词 + which
+//引导词指代先行词，并在定语从句中以先行词的身份充当某个成分
+//that / who 之前不能要介词，有介词需用which/whom
+
+//who 的先行词只能是人，从句中作主语或宾语
+I like the girl who/that has big eyes.
+
+//whom的先行词是人，从句中作宾语
+Who is the man who/whom/that you are talking about?
+Who is the man about whom you are talking?
+
+//which 先行词物，从句中作主语或宾语
+I don't like the novel which/that you are reading.
+=I don't like the novel you are reading. //省略关系代词
+That was a fault which couldn't be forgiven.
+I will never forget the day when / (on which) I came to Beijing.
+The police searched the house where / (in which) he lived.
+I don't know the reason why / (for which) he is angry.
+
+//that先行词是人或物，从句中作主语或宾语
+
+//whose 先行词是人或物，从句中作定语
+I like the girl whose eyes are very big.
+Please pass me the book whose cover is green.
+
+//when 先行词是表示时间的名词，从句中作时间状语
+
+//where 先行词是表示地点的名词，在从句中作地点状语
+
+//why 先行词只能是reason， 在从句中作原因状语
+
+//关系词的省略：
+1. //非限定性定语从句不能省略关系词
+2. //关系代词作宾语（不能位于介词之后）或表语可以省略
+3. //关系副词 when， why 可以省略
+
+//主谓一致：
+//如果关系代词作从句主语，那 么从句谓语动词的单复数需和先行词保持一致
+I like your friend who comes from Shanghai.
+I like your friends who come from Shanghai.
+
+//以下情况定语从句关系代词必须需用that：
+1. //先行词有形容词最高级修饰时
+Newton was one of the greatest men that ever lived.
+2. //先行词有序数词修饰时
+This is the first movie that I have ever seem.
+3. //先行词有the only, the very修饰时 --the very 只起强调作用 --正好是...
+The only thing that he is interested in is eating.
+This is the very book that I am looking for.
+4. //先行词为不定代词 (something, anything, everything, nothing 等)时
+I need to eat something that isn't so sweet.
+5. //先行词既含表人的名词又含表物的名词时，关系代词只能用that
+The man in charge complained that the boss didn't send the men and money that he needed.
+
+rare //adj.
+1. //罕见的
+a rare disease /species /visitor ...
+//反义：common //adj.常见的
+2. //半生的
+How would you like your steak cooked?
+I'd like my steak rare.
+well-done //全熟的
+medium well //七八分熟
+medium //五分熟
+medium rare //四分熟
+rare //三分熟
+raw //adj.全生的
+I like to eat fish raw.
+
+rarely //adv. = seldom
+
+trouble //n.麻烦
+ask for trouble //自找麻烦
+get into trouble //惹上麻烦
+have trouble with ... // ...让某人伤脑筋 / 头痛
+I have trouble with my trouble.
+
+have trouble doing sth. //做某事很费力很困难
+I had a lot of trouble getting tickets for the play.
+
+trouble //v.使麻烦
+Don't trouble trouble until trouble troubles you. //别自找麻烦
+
+effect //n.结果，效果，影响
+cause and effect //因果
+long-term effect //长期效果
+have .... effect on ... //对...有...效果/影响
+My words had a big effect on her.
+My words had no effect on her.
+
+take effect //见效，起效
+The medicine began to take effect and I felt better.
+side effect //副作用
+
+believe in... //长期相信，信赖，信仰
+He believes in ghosts.
+I believe in him.
+
+believe //某一次相信
+I couldn't believe my eyes.
+
+because of .... //介词短语
+=by reason of...
+=due to...
+=owing to...
+=thanks to...
+=on account of...
+
+put up //张贴，公布
+put up a sign
+put up a poster
+
+turn ... to / into ... //把...变成
+The witch turned the prince to/into a frog.
+
+none of ... //三个以上都不 ,谓语动词单数
+neither of ... //两个都不，谓语动词单数
+both of ... //两个都，谓语动词复数
+all of ... //三个以上都， 谓语动词复数
+either of ... //两个中的任何一个， 谓语动词单数
+each of ... //三个以上中的任何一个，谓语动词单数
+
+not one of them = none of them
