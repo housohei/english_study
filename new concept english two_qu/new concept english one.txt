@@ -1,0 +1,71 @@
+lesson05 //介词短语做定语
+//介词短语作定语后置
+the chair in the room
+
+lesson09 //be going to结构
+1. //表示“计划，打算去做某事”，是将来时态的一种体现形式
+Susan is going to write a letter.
+2. //go, come, leave等词的be going to结构用进行时态来代替
+I'm going to go/come/leave. （❌）
+I'm going/coming/leaving. （✔）
+3. //认为无法打算的事不能用此结构，如明天星期几，明年多大等
+I am going to be 20 next year.（❌）
+I will be 20 next year.（✔）
+4. //可以指按照目前情况判断很可能会发生的事情
+It's going to rain.
+
+lesson13 //have的用法
+
+lesson16 //形容词和副词的用法
+
+lesson22 //名词前多个形容词排序；介词短语作定语
+the other day //过去的某一天；几天前
+//形容词排列顺序：冠词 + 主观形容词 + 客观形容词 + 名词
+a big red flag.
+a nice blue pen.
+a beautiful new house.
+//介词短语作定语
+There's a label on the handle with my name and address on it. // with 介词短语作label的定语 --on the handle:作句子的状语
+//with可表示“有”，若表示“在哪里”后可再加介词短语
+a piece of paper with my phone number on it
+a boy with his book in his hand
+
+lesson23 //宾语从句
+//that 引导词常可以省略
+I think you are right.
+//that引导的从句前，通常是不能要介词的
+I am afraid (of that) I can't hear you. //be afraid of
+//else --adj.其它的 置于疑问词或不定代词后
+
+lesson24 
+//enough 置于形容词副词之后，名词之前
+big enough
+enough time //=plenty of
+//very，too 置于形容词副词之前
+
+lesson27 //不定代词
+
+lesson30 //定语从句
+
+lesson31 //must表示推测
+//否定句用can't
+He can't be ill. //表推测的否定
+
+lesson33 //宾语从句
+1. //that引导的宾语从句
+//陈述句放在宾语从句之前加that，that无实际意义，可省略
+I know (that) you are right.
+2. //if /whether 引导的宾语从句
+//一般疑问句放在宾语从句中，需在疑问句首加if/whether，改为陈述句语序。
+//if/whether意为“是否”，不可省略
+I want to know if you are a doctor.
+3. //特殊疑问词引导的宾语从句
+//特殊疑问句放在宾语从句中只需修改为陈述句，不加别的词。特殊疑问词不能省略
+I want to know what you are talking about.
+I want to know where you have been.
+//特殊疑问句作主语，一句话不倒装，宾语从句中语序不变
+I want to know who took my pen.
+I want to know which is yours.
+4. //宾语从句的时态需和主句保持一致：
+//若主句用现在时态，则从句可用任何时态；
+//若主句用过去时态，则从句必须用过去的某种时态（客观真理除外）
