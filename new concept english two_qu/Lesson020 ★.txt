@@ -1,4 +1,4 @@
-Lesson 020
+/** 动名词 **/
 
 catch //v.抓住 --caught caught
 The early bird catches the worm.
@@ -36,14 +36,32 @@ realize one's dream / hope ...
 
 /** 动名词 **/
 //具有动词特征的名词
-1. //在句子中充当主语，宾语，表语
+1. //名词的特征：在句子中充当主语，宾语，表语
 Playing basketball is my favorite sport.
 I like fishing. //动宾
 I am fond of fishing. //介宾
 My favorite sports is fishing. //表语
-2. //动词特征可以跟宾语，甚至可以用副词修饰
+2. //动词的特征：可以跟宾语，甚至可以用副词修饰
 I like surfing the internet.
 Driving fast is very dangerous.
+3. //动名词的逻辑主语应与主句主语统一
+a.He came late.
+b.He didn't say sorry to me.
+→He came late without saying sorry to me.
+a.He entered the room.
+b.He told me the news.
+→After entering the room, he told me the news.
+=After having entered the room, he told me the news. //强调动作的先后
+
+//若动名词逻辑主语与主句主语不一致，用动名词会有歧义时，不能直接加动名词
+a.He entered the room.
+b.I tole him the news.
+→After he had entered the room, I told him the news. //after 连词
+//若动名词逻辑主语与主句主语不一致，则必须保证没有任何歧义
+He thanked me for helping him.
+
+4. //否定式 not + 动名词
+I must apologize for not having let you know earlier.
 
 favourite / favorite //adj.最喜欢的
 Reading is my favorite pastime.
@@ -51,15 +69,8 @@ Reading is my favorite pastime.
 for hours //好几小时了
 for weeks //好几周了
 
-//动名词的逻辑主语应与主句主语统一
-//否定式 not + 动名词
-//若动名词逻辑主语与主句主语不一致，则必须保证没有任何歧义
-He thanked me for helping him.
-
-After entering the room, he told me the news.
-=After having entered the room, he told me the news.
-
 on + doing //一...就...
+On seeing the plane coming towards me, I dashed for cover.
 
 worry 
 1.//vt.令...担忧

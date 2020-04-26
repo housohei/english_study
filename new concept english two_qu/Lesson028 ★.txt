@@ -1,5 +1,3 @@
-★★★★★
-
 /** 定语从句 **/
 //非限定性定语从句用逗号与主句隔开，不能由that来引导
 //引导词：关系代词（who, whom, whose, that, which）和关系副词（when, where, why）
