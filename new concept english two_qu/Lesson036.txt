@@ -69,44 +69,22 @@ life-long friend //终身的朋友
 mutual friend //共同的朋友
 fair-weather friend //酒肉朋友
 
+/** 完全倒装语序 **/
+//表示“位置”或“次序”的状语置于句首，要用全部倒装
+//主语是代词不能倒装
+//谓语动词是及物动词不能倒装
+Miss Green came in.
+→In came Miss Green.
+A temple stands on the hill.
+→On the hill stands a temple.
+Your turn comes now.
+→Now comes your turn.
+A horse came next.
+→Next came a horse.
+He went off.
+→Off he went. //主语是代词，不倒装
+John saw Mary on the ill.
+On the ill John saw Mar. //谓语动词是及物动词不能倒装
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/** 非限定性定语从句 **/
+//非限定性定语从句不能用that引导
