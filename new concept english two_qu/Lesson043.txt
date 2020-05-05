@@ -1,4 +1,4 @@
-lie //v. 处于，位于 --lay, lain, lying
+lie //v. 处于，位于,躺 --lay, lain, lying
 The town lies near the river.
 He lay in bed but wasn't asleep.
 
@@ -6,85 +6,86 @@ lie //v.说谎 --lied, lied , lying
 lay //v.放置，下蛋 --laid, laid
 He collects butterflies and brings them into a lab to lay eggs. // 产卵
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+serious //adj.严重的
+It's a serious problem.
+serious //adj.严肃的，认真的
+I'm serious.
+=I'm not kidding.
+
+be serious about ... //对...当真
+Are you serious about quitting your job?
+
+seriously //adv.认真地
+take... seriously //重视，认真对待
+You needn't take his words seriously. He was simply joking.
+
+point //n.地点，小数点，点
+one point five //1.5
+//地点 = spot / place
+//时间点 = moment
+//要点 = main idea
+What's your point?
+The point is we have no time.
+
+seem //看似..., 好像... = appear --系动词，这两词不用于进行时
+seem + adj. / n. / to do ...
+He seems rich.
+He seems to be rich.
+He seems a rich man.
+It seems / appears that ... //后接表语从句
+It seems that they are getting married.
+
+the South Pole //南极点
+the North Pole //北极点
+the Antarctic //南极区
+the Arctic //北极区
+
+...successfully flew over the South Pole 
+=...succeeded in flying over the South Pole
+
+for the first time //强调以前没有，这是第一次
+at the first time //强调第一次
+
+//was / were able to 不等于 could
+//could 表示可能性，相当于may
+//was /were able to 表示成功地做成了一件事，相当于succeed in doing
+I could get the job. //我有可能得到那份工作
+I was able to get the job. //我的到了那份工作
+
+//am / is / are able to = can --均表示能力
+You are able to do it. = You can do it.
+
+take a photograph / picture of sb. / sth.
+Could you take a picture of me?
+
+//adv. below 副词作定语置于所修饰词之后
+... the mountains that lay below
+=... the mountains below 
+
+run into sb. //偶然遇见某人
+I ran into my ex-boyfriend yesterday.
+
+run into trouble //惹上麻烦
+=get into trouble
+=bump into trouble
+=meet with trouble
+
+it seemed certain that their plane would crash // that 引导的是主语从句 ； certain是seem的表语
+it seem certain that...  = it appeared sure that...
+
+get over sth. //克服..., 战胜...
+get over difficulties
+get over the mountains
+=fly over the mountains
+
+by //距离多远
+by 400 feet
+
+in sight //在视线范围之内
+out of sight //超出视野范围
+Out of sight, out of mind. //眼不见，心不烦
+
+without difficulty
+=with ease
+=easily
+=hands down

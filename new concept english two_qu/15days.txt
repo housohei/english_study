@@ -1,0 +1,149 @@
+day1
+//系动词
+1. //变得
+get, become, turn, go, grow
+2. //感官动词
+look, sound, smell, taste, feel
+3. //其它
+keep, remain, seem, appear, prove
+
+none of ... //两者以上都不
+neither of ... //两者都不
+
+day2
+//一般现在时
+1. //表示现在的状态
+I am a teacher.
+2. //表示永恒
+//科学事实；客观真理；名言警句
+The earth is round.
+Practice makes perfect.
+
+//现在进行时
+//表示将来确定要发生的事情
+I am coming to see you.
+We are arriving at Shanghai.
+
+//现在完成时
+1）//表示现在的之前 全部完成 / 部分完成 的事
+He has left.
+We have learned English for ten years.
+//现在全部完成的可以跟过去时互换,但强调的语境不同
+//现在部分完成的，不能换成过去时
+We have learned English for 15 years.
+We learned English for 15 years.
+
+day4
+//情态动词can / could
+//推测 --常用否定 --不可能
+
+as well //也
+
+damage //损坏 --可以修复的
+destroy // 短时间内的摧毁
+ruin //慢慢地摧毁
+spoil //精神方面的破坏
+
+day5
+for some reasons //因为一些原因
+for some reason //因为某种原因
+
+be determined to do //下定决心去做某事
+
+Over a hundred people must have been driven away from their homes by the noise. //推测过去的被动
+
+day6
+//非谓语动词 doing， done，to do --done不能充当主，宾，表
+
+//非谓语动词doing作主语 --动名词 --谓语动词是单数
+Fishing is my favourite sport.
+Playing basketball can keep your body fit.
+
+//非谓语动词doing作宾语 （介词后/及物动词后）
+I often fish for hours without catching anything.
+Some people enjoy working in the cafe.
+
+//非谓语动词 to do作主语 --跟doing语义差不多
+To repair bicycles was his job. = Repairing bicycles was his job.
+=It was his job to repair bicycles.
+
+It must be terrible to be grow up.
+It was easier for the detective to watch her.
+
+It is + adj. (+for sb.) + to do sth.
+It is important for us to study English well.
+
+It takes (+sb.) + some time + to do sth.
+It took me ten minutes to persuade her.
+
+//非谓语动词to do 作宾语 （及物动词后）
+All the students want to pass the exams.
+
+//非谓语动词 to do 作表语 （系动词后）
+My dream is to travel around the world.
+
+day8
+prep. + n. / pron. /doing
+
+//当in+时间 用在将来时表示多长时间之后
+It would strike twelve in twenty minutes' time.
+
+caught in //被困在...当中
+sth happen to sb.
+
+day 9
+//顺接，并列
+not only ... but ... as well
+=not only ... but also...
+=not only ... but...
+
+//转折
+...but...
+...yet...
+...while...
+...whereas...
+
+day 10
+//状语从句
+//可以置于句中
+She, when I took my seat beside her, did not even look up.
+
+//结果状语
+so + adj. / adv. ...that ...
+such + n. ...that ...
+
+//目的状语从句 --后面常由情态动词
+so that...
+in order that...
+
+//条件状语从句
+unless //如果不
+as long as //只要
+if
+
+//让步状语从句  --明让步， 暗转折
+although, though,even though, even if //尽管，即使...
+
+//比较状语从句
+than //比较级
+as //原级比较
+
+//方式状语
+as //按照...
+
+//时间状语从句，条件状语从句表示将来要用一般现在时
+Tomorrow he will be watching her anxiously as she swims the long distance to England.
+If it rains tomorrow, we will not go to the park.
+
+day 11
+//主语，表语，同位语从句that不能省略
+//主语从句只能用whether，不能用if
+//同位语从句位于抽象名词后
+
+day 14
+//强调句
+It is ... that ...
+It was ... that ... //强调过去
+It is ... who ... //强调人的场合
+It is not ... that ... //否定
+//不能强调动词， 形容词
