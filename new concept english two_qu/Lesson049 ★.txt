@@ -1,0 +1,82 @@
+/** 分词作状语 **/
+
+tired //adj.厌烦的，腻的
+be tired of sth. / doing sth.
+I am tired of sitting here. Let's go out for a walk.
+
+be bored with ... //对..厌烦
+
+real //adj.真正的 --强调表里如一，不是假装或伪造的
+a real diamond
+
+actual //真的，真实的 --强调在现实生活中发生或存在的
+true //既有real 也有actual的含义
+
+miracle //奇迹
+miraculously //adv.奇迹般地
+miraculous //adj.奇迹般的，非常好的
+
+wonder //n.奇迹
+wonderful //adj.奇迹般的
+marvel //n.奇迹
+marvelous //adj.奇迹般的
+
+glance //vi.扫视，很快地看  --有意识地看
+glance at ...
+He glanced  at his watch and said he had to leave.
+
+glimpse //vt. --无意中瞥见
+
+promptly //迅速地，立即地 
+=immediately
+=at once
+=right away(now)
+=straight away
+
+/** 分词作状语 **/
+//分词有形容词，副词的特征，作定语或状语
+//分词状语时相当于状语从句
+//现在分词表主动，过去分词表被动
+//状语从句中若主语和主句主语一致，则可换成分词作状语
+//否定句直接在分词前加 not
+If you turn to the left, you will find the station.
+-->Turning to the left, you will find the station.
+While I was walking to school yesterday, I met a friend.
+-->Walking to school yesterday, I met a friend.
+As I didn't receive her letter, I called her up.
+-->Not receiving her letter, I called her up.
+When she was asked if she had any bad habit, she answered that she was a heavy smoker.
+-->Asked if she had any bad habit, she answered that she was a heavy smoker.
+The little girl was sitting on the ground, crying.
+
+//having done --现在分词的完成形式；表示此动作发生在谓语动词之前
+//being 分词作状语常可省略
+Because he was sick of sleeping on the floor, ...
+-->Being sick of sleeping on the floor,...
+-->Sick of sleeping on the floor,...
+
+to do //作目的状语时
+=in order to do
+=so as to do
+...to buy a real bed.
+=...in order to buy a real bed.
+=...so as to buy a real bed.
+
+the first two nights //前两晚
+the first three days //前三天
+the last two nights //后两晚
+the last three days //后三天
+
+blow up 
+1. //坏天气突然降临
+2. //爆炸，炸毁
+
+Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into the house.
+=Glancing at the bits of wood and metal lying around him, sadly picking up the mattress, the man carried it into his house.
+
+After he had put it on the floor, he promptly went to sleep again.
+=Having put it on the floor, he promptly went to sleep again.
+
+go to sleep
+=get to sleep
+=fall asleep
