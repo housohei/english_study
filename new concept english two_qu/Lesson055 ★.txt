@@ -68,3 +68,12 @@ He used to be a taxi driver.
 There used to be a tree in the backyard.
 
 fail to ... //努力做但没有做成
+
+//数词 + 量词 + 形容词(long / wide/ high /deep)
+tow feet deep
+
+of + 名词 = 形容词
+The meeting is very important.
+=The meeting is of great importance.
+It's useless.
+=It's of no use.
