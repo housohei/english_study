@@ -1,0 +1,22 @@
+//目的的几种表达方法
+//第一类：
+to do ...
+in order to do...
+so as to do...
+//注意事项
+1. //不定式的主语需和句子主语保持一致
+I have to get up early to catch the flight.
+2. //表示“为了不”多用 so not to do 或 in order not to do, 很少用not to do
+I have to get up early so as not to miss the flight.
+3. //若前后主语不一致，则用for sb. to do...
+He bought a toy for his son to play with.
+
+//第二类
+so that...
+in order that...
+//用从句时两个主语一致不一致均可，但从句中需有can, could, will, would, might, should等情态动词
+I have to get up early so that I can/will catch the flight.
+He bought a toy so that his son could play with it.
+
+//目的部分在句中作表语时用to do.
+My purpose is to study English well in 6 months.
