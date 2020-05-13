@@ -1,0 +1,74 @@
+fear //v.害怕
+fear + n. / to do / for ...
+I fear mice.
+He doesn't fear to die.
+I fear for her safety.
+
+fear //n.
+I couldn't move for fear.
+fearful //adj.害怕的
+fearless //adj.无畏的
+
+be afraid of...
+be scared of...
+be frightened of...
+
+invasion //n.侵略，侵犯
+invasion of privacy
+
+invade //v.侵略，侵犯
+invade sb.'s privacy
+
+connect A with / to B //具体，抽象都可以
+/link A with / to B //具体，抽象都可以
+
+fasten A to B //把A系到B
+He fastened a rope to the tree.
+
+associate A with B //抽象的东西的联系，联想
+I can't associate him with a thief.
+
+//不区分大地方，小地方
+come to... / get to... / reach ...
+
+plan for ... //...的计划
+the plan for tomorrow / leaving Beijing
+
+serve as ...
+=be used as ...
+This platform would be used as a port...
+=This platform would serve as a port...
+When I'm hot, the book serves as a fan;
+When I'm tired the book serves as a pillow.
+
+put forward
+=propose sth. //提出建议
+put forward a plan
+
+/** 虚拟语气 **/
+//表示“建议” “要求” “命令”的动词后that引导的宾语从句的谓语动词要用 （should）+ do的虚拟语气形式
+suggest, advise, demand, require, insist, order, ...
+He advised that I (should) go with him.
+He insisted that I (should) stay to dinner.
+The teacher ordered that the homework (should) be finished within an hour.
+
+His tone suggested that he didn't like the idea. //suggest 作暗示讲时不需用虚拟语气
+
+suggest doing //不用that从句，后接doing
+
+solve / resolve the problem of ...
+=find a solution to the problem of...
+
+//if引导的条件状语从句
+1. //真实条件句
+2. //非真实条件句 --即虚拟语气
+1）//与现在事实相反
+did / were --- would /should /could /might + do
+2）//与过去事实相反
+had done --- would /should /could /might + have done
+If I had known you telephone number, I would have called you yesterday.
+If he had been more careful, he would not have made the mistake.
+3）//与未来趋势相反 a→c 虚拟语气越来越弱
+a. did/were --- would / could / should / might + do
+b. should + do --- would / could / should / might + do
+c. were to + do --- would / could / should / might + do
