@@ -1,0 +1,63 @@
+persistent //adj.坚持的，持续的
+persistence //n.坚持不懈
+persist //v.坚持，执意
+persist in (doing) /sth.
+He persisted in asking me awkward questions.
+
+avoid //v.避开，避免
+avoid + n. / doing
+She tried to avoid awkward questions.
+
+insist //v.坚持要求
+insist on/upon + n. / doing
+I insisted on an answer.
+insist that ... //should do...
+He insisted that I (should) go with him.
+The teacher insisted that we (should) not talk in class.
+
+/** 动名词 **/
+avoid doing
+enjoy doing
+deny doing
+fancy doing //真没想到会...
+
+//动名词作主语
+it's no use doing //做某事没用
+it's no good doing //做某事没用
+it's not worth doing //做某事不值得
+it's a waste of time doing //做某事是浪费时间的
+ 
+there is no use in doing //做某事没有用
+there is no point in doing //做某事没有意义
+there is no sense in doing //做某事没有道理
+
+can't stand (sb.) doing //不能忍受某人做某事
+He can't stand working for this company.
+be busy doing
+mind doing //介意做某事
+risk doing //冒险做某事
+escape doing //逃避做某事
+finish doing //完成某事
+go doing //去做某事
+come doing //来做某事
+
+//动名词前可以加形容词性物主代词指明逻辑主语
+He insisted on my writing the letter.
+
+see /watch /hear /notice /feel /smell ... (to) do //表示事情的全过程 --被动语态时 to do
+see /watch /hear /notice /feel /smell ... doing //表示事情的片段
+
+The boy came running to meet him.  //running --现在分词做方式状语
+
+no matter + 特殊疑问句 //无论... --引导让步状语从句
+=特殊疑问词 + -ever //however, whenever, wherever, whoever, whichever, whatever ...
+No matter where you go, I will follow you.
+/Wherever you go, I will follow you. //无论你到哪里，我都会跟着你
+
+way of doing sth.
+=way to do sth
+
+prevent sb. from doing sth.
+
+//wonder, know, ask, show, decide, remember, gorget ...后常用 ‘疑问句’+to do 作宾语
+I was just wandering how to spend the morning.

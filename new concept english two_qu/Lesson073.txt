@@ -1,0 +1,105 @@
+play truant //逃学
+=cut class
+=play hooky
+
+unimaginative //adj.缺乏想象力
+imaginative //adj.富于想象力的
+imaginable //adj.可想象的
+imaginary //adj.虚构的，想象中的
+imagine //v.想象
+imaginative //想象力
+
+shame //n.惭愧，羞耻
+put sb. to shame //使某人感到自愧不如
+=overshadow sb.
+
+What a shame!
+=What a pity! //多遗憾
+
+Shame on you! //真可耻
+
+meantime //n.期间
+in the meantime //在此期间
+=meantime(adv.)
+=meanwhile(adv.)
+=at the same time
+
+evade //v.逃避，逃离
+evade taxes
+
+invade //v.入侵
+
+/** 主谓一致 **/
+1.//可数名词单数或不可数名词作主语时，谓语动词用单数
+2.//one of, each of, either of, neither of, none of +名词复数时，谓语动词一般用单数
+None of the books in mine.
+3.//不定代词作主语，谓语动词用单数
+Someone is waiting for you.
+4.//the + adj.表示一类人，作主语时谓语动词用复数
+Only the good die young.
+5.//表示时间，金钱，距离，重量等的名词作主语时，谓语动词一般用单数形式
+Three years is too long for me to wait.
+6.//不定式，动名词，一句话作主语时，谓语动词一般用单数
+Eating is my favorite.
+It's nice to be with you.
+What you said is true.
+7.//either ... or, neither...nor, not only... but also, or 连接两个主语时，谓语动词就近原则
+Not only I but also he is a student.
+8.//There be 句型中be取决于靠近它的主语
+There is a pen and three books on the desk.
+There are three books and a pen on the desk.
+9.//both...and  连接连个主语，谓语动词复数
+10.//and连接两个主语时需看主语指一个还是两个，指一个谓语动词单数，之两个谓语动词复数
+The singer and dancer is coming to our city.
+Bread and butter is fattening.
+Going to bed early and getting up early is a good habit.
+To love and to be loved is great happiness.
+
+not ... but ... //不是，而是
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
