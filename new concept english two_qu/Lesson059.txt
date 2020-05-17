@@ -17,6 +17,8 @@ in order that...
 //用从句时两个主语一致不一致均可，但从句中需有can, could, will, would, might, should等情态动词
 I have to get up early so that I can/will catch the flight.
 He bought a toy so that his son could play with it.
+//从句为否定句时多用should
+He looked down so that / in order that she should not see his eyes.
 
 //目的部分在句中作表语时用to do.
 My purpose is to study English well in 6 months.

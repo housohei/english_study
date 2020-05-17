@@ -16,7 +16,7 @@ The river is pretty deep.
 //现在完成与现在进行时的区别
 1. //现在完成时强调对现在的影响，现在完成进行时强调动作的持续
 2. //静态动词不能使用现在完成进行时
-know
+know, believe, belong, have(possess), look(appear), look like(resemble), matter, mean, need, own, prefer, seem, understand, want
 3. //在肯定句中与表示一段时间的状语连用时两种时态常可互换，都表示延续至现在并可能继续的动作，口语中倾向于使用现在完成时
 We've lived here for 2 years.
 We've been living here for two years.

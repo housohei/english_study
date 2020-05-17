@@ -1,0 +1,21 @@
+/**部分倒装**/
+//助动词提至主语前
+//系动词be全部倒装
+1.//so, such, well, often, only 置于句首需用部分倒装
+The weather was so fine that we all went out lying in the sun.
+→So fine was the weather that we all went out lying in the sun.
+I knew him well and he knew me well.
+→Well did I know him and well did he know me.
+We often see each other.
+→Often do we see each other.
+He realized that he was wrong only then. //直到那时他才意识到自己错了。
+→Only then did he realize that he was wrong.
+You can trust only me.
+→Only me can you trust.
+//only 修饰主语不需要倒装
+Only you understand me. //不需要倒装
+
+2. //否定词置于句首需要部分倒装
+not, no, neither, nor, hardly, scarcely, barely, rarely, seldom, never, not only, little, few, nowhere 等
+Never have I seen such a good movie.
+Neither can I.
