@@ -1,0 +1,58 @@
+over - //过度，过分
+overeat //吃过量
+oversleep //v.睡过头
+overcharge //v.收费过高
+
+terrify //v.使..极度恐惧的
+terrified //adj. 感到恐惧
+terrifying //adj.令人恐惧
+
+variety //n.与众不同的种类
+species //物种
+kind / sort / type //种类
+a variety of ... //各种各样的
+
+variety //n.多样性，变化
+
+vary //v.变化，不同
+These flowers vary in color.
+
+various //adj.各种各样的
+
+more and more 
+=increasingly //越来越多地
+
+less and less //越来越少
+Smoking is becoming less and less acceptable in public places.
+
+sth. comes as a ... (to sb.) //某事使某人感到...
+Her resignation came as a great surprise to me.
+
+frequently = often
+
+in darkness = in the dark
+
+frighten /scare sb. out of sb.'s wits //被吓的惊慌失措
+
+bump into sb. = run into sb. = meet sb. = encounter sb. //偶然遇见某人
+
+be ... in length / in width /in height / in depth...
+=be ... long / wide / high / tall / deep...
+The well is 100 meters deep / in depth
+
+cause sb. /sth. to do
+=make sb. /sth. do //造成...,致使
+
+overboard //adv.从船上落水
+
+as a result //因此
+as a result of ...//因为...
+
+/**  独立主格 **/
+//当分词意义上的主语不是主句主语时，必须在分词前保留意义上的主语
+If weather permits, I will start tomorrow.
+→Weather permitting, I will start tomorrow.
+When school was over, the boys went home.
+→School being over, the boys went home.
+After the sun had set, we arrived at the village.
+→The sun having set, we arrived at the village.

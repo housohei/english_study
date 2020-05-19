@@ -1,0 +1,81 @@
+/** 动词不定式 **/
+
+sight //v.远远地看到，发现
+The missing boys were sighted by a rescue helicopter.
+catch sight of //无意中一眼看到 = catch a glimpse of
+
+witness //vt.目击 --事故，重大事件
+witnessed //n.目击证人
+He is a witness to the robbery.
+
+peculiar //adj.
+1. //奇怪的
+be peculiar to... //是...独有的
+Giant pandas are peculiar to China.
+
+particular //adj.特别的
+be particular about... //挑剔的
+She is particular about food.
+
+//不定式的时态和语态
+1. //一般式
+ a. //主动   to do
+ b. //被动   to be done
+ //一般式强调与谓语动词同时发生或在谓语动词之后发生
+ I advised him to save the money.
+ I advised the money to be saved.
+  
+2. //进行式
+ to be doing
+ //进行式强调与谓语动词同时且正在发生
+ It's nice to be lying on the beach.
+ 
+3. //完成式
+ a. //主动  to have done
+ b. //被动  to have been done
+ //完成强调不定式动作在谓语动词之前发生
+ I am sorry to have lost your key.
+ He was thought to have been killed 20 years before.
+ 
+4. //完成进行式
+ to have been doing
+ //强调动作一直持续到谓语动词发生
+ 
+/** 主语从句 **/
+1. //若原来是陈述句，用that引导，that在句首时不可省略
+It is certain that she will success.
+That she will succeed is certain.
+
+2. //若原来是一般疑问句，用whether / if 引导（不可省略），句首只能用whether，从句用陈述语序
+It is not known whether / if she will come.
+Whether she will come is not know.
+
+3. //若原来是特殊疑问句，用原来的特殊疑问词引导（不可省略）。从句中用陈述语序
+It is a mystery how the prisoner escaped.
+How the prisoner escaped is a mystery.
+
+at times / sometimes / there are times when...
+
+occasionally
+/from time to time
+/once in a while
+/every so often
+
+rarely
+/seldom
+/almost never
+/hardly ever
+
+some time ago //不久前
+
+no //adj. 绝不是
+He is no fool.
+I am no expert.
+
+make every effort to do //竭尽全力去做
+=do / try one's best / utmost to do
+=do everything / all one can to do
+ 
+be...long/wide/high/tall/deep //多长.宽，高，深
+
+at a depth / height of... //在...的深度/高度
