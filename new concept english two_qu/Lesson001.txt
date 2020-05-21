@@ -105,6 +105,7 @@ They did not pay any attention to me.
 in the end // 一般不置于句中
 /at last
 /finally
+/eventually
 
 I could not bear it.
 /I could not stand it.
@@ -122,3 +123,14 @@ can't
 He was not very polite.
 /He was impolite.
 /He was discourteous. // /dɪsˈkɜːrtiəs/
+
+/** 系动词 **/
+1.//be动词 (单独出现)
+2.//get, become, turn, go, grow --变得
+Things got bad recently.
+I was ill, but I'm getting better.
+3.//look, sound, smell, taste, feel --看起来，听起来，闻起来，品尝起来，感觉起来
+
+none of... //三者以上都不
+None of us like travelling.
+neither of... //两者都不
