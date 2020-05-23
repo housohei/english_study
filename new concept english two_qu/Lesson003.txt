@@ -12,9 +12,10 @@ Sometimes anxiety is unavoidable. But it doesn't have to ruin your life.
 Spare the rod and spoil the child. //不打不成器
 She is spoiled.
 
-damaged //v.损坏（物）
+damaged //v.损坏（物） --可以被修复
 destroy //v.彻底摧毁（物）
 The bridge was damaged.
+ruin //长期地慢慢地损坏
 
 injure //v.使受伤（身体的伤）
 wound //v.使受伤（尤其刀，枪伤）
@@ -74,6 +75,8 @@ everyday //adj.每天的
 I study English every day.
 everyday life
 
+stay up late //熬夜
+
 think about //想着，考虑着
 I'm thinking about going to Europe.
 
@@ -92,7 +95,7 @@ at dawn //清晨
 at daybreak //清晨
 at sunrise //清晨
 
-spend
+spend //主语必须是人
 1. //花费时间，精力，金钱
 spend ... on ...
 spend ... (in) doing ...

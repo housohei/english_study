@@ -50,7 +50,6 @@ bodyguard //n.保镖
 lifeguard //n.救生员
 
 /** 过去进行时 **/
-
 punctual //adj.准时的，守时的
 
 all morning
@@ -59,11 +58,6 @@ all morning
 tell the police //报警
 call the police //打电话报警
 go to the police //去警局报警
-
-try to do... //努力去做...
-I'll try to help you.
-try doing... //试着去做...
-Try going to school by bike.
 
 When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.
 //while = whereas 并列连词，表示前后是并列关系，前后两句的时态一致 两个都是主句 --"而..."
@@ -105,3 +99,22 @@ She put it on.
 
 //不及物动词词组的宾语无论代词名词只能放末尾
 I am looking for my pen. I lost it this morning.
+
+try to do... //努力去做...
+I'll try to help you.
+try doing... //试着去做...
+Try going to school by bike.
+
+//过去完成时 --过去的之前
+Before 8:00 yesterday, she had finished her homework.
+
+//过去将来时
+would do
+was / were going to do
+
+/** 宾语从句 **/
+1.//陈述句变宾语从句 --加 that ，不做句子成分，可省略
+You are right.
+I think (that) you are right.
+
+//while 后接延续性动词，when 没有限制

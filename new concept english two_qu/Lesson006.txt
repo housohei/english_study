@@ -1,0 +1,16 @@
+beg for food
+beg for help
+
+call //v.拜访
+call on sb.
+call at sp.
+
+visit sb. / sp.
+
+/** 冠词 **/
+//                           泛指                      特指
+//可数名词单数：a / an                     the
+//可数名词复数：some / 不加冠词   the
+//不可数名词    ：some / 不加冠词   the
+
+in return for //作为对...的回报
