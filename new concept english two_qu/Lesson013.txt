@@ -4,7 +4,17 @@ Lesson 013
 will be doing...
 //疑问句 --will提前
 What will you be doing at 8 o'clock tomorrow morning?
-//将来进行时表示将要做的事，类似于一般将来时，但比一般将来时更强调一个动作的有计划性由安排性
+//将来进行时表示将要做的事，类似于一般将来时，但比一般将来时更强调一个动作的有计划性，有安排性,表示将来确定的事情
 //将来进行时多用于 1.可预见性的将来 2.询问别人的计划打算
+//变否定疑问 用will
 I will be going abroad next year.
+They will not be waiting here.
 Will you be having dinner with us tonight?
+
+give a performance //演出
+working performance //工作表现
+perform //v.实施，操作
+
+meet sb. at //接某人
+
+get sth. in order //整理...

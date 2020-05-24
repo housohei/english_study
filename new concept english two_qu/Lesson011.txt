@@ -1,0 +1,7 @@
+turn
+1.//n.行为，举止
+2.//n.轮流的机会
+3.//v.旋转
+ turn left / right / round
+4.//变得
+ Her face turned red.

@@ -72,3 +72,21 @@ above ... vs below ...
 
 as well / too / also(可放中间)
 either //否定句句尾
+
+good/well   better  best
+bad        worse  worst
+many/much  more  most
+little        less    least
+
+//比较级
+1. //跟过去比
+I am fatter than before.
+I am fatter than I was.
+I am fatter than used to be.
+2. //跟想象比
+You are smarter than they think.
+The project took longer than I expected.
+
+//比较级中，避免重复，可用that，those（复数） 指代上文
+The population of Beijing is larger than that of Tianjin.
+The visitors to London is more than those to Bath.

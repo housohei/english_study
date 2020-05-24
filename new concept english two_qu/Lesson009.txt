@@ -63,16 +63,7 @@ in twenty minutes' time
 The bird covered the distance in three minutes.
 He ran a hundred meters in thirteen seconds.
 
-on + //天
-on + //特定某天的某个时间 on Monday morning
 
-in + //一段时间 / 年 / 月 /四季
-in + //大地点
-in + //the morning / the afternoon / the evening
-
-at + //时间点
-at + //小地点
-at + //noon / night / dawn /dusk（黄昏）
 
 at the moment = now
 just then = at that moment //那时
@@ -85,14 +76,6 @@ stop to do //停下来去做一件事情
 Let's stop to have a rest.
 
 I knocked and knocked, but no one answered. //我敲了又敲，但没有人回答。
-
-happen //v.发生 主语只能是物体  = occur
-sth. happen to sb. //事情发生在某人身上
-A car accident happened to him.
-What happened to you?
-
-sb. happen to do... //某人碰巧做了某事
-I happened to be out when you called me.
 
 suddenly
 /all of a sudden
@@ -109,3 +92,32 @@ start to do
 
 //集体名词谓语动词复数
 people
+
+//--tian
+refuse to do sth.
+refuse sb. /sth.
+
+on + //天  April 4th
+on + //特定某天的某个时间 on Monday morning
+
+in + //一段时间 / 年 / 月 /四季
+in + //大地点
+in + //the morning / the afternoon / the evening
+
+at + //时间点
+at + //小地点
+at + //noon / night / midnight / dawn /dusk（黄昏）
+
+//in + 时间 与将来时连用表示多长时间之后
+It would strike twelve in twenty minutes' time.
+
+happen //v.发生 主语只能是物体  = occur
+sth. happen to sb. //事情发生在某人身上
+A car accident happened to him.
+What happened to you?
+
+sb. happen to do... //某人碰巧做了某事
+I happened to be out when you called me.
+
+in time //时间范围
+on time //时间点

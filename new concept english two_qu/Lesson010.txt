@@ -102,3 +102,10 @@ order sb. to do
 prefer sb. to do
 ask sb. to do
 told sb. to do
+
+//被动语态的应用范围
+1. //及物动词
+2. //不及物动词 + 介词
+
+//他现在正在被打
+He is being beaten.
