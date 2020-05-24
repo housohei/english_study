@@ -18,3 +18,5 @@ perform //v.实施，操作
 meet sb. at //接某人
 
 get sth. in order //整理...
+
+be about to //即将，刚要，正打算
