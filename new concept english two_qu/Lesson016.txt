@@ -14,9 +14,11 @@ There is a lot of traffic on the road.
 The traffic is very heavy during the rush hour.
 traffic light //信号的
 traffic rules //交规
-traffic jam //堵车
+traffic jam/block //堵车
 traffic accident //交通事故
 traffic policeman //交警
+heavy traffic //交通拥挤
+data traffic //数据传输
 
 sign //n.
 1. //指示牌
@@ -99,3 +101,14 @@ If you study hard, you cannot fail to learn English well.
 never fail to do //总是能，总会...
 Cats never fail to fascinate human beings.
 She never fails to phone me on my birthday.
+
+fail to do sth.//没能做成
+
+//if 真实条件句
+1.//假设过去 --条件句过去的各种时态
+If tall chimneys were built above sea level, the tunnel would be well-ventilated.
+2.//假设现在 --条件句现在的各种时态
+If she is sleeping, I will call her later.
+3.//假设将来  --主将从现
+If it rains tomorrow, I will stay at home.
+If she enjoys concerts, why doesn't she come with us?

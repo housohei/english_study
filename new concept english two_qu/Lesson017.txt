@@ -16,6 +16,8 @@ It seems that dogs love to chew up money.
 appearance //n.出现，扮演，外表
 Never judge by appearances.
 
+stage fright //怯场
+
 bright
 1. //adj. 鲜艳的，醒目的
 bright blue /green /red
@@ -76,3 +78,17 @@ grown-up
 1. //adj.长大成人的
 She has two grown-up daughters.
 2. //n.成年人 =adult
+
+//情态动词 must
+1.//表示推测 --可能性，把握最大  可翻译为 “肯定，一定”
+She must be 35 years old.
+2.//推测过去
+must have done
+It must have rained last night.
+3.//表示不可避免的义务 --必须要做 = have to
+She must do it now.
+She has to do it.
+You will have to do it tomorrow.
+They had to do it yesterday.
+
+in spite of + n./代词

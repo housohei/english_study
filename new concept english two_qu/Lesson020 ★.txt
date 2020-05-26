@@ -15,8 +15,6 @@ I was caught in a traffic jam this morning.
 
 waste //n.
 Haste makes waste. //欲速则不达
-It's a waste of ... //这是浪费
-It is a waste of time / money / breath //浪费时间 / 金钱 / 唇舌
 
 waste //v.
 You're wasting your time.
@@ -98,8 +96,6 @@ less lucky //反义 luckier --单音节直接用比较级
 not even ... //甚至连...都不/没有
 He never trusts anyone -- not even his wife.
 
-give up doing = stop doing
-
 //后加动名词的动词
 enjoy / mind / consider / risk / escape / practise/practice
 I enjoy reading.
@@ -108,3 +104,18 @@ I seriously considered resigning.
 I can't risk leaving him alone.
 You can't escape being punished.
 He practices playing the piano on Saturdays.
+
+It's a waste of ... //这是浪费
+It is a waste of time / money / breath //浪费时间 / 金钱 / 唇舌
+
+//动名词
+1.//作主语
+Fishing is my favourite sport.
+2.//介词后作宾语
+I often fish for hours without caching anything.
+3.//having done --特殊的动名词，动作发生在之前
+
+give up doing = stop doing
+
+Playing tennis with my friends is my favourite sport.
+→It is my favourite sport playing tennis with friends.
