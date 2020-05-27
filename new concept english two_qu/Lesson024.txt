@@ -1,0 +1,7 @@
+be upset //处于不安的状态
+feel upset
+
+contain //包含，内装
+The envelope contained 50.
+include //抽象意义的包含
+The list included 500 people.
