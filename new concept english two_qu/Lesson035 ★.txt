@@ -79,11 +79,6 @@ He became a bus driver and he has not regretted it.
 You will regret it.
 =You will be sorry. //你会后悔的
 
-//常见的可修饰比较级的词
-//语气强：much, even, far, still, a lot
-//语气弱：a bit, a little, slightly
-//否定，疑问：any
-
 see sb. do... //看见某人做了某事 --看到全过程
 sb. be seen to do ... //被动语态 --to不能省略
 
@@ -123,3 +118,15 @@ shortly afterwards
 
 be arrested
 =be under arrest
+
+//常见的可修饰比较级的词
+//语气强：much,  far, a lot,even,still 
+The film is much/far/a lot more interesting than I thought.
+//语气弱：a bit, a little, slightly
+I think you can spend a little more money buying books.
+//否定，疑问：any
+so/such ... that ... //前后因果关系，引导结果状语从句
+
+As / While / When
+As, While //后都需接延续性动词，常用进行时态
+When //即可接延续性动词也可接短暂性动词
