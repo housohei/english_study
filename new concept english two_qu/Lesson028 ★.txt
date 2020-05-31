@@ -72,15 +72,6 @@ I like to eat fish raw.
 
 rarely //adv. = seldom
 
-trouble //n.麻烦
-ask for trouble //自找麻烦
-get into trouble //惹上麻烦
-have trouble with ... // ...让某人伤脑筋 / 头痛
-I have trouble with my trouble.
-
-have trouble doing sth. //做某事很费力很困难
-I had a lot of trouble getting tickets for the play.
-
 trouble //v.使麻烦
 Don't trouble trouble until trouble troubles you. //别自找麻烦
 
@@ -124,3 +115,19 @@ either of ... //两个中的任何一个， 谓语动词单数
 each of ... //三个以上中的任何一个，谓语动词单数
 
 not one of them = none of them
+
+trouble //n.麻烦
+ask for trouble //自找麻烦
+get into trouble //惹上麻烦
+have trouble with ... // ...让某人伤脑筋 / 头痛
+I have trouble with my trouble.
+have trouble doing sth. //做某事很费力很困难
+I had a lot of trouble getting tickets for the play.
+be in trouble
+run into trouble
+
+//定语从句注意点
+1.//关系词都作成分，包括that
+2.//whom指认，只能用作宾语成分
+3.//when/where/why引导定语从句，必须与先行词意思匹配
+4.//关系词作宾语时，可以省略

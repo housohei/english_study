@@ -1,5 +1,7 @@
 Lesson 026 
 
+arts //文科
+
 critic //n.评论家
 a music critic
 
@@ -48,23 +50,6 @@ I major in art.
 Many people pretend （that） they understand modern art. //宾语从句
 /Many people pretend to understand modern art.
 
-/** 宾语从句 **/
-//陈述句作宾语从句用that引导
-I don't know (that) he is you father.
-
-//特殊疑问句作宾语从句
-What is a picture about?
-They always tell you what a picture is about.
-
-//一般疑问句作宾语从句
-I want to know whether / if he is the manager.
-I don't know whether / if he speaks English.
-//whether 引导宾语从句时常可用if来代替，但以下情况常用whether而不是if
-1.//做介词宾语
-I worry about whether I hurt his feelings.
-2.//后跟or...结构时
-I am not sure whether I should marry John or Peter.
-
 patterns //模式
 patterns of behavior
 
@@ -106,3 +91,29 @@ Don't you want something to eat?
 But isn't it upside down?
 
 inside out //衣服穿反了
+
+/** 宾语从句 **/
+//宾语从句位置
+1.//动宾，动单宾
+2.//动宾，动双宾
+3.//介宾
+ He was astonished at what he found.
+4.//形容词+宾语从句
+
+//陈述句作宾语从句用that引导  --只有宾语从句的that可以省略，主语，同位语，表语从句不能省略
+I don't know (that) he is you father.
+
+//特殊疑问句作宾语从句
+//调整语序 --疑问句变为陈述句
+What is a picture about?
+They always tell you what a picture is about.
+
+//一般疑问句作宾语从句
+//调整语序 --疑问句变为陈述句
+I want to know whether / if he is the manager.
+I don't know whether / if he speaks English.
+//whether 引导宾语从句时常可用if来代替，但以下情况常用whether而不是if
+1.//做介词宾语
+I worry about whether I hurt his feelings.
+2.//后跟or...结构时
+I am not sure whether I should marry John or Peter.

@@ -32,8 +32,6 @@ the Chinese
 
 Only the good die young.
 
-/** 连词 **/
-
 arrive in/at
 /get to
 /reach
@@ -96,3 +94,24 @@ When I heard the news, I cried my eyes out. //夸张的说法
 both...and... //谓语动词复数
 
 either //否定句中  也
+
+/** 并列句 **/
+//并列句相同部分可以省略
+I want to quit the job and I want to start my own business.
+→I want to quit the job and to start my own business.
+Many people have received training and many people have decided to start their own business.
+→Many people have received training and decided to start their own business.
+
+but
+yet //表示转折
+
+and
+not only... but ... as well
+not only... but also ...
+not only... but ...
+
+or
+either... or ... //二选一
+
+neither ... nor ...
+He can neither read nor write.

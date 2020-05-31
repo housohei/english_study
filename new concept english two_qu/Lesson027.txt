@@ -24,7 +24,7 @@ wonderful //adj.极好的
 /fantastic
 /excellent
 
-creep //v.悄悄地爬，匍匐前进
+creep //v.悄悄地爬，匍匐前进 -crept crept
 The cat crept to the mouse.
 
 climb //强调爬上去
@@ -124,3 +124,24 @@ put down //写下来
 put off //推迟
 put away //整理，收拾
 put over // 推迟
+
+sleep slept slept
+keep kept kept
+creep crept crept
+sweep swept swept
+
+//doing表示功能，用途
+sleeping bag
+a swimming pool
+a fishing boat
+a packing case
+a waiting room
+
+wind one's way
+wind round sth.
+
+in the center of + sp.
+in the middle of + sp. /时间
+
+some time //一段时间
+sometime //某个时候
