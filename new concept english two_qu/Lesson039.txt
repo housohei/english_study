@@ -1,0 +1,10 @@
+following = coming = next
+
+exchange //n.交换
+exchange //v.交换
+
+relation = relative //亲戚
+
+so //代词
+but the doctor refused to do so. //so指代上文
+I think so.

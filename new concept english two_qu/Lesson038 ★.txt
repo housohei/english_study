@@ -41,7 +41,7 @@ for //引导原因状语从句
 even thought it was still summer, //从句里的even though引导让步状语从句
 it rained continually and it was often bitterly cold. //从句里的主句
 // for引导原因状语从句，位于主句之后，常用逗号与主句分开
-//even though "尽管" = though / although --引导让步状语从句
+//even though "尽管" = though / although --引导让步状语从句 --明让步，暗转折
 Even though he is 20, he's still like a little child.
 
 //even if "即使" --引导让步状语从句，从句中用一般时代替将来时
