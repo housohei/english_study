@@ -1,5 +1,5 @@
 risk //n.危险，风险
-take the risk of doing //冒着...的风险
+take/run the risk of doing //冒着...的风险
 I don't want to take the risk of getting fired.
 be at risk //处于危险之中
 =be in danger
@@ -9,6 +9,8 @@ risk //v.冒...危险
 risk + n. / doing ...
 The fireman risked his life to save the boy.
 If you smoke heavily, you will risk getting lung cancer.
+
+at/on the edge of ...
 
 possession //n.拥有，占有 【u】
 possessions //财产，财富
@@ -27,6 +29,8 @@ be out of breath //上气不接下气
 catch one's breath //缓口气
 hold one's breath //屏住呼吸
 save one's breath //不用废话了
+take a deep breath //深呼吸
+take one's breath away //使某人大为惊讶
 He was out of breath when he climbed the mountain, so he stopped to catch his breath.
 
 breathe //v.呼气 /briːð/
@@ -53,8 +57,8 @@ They robbed the bank of 1000.
 He stood there with his back against the wall.
 
 look forward to + n. /doing //期待去做某事
-be accustomed
-/be used to + n. /doing //习惯于做某事
+be accustomed to n. /doing //习惯于做某事
+be used to + n. /doing //习惯于做某事
 
 object to + n. /doing  //反对某事
 stick to + n. /doing //坚持做某事
@@ -68,9 +72,14 @@ cease //停止
 intend
 attempt
 
+hate to do //偶尔，临时
+hate doing //总是
+love / like / dislike //同hate用法相同
+
 //need / want / require 后 + to be done /doing 意思相同； 表示需要...
 My shirt is torn. It needs mending.
 =My shirt is torn. It needs to be mended.
+need doing sth. //需要做某事 doing主动表被动含义
 
 continue to do / doing
 =go on doing //继续不停地做同一件事

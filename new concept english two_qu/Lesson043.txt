@@ -89,3 +89,25 @@ without difficulty
 =with ease
 =easily
 =hands down
+
+-ous //adj.后缀
+serious
+
+-less //adj.否定后缀
+worthless
+
+seem + adj.  //表示不确定
+seem to do //表示不确定
+
+can / be able to
+1. //都表示能力，“能够”
+2. //be able to时态更灵活
+3. //表示过去已经成功做到用was/were able to, 不用could
+4. //can 可以表示猜测，允许
+
+//主语从句
+1. //that不能省略
+2. //只能用whether， 不能用if
+
+because / for
+1. //for表示原因时只能至于两句中间，前果后因

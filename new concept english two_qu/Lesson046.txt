@@ -12,6 +12,9 @@ Something strange happened / occurred. //发生了一件奇怪的事情
 Something strange happened to him. //他发生了一件奇怪的事
 Something strange occurred to him. //他想到了一件奇怪的事
 
+sth. occur to sb. //某人突然想起某事
+A good idea occurred to me.
+To do sth. occur to sb. ////某人突然想起去做某事
 it occurs to sb. to do ...
 it occurs to sb. that ... //某人想到做某事
 sth. hit / strike sb. //让某人想到
@@ -58,11 +61,15 @@ How do you account for it?
 Children account for 20% of the world's population.
 
 //名词性从句：主语从句，宾语从句，同位语从句，表语从句
-//同位语从句的先行词多为
-fact, news, idea, thought, reply, answer, remark, plan, possibility, question
+//同位语从句
+ 1. //一个句子做同位语，解释说明前面的名词
+ 2. //多位于所解释的抽象名词后，同位语从句的先行词多为
+   fact, news, idea, thought, reply, answer, remark, plan, possibility, question
+ 3. //that不能省略
 //连接词一般用that ， question 除外
 The question whether Tom will arrive on time is still unknown.
 The child's question why the sky is blue is hard to answer.
+
 
 be astonished at / by ...
 be amazed at / by..

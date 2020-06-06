@@ -15,15 +15,24 @@ No comment. //无可奉告
 comment on sth.
 
 //need 用法
-1. //情态动词：无人称和时态变化，多用于疑问句和否定句
+1. //情态动词：无人称和时态变化，--多用于疑问句和否定句
 1）//need + do ... //现在有无必要做某事
-You needn't hurry.
-2）//need + have done //过去有无必要做某事
-You needn't have waited for me yesterday.
+Need I finish it now?
+No, you needn't finish it now.
+2）//need + have done //过去有无必要做某事 --虚拟语气
+You needn't have waited for me yesterday. //你昨天本来不需要等我的
 Need you have been so angry with him?
+
 2. //实义动词：有人称和时态的变化
-need + n. / to do ...
-I need your help.
+need sth.
+He needs some time.
+He needed some time.
+need to do
+He needs to have a rest.
+need sb. to do
+He needs friends to help him.
+need doing //需要被做某事
+
 You don't need to no know it.
 =You needn't know it. //need 情态动词
 
@@ -43,6 +52,7 @@ needn't //没有必要
 =don't have to
 
 remind sb. of sth. ...
+remind sb. to do ...
 
 find + 宾补 //觉得
 
@@ -51,3 +61,14 @@ never ... too ...
 You can't drive too carefully on a free way.
 
 be similar to = look like
+
+look at oneself in the mirror
+
+with  / 反义without
+//表示伴随着有
+with + n. + 介词短语
+//表示伴随着有什么
+a wallet with 200 in it
+a bus with 50 people on it
+
+mustn't //禁止，不许
