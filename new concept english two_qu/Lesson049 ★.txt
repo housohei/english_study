@@ -33,7 +33,8 @@ promptly //迅速地，立即地
 =right away(now)
 =straight away
 
-/** 分词作状语 **/
+/** 分词作状语 **/ 
+//状语表示描述信息，修饰动词和句子
 //分词有形容词，副词的特征，作定语或状语
 //分词状语时相当于状语从句
 //现在分词表主动，过去分词表被动
@@ -80,3 +81,11 @@ After he had put it on the floor, he promptly went to sleep again.
 go to sleep
 =get to sleep
 =fall asleep
+
+//多个分词状语
+I walked into the classroom, taking a bag, followed by five students.
+
+/** 非谓语动词 **/
+1.//doing --主动 或当名词使用
+2.//done --被动
+3.//to do --目的
