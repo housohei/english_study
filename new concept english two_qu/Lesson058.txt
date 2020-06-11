@@ -33,7 +33,7 @@ fame //n.名声 --褒义
 
 claim //vt.战争灾难等夺去人命
 
-be said to... //据说
+be said to ... //据说
 =It is said that...
 =People / They say that...
 =Word / Rumor has is that...
@@ -71,3 +71,12 @@ in spite of / despite + n. / what 引导的宾语从句
 
 strike sb. down //使死掉
 come down with... //换上某疾病
+
+//增加，上涨
+increase, rise, grow up, go up
+//减少，下降
+decrease, decline, go down, drop, fall
+
+be said to do sht. //据说去做某事
+
+
