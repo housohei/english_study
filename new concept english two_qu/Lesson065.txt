@@ -12,10 +12,6 @@ companion //n.同伴，伙伴
 You don't need to accompany me.
 I'll keep you company.
 
-ought to = should
-ought to have done 
-=should have done //本来应该做
-
 I weigh 50 kilos. //weigh系动词
 
 fortune //n.命运，财产
@@ -55,3 +51,16 @@ let sb. off //饶恕某人
 let sb. in //让某人进来
 let sb. out
 let sb. down //让某事失望
+
+weigh //v. 重量是...; 称重
+
+ought to = should
+/** 虚拟语气 **/
+ought to have done 
+=should have done //本来应该做
+ought not ot have done
+=should not have done
+need have done
+could / would /might + have done
+
+gain weight / put on weight //增加体重

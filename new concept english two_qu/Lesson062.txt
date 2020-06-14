@@ -2,12 +2,15 @@
 
 control //n.控制
 get sth. under control
+be under control
 get out of control/hand //失控
+lose control
+be out of control
 The fire soon got out of control.
 
 threaten //v.威胁
 threaten to do ...
-threaten ... with ...
+threaten a with b //用b威胁a
 
 surrounding //adj.周围的，附近的  --作定语前置
 =nearby //adj. adv.
@@ -30,6 +33,7 @@ In winter, many people buy a large quantity of cabbages.
 
 in large/ small quantities //大量地 /少量地
 In winter, many people buy cabbages in large quantities. 
+do sth. in large / small quantities
 
 quality //n.质量
 quality of life

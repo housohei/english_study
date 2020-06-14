@@ -1,0 +1,14 @@
+-t //adj. 
+-ce //n.
+significant //adj.
+significance //n.
+
+five hundred
+hundreds of...
+
+at a cost of //花费为
+
+By the time you read this, the Hubble's eagle eye will have sent us thousands of thousands of wounderful pictures.
+//by + 时间 --表示“截止到...时间”，与完成时连用
+//by the time + 句子 --引导时间状语从句
+//by the time you read this --时间状语从句中，一般现在时表示将来

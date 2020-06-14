@@ -47,7 +47,7 @@ put forward a plan
 
 /** 虚拟语气 **/
 //表示“建议” “要求” “命令”的动词后that引导的宾语从句的谓语动词要用 （should）+ do的虚拟语气形式
-suggest, advise, demand, require, insist, order, ...
+suggest, advise, propose, recommend, ask, demand, require, insist, order, ...
 He advised that I (should) go with him.
 He insisted that I (should) stay to dinner.
 The teacher ordered that the homework (should) be finished within an hour.
@@ -72,3 +72,13 @@ If he had been more careful, he would not have made the mistake.
 a. did/were --- would / could / should / might + do
 b. should + do --- would / could / should / might + do
 c. were to + do --- would / could / should / might + do
+
+//假设现在
+//1.从句往前推 --be 一律为were
+//2.主句4 + 1 --could，would，might， should + do
+//3.将来同现在
+
+//假设过去
+//1.从句往前推 --had done
+//2.主句4 + 1 --could，would，might， should + have done
+
