@@ -20,6 +20,13 @@ avoid doing
 enjoy doing
 deny doing
 fancy doing //真没想到会...
+risk doing
+finish doing
+excuse doing
+consider doing
+practise doing
+imagine doing
+mind doing
 
 //动名词作主语
 it's no use doing //做某事没用
@@ -57,7 +64,21 @@ No matter where you go, I will follow you.
 way of doing sth.
 =way to do sth
 
-prevent sb. from doing sth.
+prevent sb. (from) doing sth. //阻止某人做某事
 
 //wonder, know, ask, show, decide, remember, gorget ...后常用 ‘疑问句’+to do 作宾语
 I was just wandering how to spend the morning.
+
+/** 动名词作定语表示功能用途 **/
+a sleeping bag
+
+//doing 动名词
+1. //作主语
+2. //介词后作宾语
+3. //有些动词后作宾语
+4. //修饰名词，作定语 --表示功能用途
+
+//doing 现在分词
+//表示主动
+
+
