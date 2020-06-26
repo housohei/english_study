@@ -1,0 +1,9 @@
+machinery //n.机器 --总类，不可数
+a piece of machinery
+machine //具体的机器 --可数
+
+be different from ...
+be the same as ...
+be similar to ...
+
+of all time //有史以来

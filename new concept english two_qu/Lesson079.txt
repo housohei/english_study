@@ -1,3 +1,10 @@
+be curious about
+be curious to do sth.
+
+be used to
+/get used to
+
+
 /**部分倒装**/
 //助动词提至主语前
 //系动词be全部倒装
@@ -19,3 +26,11 @@ Only you understand me. //不需要倒装
 not, no, neither, nor, hardly, scarcely, barely, rarely, seldom, never, not only, little, few, nowhere 等
 Never have I seen such a good movie.
 Neither can I.
+
+//部分倒装
+1. //only 置于句首
+2. //否定副词提前置于句首
+You will never know the truth.
+→Never will you know the truth.
+He cares little for my words.
+→Little does he care for my words.

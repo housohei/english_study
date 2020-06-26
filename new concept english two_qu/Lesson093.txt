@@ -1,0 +1,29 @@
+复合句
+1. 名词性
+  a.主语
+  b.宾语
+  c.表语
+  d.同位
+2. 定语从句 --形容词性从句
+  a.限定性
+  b.非限定性
+3. 状语从句 --完整句子前加从属连词
+  a.时间状语从句
+   when, while, as, before, after, since, until, as soon as...
+  b.地点状语从句
+   where
+   Stay where you are.
+  c.原因状语从句
+   because, since, as
+  d.结果状语从句
+   so/such...that, so that...
+  e.目的状语从句
+   so that..., in order that... //从句必须有情态动词
+  f.条件状语从句
+   if
+  g.让步状语从句
+   although, thought, even though, even if //明让步，暗转折
+  h.比较状语从句
+   than, as // 从句里省略谓语动词
+  i.方式状语从句
+   as, like

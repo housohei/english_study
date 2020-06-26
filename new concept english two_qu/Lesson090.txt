@@ -21,6 +21,9 @@ various //adj.各种各样的
 
 more and more 
 =increasingly //越来越多地
+fish has become increasingly expensive
+an increasing number of + n.
+a growing number of + n.
 
 less and less //越来越少
 Smoking is becoming less and less acceptable in public places.
@@ -47,6 +50,11 @@ overboard //adv.从船上落水
 
 as a result //因此
 as a result of ...//因为...
+as it turns out..
+accordingly
+therefore
+thus
+
 
 /**  独立主格 **/
 //当分词意义上的主语不是主句主语时，必须在分词前保留意义上的主语
