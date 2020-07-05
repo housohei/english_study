@@ -31,6 +31,8 @@ hou	Zxph_number_8
 
 上海社保	
 身份证号	BK_PWD_2
+上海社保卡
+Sh@096178
 
 交通卡	
 Jt0806
