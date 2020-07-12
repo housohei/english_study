@@ -161,38 +161,180 @@ with + n. + 介词短语 //表示伴随着...有什么在哪里  --without --表
 
 look like //看起来像
 
+Lesson42
+tell the difference between ... and ... //区分A和B
+
+have a + n. = v. //词需同时具备动词和名词词性
+have a walk = walk
+
+Lesson43
+lie //躺，位于，处于 -- lie lay lain lying
+lie //说谎                     -- lie lied lied lying
+lay //拜访,放置,下蛋   -- lay laid laid
+
+seem + adj. //似乎怎么
+seem to do //似乎。。。
+
+Lesson44
+take /run the risk (of...)
+
+be used to doing //习惯于
+
+hate to do //偶尔，临时
+hate doing //总是
+love / like / dislike //同hate用法相同
+
+Lesson45
+//时间状语从句一般现在时表将来
+//be said to + 原形  --据说
+
+Lesson46
+sth. occur to sb. //某人突然想起某事
+A good idea occurred to me.
+To do sth occur to sb. //某人突然想起来去做某事
+/It occurs/occurred to sb. to do sth.
+
+abnormal //不寻常，反常
+
+admit doing sth.
+
+account for ...
+1. //解释
+How do you account for it?
+2. //占...比例
+Children account for 20% of the world's population.
+
+//同位语从句
+ 1. //一个句子做同位语，解释说明前面的名词
+ 2. //多位于所解释的抽象名词后，同位语从句的先行词多为
+   fact, news, idea, thought, reply, answer, remark, plan, possibility, question
+ 3. //that不能省略
+//连接词一般用that ， question 除外
+The question whether Tom will arrive on time is still unknown.
+The child's question why the sky is blue is hard to answer.
+
+Lesson47
+suggest doing
+
+Lesson49 //分词作状语源自省略
+//时间状语从句的省略
+While he was talking with me, he broke his cup carelessly.
+=>While talking with me, he broke his cup carelessly. //省去相同的主语，和多余的谓语动词
+=>Talking with me, he broke his cup carelessly. 
+
+Because she was punished, she burst into tears.
+=>Because punished, she burst into tears.
+=>Punished, she burst into tears.
+
+//两件事主语相同，一件事写成主语，另一件事或多件事写成分词作状语
+I walked into the classroom, taking a bag, followed by five students, to teach Chinese.
+
+/** 非谓语动词 **/
+1.//doing --主动 或当名词使用
+2.//done --被动
+3.//to do --目的
+
+Lesson50 //宾语从句的省略
+take //v.花费 //主语是事,物 花费的是抽象的东西 时间，精力
+sth. take sb. some time  
+The recovery took her three years.
+The recovery took her longer than she expected.
+To do sth. takes sb. some time
+/It takes sb. some time to do sth.
+It took me ten minutes to persuade her.
+It will take me one hour to do the homework.
+
+/**  宾语从句的省略 **/
+wh- / how to do
+I'll tell you where you should get off.
+→I'll tell you where to get off.
+
+forget to do sth. //忘记了去做某事
+forget doing sth. //忘记了做了某事
+
+in that case //既然如此
+
+prefer + n. + to n.
+prefer + doing sth. + to doing sth.
+prefer + to do sth. + rather than do sth.
+prefer + //从句
+
+Lesson51
+go on //进行某事
+be on //处于某种状态 
+
+be surprised to do sth.
+
+Lesson52
+This is ... sth. I have ever seen.
+It is ...sth. I have ever seen.
+
+Lesson53
+the cause of //什么的起因
+
+adj. + (介词被省略) + //宾语从句
+
+so //代词
+I think so.
+
+Lesson54
+enough
+1.//修饰名词 可置于名词前，名词后均可
+2.//修饰形容词，副词 只能置于其后
+
+the + adj. //表示一类
+the pool
+
+sign for //签收
+
+Lesson55
+//used to do 与would do 用法区分
+1. //讲故事第一次出现时用used to.
+2. //would do 可和often, always等词连用，只表示过去习惯性的动作而不能表示过去的状态；used to do 两者都可以
+He used to be a taxi driver.
+3. //used to do 主语是人是物都可以，would do 主语只能是人
+There used to be a tree in the backyard.
+
+would do //强调反复性，常跟频率副词often, always等词连用
+
+//of +抽象名词 = 对应的adj.
+of + 名词 = 形容词
+The meeting is very important.
+=The meeting is of great importance.
+It's useless.
+of great value = very valuable
+
+Lesson56
+//表示数量
+//修饰可数名词 --大量
+many / a great many / a number of / a large number of
+
+//修饰可数名词 --少量
+a few
+few //没有剩下几个
+
+//修饰不可数名词 --大量
+much / a great deal of
+
+//修饰不可数名词 --少量
+a little
+little //没剩下多少了
+
+//两者都可以 --大量
+a lot of
+
+//比较级表示最高级
+1. //比较级 + that any...
+Health is more important than any thing.
+2. //比较级 + 否定
+Nothing is more important that health.
+
+have trouble doing sth.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+be different from ... //与...不同
+be the same as ... //与...相同
+be similar to... //与...相似
 
 
 
