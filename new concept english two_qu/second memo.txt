@@ -336,19 +336,87 @@ be different from ... //与...不同
 be the same as ... //与...相同
 be similar to... //与...相似
 
+Lesson57
+be eager for sth.
+be eager to do sth.
 
+Lesson58
+be said to do sth. //据说去做某事
 
+//强调句结构
+It is /was + 被强调部分 + that + 句子其它成分
+//被强调部分可以是除谓语/形容词或动词之外的任何句子成分
+//若被强调部分是人that可换位who/whom
 
+//强调谓语
+do/did + 谓语
+He speaks English well.
+→He does speak English well.
 
+in spite of //尽管
 
+Lesson59
+//目的的几种表达方法
+//第一类：
+to do ...
+in order to do...
+so as to do...
+//注意事项
+1. //不定式的主语需和句子主语保持一致
+I have to get up early to catch the flight.
+2. //表示“为了不”多用 so not to do 或 in order not to do, 很少用not to do
+I have to get up early so as not to miss the flight.
+3. //若前后主语不一致，则用for sb. to do...
+He bought a toy for his son to play with.
 
+//第二类
+so that...
+in order that...
+//用从句时两个主语一致不一致均可，但从句中需有can, could, will, would, might, should等情态动词
+I have to get up early so that I can/will catch the flight.
+He bought a toy so that his son could play with it.
+//从句为否定句时多用should
+He looked down so that / in order that she should not see his eyes.
 
+//目的部分在句中作表语时用to do.
+My purpose is to study English well in 6 months.
 
+Every time + //时间状语从句
 
+spend + 时间/钱 + on sth. / (in) doing sth.
 
+so that ...
+1. //结果状语从句
+He ran to the station so that he caught the train.
+2. //目的状语从句 = in order that
+He ran to the station so that he might catch the train.
 
+Lesson60
+the moment + //时间状语从句 --那一刻 =as soon as
 
+Lesson61
+at a cost of //成本为，造价为
 
+by the time + //时间状语从句
+
+//一般现在时 + 确定的时间 表将来
+My train arrives in New York at eight o'clock tonight.
+
+Lesson62
+get sth. under control //强调动作
+be under control //强调状态
+lose control //强调动作
+be out of control //强调状态
+
+threaten to do sth //威胁要做某事
+
+do sth. in large /small quantities //大量/少量做某事
+
+v. + on //表示动作继续进行
+
+in place of //替代
+
+Lesson63
 
 
 
