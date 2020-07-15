@@ -417,9 +417,35 @@ v. + on //表示动作继续进行
 in place of //替代
 
 Lesson63
+sort of / kind of //稍微，有点
 
+as //按照...方式 引导方式状语从句
+When in Rome, do as Romans do.
+Do it as I told you last week.
 
+Lesson64
+put forward //提前，提出
 
+/** 虚拟语气 **/
+//表示“建议” “要求” “命令”的动词后that引导的宾语从句的谓语动词要用 （should）+ do的虚拟语气形式
+suggest, advise, propose, recommend, 
+order,
+ask, demand, require, insist, ...
+He advised that I (should) go with him.
+He insisted that I (should) stay to dinner.
+The teacher ordered that the homework (should) be finished within an hour.
+
+His tone suggested that he didn't like the idea. //suggest 作暗示讲时不需用虚拟语气
+
+suggest doing //不用that从句，后接doing
+
+//if 虚拟语气 --假设过去
+1. //从句往前推 had done
+2. //主句4加1
+  could / would / should /might + have done
+It the British had not feared invasion, it would have been completed.
+3. //将来同现在
+If I were to live my life over again, I would have you as my wife.
 
 
 
