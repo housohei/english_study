@@ -513,16 +513,51 @@ Beaten by a girl, the boy cried. //done 只表示被动，不能表示先后顺�
 Having been beaten by a girl, the boy cried. //having been done, 表示动作发生在先
 Being beaten by a girl, the boy cried. //being done 表示动作同时发生
 
+//非谓语动词表示主动，且发生在先
+having done 
 
+Lesson70
+be unaware of... //没有意识到，没有察觉到
+be aware of ...//意识到，察觉到
 
+be sensitive to ...//对…感到敏感
 
+charge //冲上去，收费，充电
+charge at //冲向...
 
+get become turn go grow //变得 --系动词
 
+seem adj.
+seem to do sth.
+feel sorry to sb.
 
+be of + n. //用来表示人或物的特征
 
+Lesson72
+above average //平均以上
+drive at + 速度
 
+Lesson73
+in the meantime = meanwhile //与此同时
+as far as ... //最大程度的极限
 
+Lesson74
+//which /as 引导的非限定性定语从句可以修饰整个句子 --在句子中作成份
+//as 多含有“正如”的意思，谓语主句前后均可
+//which 含义没有限制，只能用于主句后
+I said nothing, which made him more angry.
+He is good at English, as / which we all know.
+/As we all know, he is good at English.
+But as they soon discovered, disguises can sometimes be too perfect.
 
+be hard on sb.
+
+as //在句子中不作成份
+1. //引导时间状语
+2. //原因状语
+3. //比较状语
+4. //方式状语
+  But he did as his daughter asked.
 
 
 
