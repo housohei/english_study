@@ -5,6 +5,9 @@ He has retired and he has gone abroad.
 yet //表示转折
 
 Lesson26 //宾语从句
+//陈述句作宾语从句用that引导  --只有宾语从句的that可以省略，主语，同位语，表语从句不能省略
+I don't know (that) he is you father.
+
 Attitude decides whether people will succeed. //态度决定人们是否会成功 --抽象名词做主语谓语动词单数
 in the same way that/as //像...一样 
 
@@ -19,7 +22,7 @@ a waiting room
 in the center of + sp.
 in the middle of + sp. /时间
 
-Lesson28 //定语从句
+Lesson28 //定语从句 --也叫形容词性从句
 have trouble with n.
 have trouble (in) doing sth.
 be in trouble
@@ -89,8 +92,8 @@ I think you can spend a little more money（in） buying books.
 
 so/such ... that ... //前后因果关系，引导结果状语从句
 
-see sb. do sth. //省略动词不定式to
-see sb. doing sth.
+see/hear sb./sth. do sth. //省略动词不定式to
+see/hear sb./sth. doing sth.
 
 be likely to do //可能
  
@@ -364,7 +367,7 @@ so as to do...
 //注意事项
 1. //不定式的主语需和句子主语保持一致
 I have to get up early to catch the flight.
-2. //表示“为了不”多用 so not to do 或 in order not to do, 很少用not to do
+2. //表示“为了不”多用 so as not to do 或 in order not to do, 很少用not to do
 I have to get up early so as not to miss the flight.
 3. //若前后主语不一致，则用for sb. to do...
 He bought a toy for his son to play with.
@@ -559,72 +562,136 @@ as //在句子中不作成份
 4. //方式状语
   But he did as his daughter asked.
 
+Lesson76
+//动名词作主语一般看作单数
+Harvesting has begun earlier than usual.
+
+finish doing
+
+Lesson78 //倒装句
+make no effort to do sth. //根本不作努力做某事
+make every effort to do sth.  //想方设法做某事
+
+on purpose //有目的地，故意地
+
+be used to doing sht. / sth. //习惯于做某事/某事
+/get used to doing sth. / sth.
+
+/**部分倒装**/
+//助动词提至主语前
+//系动词be全部倒装
+1.//so, such, well, often, only 置于句首需用部分倒装
+The weather was so fine that we all went out lying in the sun.
+→So fine was the weather that we all went out lying in the sun.
+I knew him well and he knew me well.
+→Well did I know him and well did he know me.
+We often see each other.
+→Often do we see each other.
+He realized that he was wrong only then. //直到那时他才意识到自己错了。
+→Only then did he realize that he was wrong.
+You can trust only me.
+→Only me can you trust.
+You will never know the truth.
+→Never will you know the truth.
+He cares little for my words.
+→Little does he care for my words.
+//only 修饰主语不需要倒装
+Only you understand me. //不需要倒装
+
+
+2. //否定词置于句首需要部分倒装
+not, no, neither, nor, hardly, scarcely, barely, rarely, seldom, never, not only, little, few, nowhere 等
+Never have I seen such a good movie.
+Neither can I.
+
+be curious to do //好奇做某事
+
+Lesson80
+of all time //有史以来，空前的
+
+in all //总共
+
+on the whole //总体来说
+on second thoughts //转念一想，回头一想
+
+Lesson82
+to have done //强调之前就已经完成
+It is my pleasure to help you. //这是我的荣幸去帮助你
+It is my pleasure to have helped you. //这是我的荣幸帮助了你
+
+at times //有时
+
+Lesson84
+to some extent //从某种程度上说
+last for + 时间 //持续
+
+/** it 作形式宾语 **/
+1.//当不定式或that引导的宾语从句在句中作宾语且其后跟有宾语补足语 --一般为形容词或名词时，通常会在原宾语的位置使用形式宾语it，而将真正的宾语移至句末
+2.//基本结构
+//主语 + 谓语动词 + it + 宾语补足语（adj. / n.） +真正的宾语（to do / that ...）
+I find it interesting to study English.
+He thinks it his duty to help the girl.
+I think it very strange that he goes out every night.
+I think it a pity that he failed the test.
+We knew it impossible to solve the problem smoothly.
+3.//若宾语补足语是 no use / no good / no point / a waste of ...时，真正的宾语习惯上用动名词
+I think it no use arguing with him.
+
+Lesson85
+remember sb. for sth.
+be willing to do //愿意去做某事
+
+a total of //总共
+
+Lesson86
+swim on //继续游
+
+Lesson88
+still have a long way to go
+
+//if 虚拟条件状语从句可省略if，但要倒装
+If you had joined us, we would have had more fun.
+→Had you joined us, we would have had more fun.
+If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.
+→Had there not been a hard layer of rock beneath the soil, they would have completed the job in a few hours.
+
+Lesson89
+jump the queue //插队
+
+//分裂结构
+1. //后移 --分裂结构的同位语从句，that修饰the news  --从句太长
+When the news got round that a comedy show would be presented at our local cinema by the Bird company.
+2. //插入
+Dogs, it seems, love to chew up money!
+We learn from history that we don't learn from history.
 
+Lesson90
+chip //芯片
 
+a variety of ... //多种多样的
+as a result //结果是
 
+Lesson92
+must be //推测现在
+must have done //推测过去
 
+/** 宾语从句的否定前移 **/
+//跟想法，观点，看法的动词后宾语 
+I don't think the windows need cleaning at this time of the night.
+I don't think you are wrong.
+Last year he didn't believe that the plan would fail.
 
+So do I.
 
+So/Neither + 助动词 + I. //我也是/我也不是
+I can swim.
+So can I.
 
+excuse doing
 
+Lesson94
+expert at ...//某方面的专家
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+adv. + done = adj.
+well-dressed
+specially-made
